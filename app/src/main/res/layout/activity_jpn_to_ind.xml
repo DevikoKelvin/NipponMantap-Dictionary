@@ -56,7 +56,8 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:background="@drawable/rounded_corner"
-            android:text="@string/search" />
+            android:text="@string/search"
+            android:textColor="@android:color/black" />
 
         <View
             android:layout_width="8dp"
@@ -69,7 +70,8 @@
             android:layout_gravity="center"
             android:layout_weight="1"
             android:background="@drawable/rounded_corner"
-            android:text="@string/search2" />
+            android:text="@string/search2"
+            android:textColor="@android:color/black" />
     </LinearLayout>
 
     <TextView

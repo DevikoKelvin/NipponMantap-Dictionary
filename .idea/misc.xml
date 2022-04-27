@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Coding/Android Studio Projects/NipponMantap Dictionary/app/src/main/res/layout/activity_ind_to_jpn.xml" value="0.33" />
+        <entry key="..\:/Coding/Android Studio Projects/NipponMantap Dictionary/app/src/main/res/layout/activity_ind_to_jpn.xml" value="0.17447916666666666" />
+        <entry key="..\:/Coding/Android Studio Projects/NipponMantap Dictionary/app/src/main/res/layout/activity_jpn_to_ind.xml" value="0.17447916666666666" />
+        <entry key="..\:/Coding/Android Studio Projects/NipponMantap Dictionary/app/src/main/res/layout/activity_main.xml" value="0.17447916666666666" />
+        <entry key="..\:/Coding/Android Studio Projects/NipponMantap Dictionary/app/src/main/res/layout/item_list.xml" value="0.17447916666666666" />
         <entry key="..\:/Coding/Android Studio Projects/test/app/src/main/res/layout/activity_ind_to_jpn.xml" value="0.15806159420289856" />
         <entry key="..\:/Coding/Android Studio Projects/test/app/src/main/res/layout/activity_jpn_to_ind.xml" value="0.15806159420289856" />
         <entry key="..\:/Coding/Android Studio Projects/test/app/src/main/res/layout/activity_main.xml" value="0.15806159420289856" />
