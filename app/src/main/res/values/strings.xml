@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kamus Indonesia - Jepang</string>
+    <string name="ind_jpn">Indonesia - Jepang</string>
+    <string name="jpn_ind">Jepang - Indonesia</string>
+    <string name="enter_word">Masukan sesuatu disini…</string>
+    <string name="search">Cari dengan Berry Ravindran</string>
+    <string name="search2">Cari dengan Reverse Colussi</string>
+    <string name="result">Hasil Pencarian</string>
+    <string name="br_done">Pencarian dengan Algoritma Berry Ravindran \nWaktu: %d\nDItemukan:%d</string>
+    <string name="rc_done">Pencarian dengan Algoritma Reverse Colussi\nWaktu: %d\nDitemukan:%d</string>
+    <string name="dashboard">DASHBOARD</string>
+</resources>
