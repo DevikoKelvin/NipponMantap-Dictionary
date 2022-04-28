@@ -53,7 +53,6 @@ public class IndToJpnActivity extends AppCompatActivity
             if (tieKeyword != null)
             {
                 keyword = tieKeyword.getText().toString();
-
                 if (!keyword.isEmpty())
                 {
                     getBrDataFromExcel(keyword);

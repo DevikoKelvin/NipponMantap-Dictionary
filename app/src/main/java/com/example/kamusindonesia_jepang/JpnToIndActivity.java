@@ -13,6 +13,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.kamusindonesia_jepang.databinding.ActivityJpnToIndBinding;
 import com.google.android.material.textfield.TextInputLayout;
 import com.opencsv.CSVReader;
 
@@ -25,12 +26,14 @@ import java.util.ArrayList;
 public class JpnToIndActivity extends AppCompatActivity
 {
     private ResultAdapter adapter;
+    private ActivityJpnToIndBinding bind;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_jpn_to_ind);
+        bind = ActivityJpnToIndBinding.inflate(getLayoutInflater());
+        setContentView(bind.getRoot());
 
         setTitle(R.string.jpn_ind);
         setTitleColor(R.color.white);
@@ -89,11 +92,11 @@ public class JpnToIndActivity extends AppCompatActivity
             ArrayList<Result> results = new ArrayList<>();
 
             Long startTime = System.currentTimeMillis();
-            BR berryRavindran = new BR(keyword);
+            BR BR = new BR(keyword);
 
             while ((nextLine = reader.readNext()) != null)
             {
-                if (berryRavindran.find(nextLine[1]))
+                if (BR.find(nextLine[1]))
                 {
                     Result result = new Result(
                             nextLine[1], nextLine[0], nextLine[2]
