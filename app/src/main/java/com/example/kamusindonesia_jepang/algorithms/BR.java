@@ -1,4 +1,4 @@
-package com.example.kamusindonesia_jepang;
+package com.example.kamusindonesia_jepang.algorithms;
 
 public class BR
 {
@@ -32,7 +32,7 @@ public class BR
         }
     }
 
-    boolean find(String Y)
+    public boolean find(String Y)
     {
         kalimat = Y.toLowerCase().toCharArray();
         int n = kalimat.length;

@@ -1,4 +1,4 @@
-package com.example.kamusindonesia_jepang;
+package com.example.kamusindonesia_jepang.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.DividerItemDecoration;
@@ -8,12 +8,15 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.kamusindonesia_jepang.databinding.ActivityJpnToIndBinding;
+import com.example.kamusindonesia_jepang.algorithms.BR;
+import com.example.kamusindonesia_jepang.R;
+import com.example.kamusindonesia_jepang.algorithms.RC;
+import com.example.kamusindonesia_jepang.data.Result;
+import com.example.kamusindonesia_jepang.adapters.ResultAdapter;
+import com.example.kamusindonesia_jepang.databinding.ActivityIndToJpnBinding;
 import com.google.android.material.textfield.TextInputLayout;
 import com.opencsv.CSVReader;
 
@@ -23,19 +26,19 @@ import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 
-public class JpnToIndActivity extends AppCompatActivity
+public class IndToJpnActivity extends AppCompatActivity
 {
     private ResultAdapter adapter;
-    private ActivityJpnToIndBinding bind;
+    private ActivityIndToJpnBinding bind;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        bind = ActivityJpnToIndBinding.inflate(getLayoutInflater());
+        bind = ActivityIndToJpnBinding.inflate(getLayoutInflater());
         setContentView(bind.getRoot());
 
-        setTitle(R.string.jpn_ind);
+        setTitle(R.string.ind_jpn);
         setTitleColor(R.color.white);
 
         adapter = new ResultAdapter();
@@ -96,12 +99,11 @@ public class JpnToIndActivity extends AppCompatActivity
 
             while ((nextLine = reader.readNext()) != null)
             {
-                if (BR.find(nextLine[1]))
+                if (BR.find(nextLine[0]))
                 {
                     Result result = new Result(
-                            nextLine[1], nextLine[0], nextLine[2]
+                            nextLine[0], nextLine[1], nextLine[2]
                     );
-
                     results.add(result);
                 }
             }
@@ -138,10 +140,10 @@ public class JpnToIndActivity extends AppCompatActivity
 
             while ((nextLine = reader.readNext()) != null)
             {
-                if (RC.cari(nextLine[1]))
+                if (RC.cari(nextLine[0]))
                 {
                     Result result = new Result(
-                            nextLine[1], nextLine[0], nextLine[2]
+                            nextLine[0], nextLine[1], nextLine[2]
                     );
 
                     results.add(result);

@@ -1,4 +1,4 @@
-package com.example.kamusindonesia_jepang;
+package com.example.kamusindonesia_jepang.algorithms;
 
 public class RC
 {
@@ -95,7 +95,7 @@ public class RC
         rcGs[m] = rmin[0];
     }
 
-    boolean cari(String Y)
+    public boolean cari(String Y)
     {
         int m = pattern.length;
         int i, j = 0;

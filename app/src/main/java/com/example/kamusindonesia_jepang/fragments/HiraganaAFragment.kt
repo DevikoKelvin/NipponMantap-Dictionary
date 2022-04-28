@@ -1,16 +1,15 @@
-package com.example.kamusindonesia_jepang.fragment
+package com.example.kamusindonesia_jepang.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.LinearLayout
 import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.kamusindonesia_jepang.ItemCallback
-import com.example.kamusindonesia_jepang.adapter.HiraganaAdapter
+import com.example.kamusindonesia_jepang.adapters.HiraganaAdapter
 import com.example.kamusindonesia_jepang.data.HiraganaEntity
 import com.example.kamusindonesia_jepang.databinding.FragmentHiraganaABinding
 import com.example.kamusindonesia_jepang.viewmodel.MainViewModel

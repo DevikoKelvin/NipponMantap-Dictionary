@@ -1,9 +1,9 @@
-package com.example.kamusindonesia_jepang.activity
+package com.example.kamusindonesia_jepang.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.kamusindonesia_jepang.R
-import com.example.kamusindonesia_jepang.adapter.SectionPagerAdapter
+import com.example.kamusindonesia_jepang.adapters.SectionPagerAdapter
 import com.example.kamusindonesia_jepang.databinding.ActivityHiraganaBinding
 import com.google.android.material.tabs.TabLayoutMediator
 

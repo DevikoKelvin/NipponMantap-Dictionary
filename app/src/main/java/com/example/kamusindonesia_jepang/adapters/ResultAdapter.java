@@ -1,4 +1,4 @@
-package com.example.kamusindonesia_jepang;
+package com.example.kamusindonesia_jepang.adapters;
 
 import android.annotation.SuppressLint;
 import android.view.LayoutInflater;
@@ -8,6 +8,9 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.kamusindonesia_jepang.R;
+import com.example.kamusindonesia_jepang.data.Result;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package com.example.kamusindonesia_jepang;
+package com.example.kamusindonesia_jepang.data;
 
 public class Result
 {

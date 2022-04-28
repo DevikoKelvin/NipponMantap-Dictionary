@@ -1,10 +1,10 @@
-package com.example.kamusindonesia_jepang.adapter
+package com.example.kamusindonesia_jepang.adapters
 
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.viewpager2.adapter.FragmentStateAdapter
-import com.example.kamusindonesia_jepang.fragment.HiraganaAFragment
-import com.example.kamusindonesia_jepang.fragment.HiraganaIFragment
+import com.example.kamusindonesia_jepang.fragments.HiraganaAFragment
+import com.example.kamusindonesia_jepang.fragments.HiraganaIFragment
 
 class SectionPagerAdapter(act : AppCompatActivity) :
     FragmentStateAdapter(act)

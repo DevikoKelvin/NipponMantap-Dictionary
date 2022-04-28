@@ -1,4 +1,4 @@
-package com.example.kamusindonesia_jepang.activity
+package com.example.kamusindonesia_jepang.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

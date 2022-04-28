@@ -1,4 +1,4 @@
-package com.example.kamusindonesia_jepang.adapter
+package com.example.kamusindonesia_jepang.adapters
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

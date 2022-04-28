@@ -1,52 +1,45 @@
-package com.example.kamusindonesia_jepang;
+package com.example.kamusindonesia_jepang.activities;
 
+import android.os.Bundle;
+import android.widget.EditText;
+import android.widget.LinearLayout;
+import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
 
-import android.os.Bundle;
-import android.widget.Button;
-import android.widget.EditText;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
-import android.widget.TextView;
-import android.widget.Toast;
-
-import com.example.kamusindonesia_jepang.databinding.ActivityIndToJpnBinding;
-import com.google.android.material.textfield.TextInputLayout;
+import com.example.kamusindonesia_jepang.algorithms.BR;
+import com.example.kamusindonesia_jepang.R;
+import com.example.kamusindonesia_jepang.algorithms.RC;
+import com.example.kamusindonesia_jepang.data.Result;
+import com.example.kamusindonesia_jepang.adapters.ResultAdapter;
+import com.example.kamusindonesia_jepang.databinding.ActivityJpnToIndBinding;
 import com.opencsv.CSVReader;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 
-public class IndToJpnActivity extends AppCompatActivity
+public class JpnToIndActivity extends AppCompatActivity
 {
     private ResultAdapter adapter;
-    private ActivityIndToJpnBinding bind;
+    private ActivityJpnToIndBinding bind;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        bind = ActivityIndToJpnBinding.inflate(getLayoutInflater());
+        bind = ActivityJpnToIndBinding.inflate(getLayoutInflater());
         setContentView(bind.getRoot());
 
-        setTitle(R.string.ind_jpn);
-        setTitleColor(R.color.white);
+        setTitle(R.string.jpn_ind);
 
         adapter = new ResultAdapter();
 
-        TextInputLayout tilKeyword = findViewById(R.id.til_keyword);
-        EditText tieKeyword = tilKeyword.getEditText();
-        Button searchBerryBtn = findViewById(R.id.btn_search);
-        Button searchRcBtn = findViewById(R.id.btn_search2);
-        RecyclerView resultRv = findViewById(R.id.rv_result);
+        EditText tieKeyword = bind.tilKeyword.getEditText();
 
-        searchBerryBtn.setOnClickListener(view ->
+        bind.btnSearch.setOnClickListener(view ->
         {
             String keyword;
 
@@ -60,7 +53,7 @@ public class IndToJpnActivity extends AppCompatActivity
             }
         });
 
-        searchRcBtn.setOnClickListener(view ->
+        bind.btnSearch2.setOnClickListener(view ->
         {
             String keyword;
 
@@ -75,9 +68,9 @@ public class IndToJpnActivity extends AppCompatActivity
             }
         });
 
-        resultRv.setAdapter(adapter);
-        resultRv.setLayoutManager(new LinearLayoutManager(this));
-        resultRv.addItemDecoration(new DividerItemDecoration(this, LinearLayout.VERTICAL));
+        bind.rvResult.setAdapter(adapter);
+        bind.rvResult.setLayoutManager(new LinearLayoutManager(this));
+        bind.rvResult.addItemDecoration(new DividerItemDecoration(this, LinearLayout.VERTICAL));
     }
 
     private void getBrDataFromExcel(String keyword)
@@ -96,11 +89,12 @@ public class IndToJpnActivity extends AppCompatActivity
 
             while ((nextLine = reader.readNext()) != null)
             {
-                if (BR.find(nextLine[0]))
+                if (BR.find(nextLine[1]))
                 {
                     Result result = new Result(
-                            nextLine[0], nextLine[1], nextLine[2]
+                            nextLine[1], nextLine[0], nextLine[2]
                     );
+
                     results.add(result);
                 }
             }
@@ -137,10 +131,10 @@ public class IndToJpnActivity extends AppCompatActivity
 
             while ((nextLine = reader.readNext()) != null)
             {
-                if (RC.cari(nextLine[0]))
+                if (RC.cari(nextLine[1]))
                 {
                     Result result = new Result(
-                            nextLine[0], nextLine[1], nextLine[2]
+                            nextLine[1], nextLine[0], nextLine[2]
                     );
 
                     results.add(result);
