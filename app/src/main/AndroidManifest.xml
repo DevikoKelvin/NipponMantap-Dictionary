@@ -12,12 +12,8 @@
         android:theme="@style/Theme.KamusIndonesiaJepang"
         tools:ignore="LockedOrientationActivity">
         <activity
-<<<<<<< Updated upstream
             android:name=".activities.HiraganaActivity"
-=======
-            android:name=".activity.HiraganaActivity"
-            android:parentActivityName=".activity.MainActivity"
->>>>>>> Stashed changes
+            android:parentActivityName=".activities.MainActivity"
             android:exported="false" />
         <activity
             android:name=".activities.SplashScreenActivity"
