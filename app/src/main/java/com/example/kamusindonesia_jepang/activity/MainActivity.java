@@ -1,11 +1,13 @@
-package com.example.kamusindonesia_jepang;
+package com.example.kamusindonesia_jepang.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.widget.Button;
 
+import com.example.kamusindonesia_jepang.IndToJpnActivity;
+import com.example.kamusindonesia_jepang.JpnToIndActivity;
+import com.example.kamusindonesia_jepang.activity.HiraganaActivity;
 import com.example.kamusindonesia_jepang.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity

@@ -1,4 +1,4 @@
-package com.example.kamusindonesia_jepang
+package com.example.kamusindonesia_jepang.activity
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -7,6 +7,7 @@ import android.os.Handler
 import android.os.Looper
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
+import com.example.kamusindonesia_jepang.R
 import com.example.kamusindonesia_jepang.databinding.ActivitySplashScreenBinding
 
 class SplashScreenActivity : AppCompatActivity() {

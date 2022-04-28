@@ -9,4 +9,10 @@
     <string name="br_done">Pencarian dengan Algoritma Berry Ravindran \nWaktu: %d\nDItemukan:%d</string>
     <string name="rc_done">Pencarian dengan Algoritma Reverse Colussi\nWaktu: %d\nDitemukan:%d</string>
     <string name="dashboard">DASHBOARD</string>
+    <string name="a">A</string>
+    <string name="i">I</string>
+    <string name="u">U</string>
+    <string name="e">E</string>
+    <string name="o">O</string>
+    <string name="hiragana">Hiragana</string>
 </resources>
