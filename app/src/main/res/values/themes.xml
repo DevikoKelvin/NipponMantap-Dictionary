@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.KamusIndonesiaJepang" parent="Theme.MaterialComponents.DayNight">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/soft_pink</item>
-        <item name="colorPrimaryVariant">@color/imperial</item>
+        <item name="colorPrimary">@color/blue_sky</item>
+        <item name="colorPrimaryVariant">#0040FF</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>

@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SplashScreenActivity"
-    android:background="@color/indian_red">
+    android:background="@color/blue_sky"
+    tools:context=".SplashScreenActivity">
 
     <ImageView
         android:id="@+id/logo"
@@ -16,7 +16,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.40000000"/>
+        app:layout_constraintVertical_bias="0.40000000" />
 
     <TextView
         android:id="@+id/txtLogo"
