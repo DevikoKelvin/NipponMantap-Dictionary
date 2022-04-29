@@ -5,7 +5,7 @@ import androidx.fragment.app.Fragment
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import com.example.kamusindonesia_jepang.fragments.*
 
-class SectionPagerAdapter(act : AppCompatActivity) :
+class HiraganaPagerAdapter(act : AppCompatActivity) :
     FragmentStateAdapter(act)
 {
     override fun createFragment(position : Int) : Fragment = when (position)

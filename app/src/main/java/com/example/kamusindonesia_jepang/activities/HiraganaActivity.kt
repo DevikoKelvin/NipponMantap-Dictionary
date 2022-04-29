@@ -3,7 +3,7 @@ package com.example.kamusindonesia_jepang.activities
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.kamusindonesia_jepang.R
-import com.example.kamusindonesia_jepang.adapters.SectionPagerAdapter
+import com.example.kamusindonesia_jepang.adapters.HiraganaPagerAdapter
 import com.example.kamusindonesia_jepang.databinding.ActivityHiraganaBinding
 import com.google.android.material.tabs.TabLayoutMediator
 
@@ -23,7 +23,7 @@ class HiraganaActivity : AppCompatActivity() {
 
         supportActionBar?.title = getString(R.string.hiragana)
 
-        binding.viewPager.adapter = SectionPagerAdapter(this)
+        binding.viewPager.adapter = HiraganaPagerAdapter(this)
         TabLayoutMediator(binding.tabs, binding.viewPager)
         { tab, position ->
             tab.text = resources.getString(tabTitle[position])

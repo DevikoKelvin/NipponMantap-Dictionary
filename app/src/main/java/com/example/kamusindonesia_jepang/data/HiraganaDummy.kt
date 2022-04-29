@@ -10,7 +10,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "A",
-                R.drawable.a,
+                R.drawable.hir_a,
                 "a"
             )
         )
@@ -18,7 +18,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "KA",
-                R.drawable.ka,
+                R.drawable.hir_ka,
                 "ka"
             )
         )
@@ -26,7 +26,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "SA",
-                R.drawable.sa,
+                R.drawable.hir_sa,
                 "sa"
             )
         )
@@ -34,7 +34,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "TA",
-                R.drawable.ta,
+                R.drawable.hir_ta,
                 "ta"
             )
         )
@@ -42,7 +42,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "NA",
-                R.drawable.na,
+                R.drawable.hir_na,
                 "na"
             )
         )
@@ -50,7 +50,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "HA",
-                R.drawable.ha,
+                R.drawable.hir_ha,
                 "ha"
             )
         )
@@ -58,7 +58,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "MA",
-                R.drawable.ma,
+                R.drawable.hir_ma,
                 "ma"
             )
         )
@@ -66,7 +66,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "YA",
-                R.drawable.ya,
+                R.drawable.hir_ya,
                 "ya"
             )
         )
@@ -74,7 +74,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "RA",
-                R.drawable.ra,
+                R.drawable.hir_ra,
                 "ra"
             )
         )
@@ -82,7 +82,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "WA",
-                R.drawable.wa,
+                R.drawable.hir_wa,
                 "wa"
             )
         )
@@ -90,7 +90,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "GA",
-                R.drawable.ga,
+                R.drawable.hir_ga,
                 "ga"
             )
         )
@@ -98,7 +98,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "ZA",
-                R.drawable.za,
+                R.drawable.hir_za,
                 "za"
             )
         )
@@ -106,7 +106,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "DA",
-                R.drawable.da,
+                R.drawable.hir_da,
                 "da"
             )
         )
@@ -114,7 +114,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "BA",
-                R.drawable.ba,
+                R.drawable.hir_ba,
                 "ba"
             )
         )
@@ -122,7 +122,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "PA",
-                R.drawable.pa,
+                R.drawable.hir_pa,
                 "pa"
             )
         )
@@ -130,7 +130,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "KYA",
-                R.drawable.kya,
+                R.drawable.hir_kya,
                 "kya"
             )
         )
@@ -138,7 +138,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "SHA",
-                R.drawable.sha,
+                R.drawable.hir_sha,
                 "sha"
             )
         )
@@ -146,7 +146,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "CHA",
-                R.drawable.cha,
+                R.drawable.hir_cha,
                 "cha"
             )
         )
@@ -154,7 +154,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "NYA",
-                R.drawable.nya,
+                R.drawable.hir_nya,
                 "nya"
             )
         )
@@ -162,7 +162,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "HYA",
-                R.drawable.hya,
+                R.drawable.hir_hya,
                 "hya"
             )
         )
@@ -170,7 +170,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "MYA",
-                R.drawable.mya,
+                R.drawable.hir_mya,
                 "mya"
             )
         )
@@ -178,7 +178,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "RYA",
-                R.drawable.rya,
+                R.drawable.hir_rya,
                 "rya"
             )
         )
@@ -186,7 +186,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "GYA",
-                R.drawable.gya,
+                R.drawable.hir_gya,
                 "gya"
             )
         )
@@ -194,7 +194,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "JA",
-                R.drawable.ja,
+                R.drawable.hir_ja,
                 "ja"
             )
         )
@@ -202,7 +202,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "BYA",
-                R.drawable.bya,
+                R.drawable.hir_bya,
                 "bya"
             )
         )
@@ -210,7 +210,7 @@ object HiraganaDummy {
         hiraganaA.add(
             HiraganaEntity(
                 "PYA",
-                R.drawable.pya,
+                R.drawable.hir_pya,
                 "pya"
             )
         )
@@ -223,7 +223,7 @@ object HiraganaDummy {
         hiraganaI.add(
             HiraganaEntity(
                 "I",
-                R.drawable.i,
+                R.drawable.hir_i,
                 "i"
             )
         )
@@ -231,7 +231,7 @@ object HiraganaDummy {
         hiraganaI.add(
             HiraganaEntity(
                 "KI",
-                R.drawable.ki,
+                R.drawable.hir_ki,
                 "ki"
             )
         )
@@ -239,7 +239,7 @@ object HiraganaDummy {
         hiraganaI.add(
             HiraganaEntity(
                 "SHI",
-                R.drawable.shi,
+                R.drawable.hir_shi,
                 "shi"
             )
         )
@@ -247,7 +247,7 @@ object HiraganaDummy {
         hiraganaI.add(
             HiraganaEntity(
                 "CHI",
-                R.drawable.chi,
+                R.drawable.hir_chi,
                 "chi"
             )
         )
@@ -255,7 +255,7 @@ object HiraganaDummy {
         hiraganaI.add(
             HiraganaEntity(
                 "ni",
-                R.drawable.ni,
+                R.drawable.hir_ni,
                 "ni"
             )
         )
@@ -263,7 +263,7 @@ object HiraganaDummy {
         hiraganaI.add(
             HiraganaEntity(
                 "HI",
-                R.drawable.hi,
+                R.drawable.hir_hi,
                 "hi"
             )
         )
@@ -271,7 +271,7 @@ object HiraganaDummy {
         hiraganaI.add(
             HiraganaEntity(
                 "MI",
-                R.drawable.mi,
+                R.drawable.hir_mi,
                 "mi"
             )
         )
@@ -279,7 +279,7 @@ object HiraganaDummy {
         hiraganaI.add(
             HiraganaEntity(
                 "RI",
-                R.drawable.ri,
+                R.drawable.hir_ri,
                 "ri"
             )
         )
@@ -287,7 +287,7 @@ object HiraganaDummy {
         hiraganaI.add(
             HiraganaEntity(
                 "GI",
-                R.drawable.gi,
+                R.drawable.hir_gi,
                 "gi"
             )
         )
@@ -295,7 +295,7 @@ object HiraganaDummy {
         hiraganaI.add(
             HiraganaEntity(
                 "JI",
-                R.drawable.ji,
+                R.drawable.hir_ji,
                 "ji"
             )
         )
@@ -303,7 +303,7 @@ object HiraganaDummy {
         hiraganaI.add(
             HiraganaEntity(
                 "JI2",
-                R.drawable.ji2,
+                R.drawable.hir_ji2,
                 "ji"
             )
         )
@@ -311,7 +311,7 @@ object HiraganaDummy {
         hiraganaI.add(
             HiraganaEntity(
                 "PI",
-                R.drawable.pi,
+                R.drawable.hir_pi,
                 "pi"
             )
         )
@@ -324,7 +324,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "U",
-                R.drawable.u,
+                R.drawable.hir_u,
                 "u"
             )
         )
@@ -332,7 +332,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "KU",
-                R.drawable.ku,
+                R.drawable.hir_ku,
                 "ku"
             )
         )
@@ -340,7 +340,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "SU",
-                R.drawable.su,
+                R.drawable.hir_su,
                 "su"
             )
         )
@@ -348,7 +348,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "TSU",
-                R.drawable.tsu,
+                R.drawable.hir_tsu,
                 "tsu"
             )
         )
@@ -356,7 +356,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "NU",
-                R.drawable.nu,
+                R.drawable.hir_nu,
                 "nu"
             )
         )
@@ -364,7 +364,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "FU",
-                R.drawable.fu,
+                R.drawable.hir_fu,
                 "fu"
             )
         )
@@ -372,7 +372,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "MU",
-                R.drawable.mu,
+                R.drawable.hir_mu,
                 "mu"
             )
         )
@@ -380,7 +380,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "YU",
-                R.drawable.yu,
+                R.drawable.hir_yu,
                 "yu"
             )
         )
@@ -388,7 +388,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "RU",
-                R.drawable.ru,
+                R.drawable.hir_ru,
                 "ru"
             )
         )
@@ -396,7 +396,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "O",
-                R.drawable.o,
+                R.drawable.hir_o,
                 "o"
             )
         )
@@ -405,7 +405,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "GU",
-                R.drawable.gu,
+                R.drawable.hir_gu,
                 "gu"
             )
         )
@@ -413,7 +413,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "ZU",
-                R.drawable.zu,
+                R.drawable.hir_zu,
                 "zu"
             )
         )
@@ -421,7 +421,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "ZU2",
-                R.drawable.zu2,
+                R.drawable.hir_zu2,
                 "zu"
             )
         )
@@ -429,7 +429,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "BU",
-                R.drawable.bu,
+                R.drawable.hir_bu,
                 "bu"
             )
         )
@@ -437,7 +437,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "PU",
-                R.drawable.pu,
+                R.drawable.hir_pu,
                 "pu"
             )
         )
@@ -445,7 +445,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "KYU",
-                R.drawable.kyu,
+                R.drawable.hir_kyu,
                 "kyu"
             )
         )
@@ -453,7 +453,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "SHU",
-                R.drawable.shu,
+                R.drawable.hir_shu,
                 "shu"
             )
         )
@@ -461,7 +461,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "CHU",
-                R.drawable.chu,
+                R.drawable.hir_chu,
                 "chu"
             )
         )
@@ -469,7 +469,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "NYU",
-                R.drawable.nyu,
+                R.drawable.hir_nyu,
                 "nyu"
             )
         )
@@ -477,7 +477,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "HYU",
-                R.drawable.hyu,
+                R.drawable.hir_hyu,
                 "hyu"
             )
         )
@@ -485,7 +485,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "MYU",
-                R.drawable.myu,
+                R.drawable.hir_myu,
                 "myu"
             )
         )
@@ -493,7 +493,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "RYU",
-                R.drawable.ryu,
+                R.drawable.hir_ryu,
                 "ryu"
             )
         )
@@ -501,7 +501,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "GYU",
-                R.drawable.gyu,
+                R.drawable.hir_gyu,
                 "gyu"
             )
         )
@@ -509,7 +509,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "JU",
-                R.drawable.ju,
+                R.drawable.hir_ju,
                 "ju"
             )
         )
@@ -517,7 +517,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "BYU",
-                R.drawable.byu,
+                R.drawable.hir_byu,
                 "byu"
             )
         )
@@ -525,7 +525,7 @@ object HiraganaDummy {
         hiraganaU.add(
             HiraganaEntity(
                 "PYU",
-                R.drawable.pyu,
+                R.drawable.hir_pyu,
                 "pyu"
             )
         )
@@ -538,7 +538,7 @@ object HiraganaDummy {
         hiraganaE.add(
             HiraganaEntity(
                 "E",
-                R.drawable.e,
+                R.drawable.hir_e,
                 "e"
             )
         )
@@ -546,7 +546,7 @@ object HiraganaDummy {
         hiraganaE.add(
             HiraganaEntity(
                 "KE",
-                R.drawable.ke,
+                R.drawable.hir_ke,
                 "ke"
             )
         )
@@ -554,7 +554,7 @@ object HiraganaDummy {
         hiraganaE.add(
             HiraganaEntity(
                 "SE",
-                R.drawable.se,
+                R.drawable.hir_se,
                 "se"
             )
         )
@@ -562,7 +562,7 @@ object HiraganaDummy {
         hiraganaE.add(
             HiraganaEntity(
                 "TE",
-                R.drawable.te,
+                R.drawable.hir_te,
                 "te"
             )
         )
@@ -570,7 +570,7 @@ object HiraganaDummy {
         hiraganaE.add(
             HiraganaEntity(
                 "ne",
-                R.drawable.ne,
+                R.drawable.hir_ne,
                 "ne"
             )
         )
@@ -578,7 +578,7 @@ object HiraganaDummy {
         hiraganaE.add(
             HiraganaEntity(
                 "HE",
-                R.drawable.he,
+                R.drawable.hir_he,
                 "he"
             )
         )
@@ -586,7 +586,7 @@ object HiraganaDummy {
         hiraganaE.add(
             HiraganaEntity(
                 "ME",
-                R.drawable.me,
+                R.drawable.hir_me,
                 "me"
             )
         )
@@ -594,7 +594,7 @@ object HiraganaDummy {
         hiraganaE.add(
             HiraganaEntity(
                 "RE",
-                R.drawable.re,
+                R.drawable.hir_re,
                 "re"
             )
         )
@@ -602,7 +602,7 @@ object HiraganaDummy {
         hiraganaE.add(
             HiraganaEntity(
                 "GE",
-                R.drawable.ge,
+                R.drawable.hir_ge,
                 "ge"
             )
         )
@@ -610,7 +610,7 @@ object HiraganaDummy {
         hiraganaE.add(
             HiraganaEntity(
                 "ZE",
-                R.drawable.ze,
+                R.drawable.hir_ze,
                 "ze"
             )
         )
@@ -618,7 +618,7 @@ object HiraganaDummy {
         hiraganaE.add(
             HiraganaEntity(
                 "DE",
-                R.drawable.de,
+                R.drawable.hir_de,
                 "de"
             )
         )
@@ -626,7 +626,7 @@ object HiraganaDummy {
         hiraganaE.add(
             HiraganaEntity(
                 "BE",
-                R.drawable.be,
+                R.drawable.hir_be,
                 "be"
             )
         )
@@ -634,7 +634,7 @@ object HiraganaDummy {
         hiraganaE.add(
             HiraganaEntity(
                 "PE",
-                R.drawable.pe,
+                R.drawable.hir_pe,
                 "pe"
             )
         )
@@ -648,7 +648,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "O",
-                R.drawable.o,
+                R.drawable.hir_o,
                 "o"
             )
         )
@@ -656,7 +656,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "KO",
-                R.drawable.ko,
+                R.drawable.hir_ko,
                 "ko"
             )
         )
@@ -664,7 +664,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "SO",
-                R.drawable.so,
+                R.drawable.hir_so,
                 "so"
             )
         )
@@ -672,7 +672,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "TO",
-                R.drawable.to,
+                R.drawable.hir_to,
                 "to"
             )
         )
@@ -680,7 +680,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "NO",
-                R.drawable.no,
+                R.drawable.hir_no,
                 "no"
             )
         )
@@ -688,7 +688,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "HO",
-                R.drawable.ho,
+                R.drawable.hir_ho,
                 "ho"
             )
         )
@@ -696,7 +696,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "MO",
-                R.drawable.mo,
+                R.drawable.hir_mo,
                 "mo"
             )
         )
@@ -704,7 +704,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "YO",
-                R.drawable.yo,
+                R.drawable.hir_yo,
                 "yo"
             )
         )
@@ -712,7 +712,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "RO",
-                R.drawable.ro,
+                R.drawable.hir_ro,
                 "ro"
             )
         )
@@ -720,7 +720,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "N",
-                R.drawable.n,
+                R.drawable.hir_n,
                 "n"
             )
         )
@@ -728,7 +728,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "GO",
-                R.drawable.go,
+                R.drawable.hir_go,
                 "go"
             )
         )
@@ -736,7 +736,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "ZO",
-                R.drawable.zo,
+                R.drawable.hir_zo,
                 "zo"
             )
         )
@@ -744,7 +744,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "BO",
-                R.drawable.bo,
+                R.drawable.hir_bo,
                 "bo"
             )
         )
@@ -752,7 +752,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "PO",
-                R.drawable.po,
+                R.drawable.hir_po,
                 "po"
             )
         )
@@ -760,7 +760,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "KYO",
-                R.drawable.kyo,
+                R.drawable.hir_kyo,
                 "kyo"
             )
         )
@@ -768,7 +768,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "SHO",
-                R.drawable.sho,
+                R.drawable.hir_sho,
                 "sho"
             )
         )
@@ -776,7 +776,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "CHO",
-                R.drawable.cho,
+                R.drawable.hir_cho,
                 "cho"
             )
         )
@@ -784,7 +784,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "NYO",
-                R.drawable.nyo,
+                R.drawable.hir_nyo,
                 "nyo"
             )
         )
@@ -792,7 +792,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "HYO",
-                R.drawable.hyo,
+                R.drawable.hir_hyo,
                 "hyo"
             )
         )
@@ -800,7 +800,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "MYO",
-                R.drawable.myo,
+                R.drawable.hir_myo,
                 "myo"
             )
         )
@@ -808,7 +808,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "RYO",
-                R.drawable.ryo,
+                R.drawable.hir_ryo,
                 "ryo"
             )
         )
@@ -816,7 +816,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "GYO",
-                R.drawable.gyo,
+                R.drawable.hir_gyo,
                 "gyo"
             )
         )
@@ -824,7 +824,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "JO",
-                R.drawable.jo,
+                R.drawable.hir_jo,
                 "jo"
             )
         )
@@ -832,7 +832,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "BYO",
-                R.drawable.byo,
+                R.drawable.hir_byo,
                 "byo"
             )
         )
@@ -840,7 +840,7 @@ object HiraganaDummy {
         hiraganaO.add(
             HiraganaEntity(
                 "PYO",
-                R.drawable.pyo,
+                R.drawable.hir_pyo,
                 "pyo"
             )
         )

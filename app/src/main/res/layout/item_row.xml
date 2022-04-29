@@ -28,7 +28,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             tools:ignore="ContentDescription"
-            tools:src="@drawable/a"/>
+            tools:src="@drawable/hir_a"/>
 
         <TextView
             android:id="@+id/img_keterangan"
