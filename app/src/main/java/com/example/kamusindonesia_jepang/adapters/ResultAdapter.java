@@ -1,6 +1,7 @@
 package com.example.kamusindonesia_jepang.adapters;
 
 import android.annotation.SuppressLint;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -22,9 +23,19 @@ public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ResultHold
     @Override
     public ResultHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType)
     {
+        int set_layout;
         LayoutInflater inflater = LayoutInflater.from(parent.getContext());
-        View view = inflater.inflate(R.layout.ind_to_jpn_item_list, parent, false);
 
+        if (parent.getContext().toString().contains("IndToJpn"))
+        {
+            set_layout = R.layout.ind_to_jpn_item_list;
+        }
+        else
+        {
+            set_layout = R.layout.jpn_to_ind_item_list;
+        }
+
+        View view = inflater.inflate(set_layout, parent, false);
         return new ResultHolder(view);
     }
 
