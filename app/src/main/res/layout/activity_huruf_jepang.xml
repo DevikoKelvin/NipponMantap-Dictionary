@@ -10,8 +10,8 @@
 
     <androidx.cardview.widget.CardView
         android:id="@+id/btn_hiragana"
-        android:layout_width="0dp"
-        android:layout_height="125dp"
+        android:layout_width="353dp"
+        android:layout_height="122dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="32dp"
         android:clickable="true"
@@ -101,6 +101,7 @@
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_marginEnd="16dp"
+                android:layout_marginBottom="8dp"
                 android:src="@drawable/gb_icon_katakana"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
