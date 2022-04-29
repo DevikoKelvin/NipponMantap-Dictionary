@@ -20,6 +20,7 @@
         <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/activity_hiragana.xml" value="0.16574074074074074" />
         <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/activity_huruf_jepang.xml" value="0.2" />
         <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/activity_jpn_to_ind.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/activity_katakana.xml" value="0.2" />
         <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
         <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/fragment_hiragana_a.xml" value="0.2" />
@@ -27,6 +28,11 @@
         <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/fragment_hiragana_i.xml" value="0.2" />
         <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/fragment_hiragana_o.xml" value="0.1859375" />
         <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/fragment_hiragana_u.xml" value="0.2" />
+        <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/fragment_katakana_a.xml" value="0.2" />
+        <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/fragment_katakana_e.xml" value="0.2" />
+        <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/fragment_katakana_i.xml" value="0.2" />
+        <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/fragment_katakana_o.xml" value="0.2" />
+        <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/fragment_katakana_u.xml" value="0.2" />
         <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/ind_to_jpn_item_list.xml" value="0.2" />
         <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/item_row.xml" value="0.2" />
         <entry key="..\:/Users/triwa/Documents/GitHub/NipponMantap-Dictionary/app/src/main/res/layout/jpn_to_ind_item_list.xml" value="0.2" />

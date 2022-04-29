@@ -4,7 +4,7 @@ import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
 
 @Parcelize
-class HiraganaEntity (
+class HurufEntity (
     val id: String,
     val imgPoster: Int,
     val description: String

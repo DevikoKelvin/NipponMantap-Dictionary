@@ -5,14 +5,14 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.kamusindonesia_jepang.ItemCallback
-import com.example.kamusindonesia_jepang.data.HiraganaEntity
+import com.example.kamusindonesia_jepang.data.HurufEntity
 import com.example.kamusindonesia_jepang.databinding.ItemRowBinding
 
-class HiraganaAdapter(private val callback: ItemCallback) : RecyclerView.Adapter<HiraganaAdapter.ListViewHolder>() {
+class HurufAdapter(private val callback: ItemCallback) : RecyclerView.Adapter<HurufAdapter.ListViewHolder>() {
 
-    private val listData = ArrayList<HiraganaEntity>()
+    private val listData = ArrayList<HurufEntity>()
 
-    fun setData(data: List<HiraganaEntity>?) {
+    fun setData(data: List<HurufEntity>?) {
         if (data.isNullOrEmpty()) return
         listData.clear()
         listData.addAll(data)
@@ -31,7 +31,7 @@ class HiraganaAdapter(private val callback: ItemCallback) : RecyclerView.Adapter
     override fun getItemCount(): Int = listData.size
 
     inner class ListViewHolder(private val binding: ItemRowBinding) : RecyclerView.ViewHolder(binding.root){
-        fun bind(data: HiraganaEntity){
+        fun bind(data: HurufEntity){
             with(binding){
                 Glide.with(itemView.context)
                     .load(data.imgPoster)

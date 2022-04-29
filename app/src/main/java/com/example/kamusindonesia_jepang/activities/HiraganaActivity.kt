@@ -10,7 +10,7 @@ import com.google.android.material.tabs.TabLayoutMediator
 class HiraganaActivity : AppCompatActivity() {
 
     companion object{
-        private val tabTitle = intArrayOf(
+        val tabTitle = intArrayOf(
             R.string.a, R.string.i, R.string.u, R.string.e, R.string.o
         )
     }

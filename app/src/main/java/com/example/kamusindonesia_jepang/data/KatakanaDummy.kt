@@ -2,818 +2,817 @@ package com.example.kamusindonesia_jepang.data
 
 import com.example.kamusindonesia_jepang.R
 
-object HiraganaDummy {
+object KatakanaDummy {
+    fun generateDummyKatakanaA() : List<HurufEntity>{
+        val katakanaA = ArrayList<HurufEntity>()
 
-    fun generateDummyHiraganaA() : List<HurufEntity>{
-        val hiraganaA = ArrayList<HurufEntity>()
-
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "A",
-                R.drawable.hir_a,
+                R.drawable.kat_a,
                 "a"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "KA",
-                R.drawable.hir_ka,
+                R.drawable.kat_ka,
                 "ka"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "SA",
-                R.drawable.hir_sa,
+                R.drawable.kat_sa,
                 "sa"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "TA",
-                R.drawable.hir_ta,
+                R.drawable.kat_ta,
                 "ta"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "NA",
-                R.drawable.hir_na,
+                R.drawable.kat_na,
                 "na"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "HA",
-                R.drawable.hir_ha,
+                R.drawable.kat_ha,
                 "ha"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "MA",
-                R.drawable.hir_ma,
+                R.drawable.kat_ma,
                 "ma"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "YA",
-                R.drawable.hir_ya,
+                R.drawable.kat_ya,
                 "ya"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "RA",
-                R.drawable.hir_ra,
+                R.drawable.kat_ra,
                 "ra"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "WA",
-                R.drawable.hir_wa,
+                R.drawable.kat_wa,
                 "wa"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "GA",
-                R.drawable.hir_ga,
+                R.drawable.kat_ga,
                 "ga"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "ZA",
-                R.drawable.hir_za,
+                R.drawable.kat_za,
                 "za"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "DA",
-                R.drawable.hir_da,
+                R.drawable.kat_da,
                 "da"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "BA",
-                R.drawable.hir_ba,
+                R.drawable.kat_ba,
                 "ba"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "PA",
-                R.drawable.hir_pa,
+                R.drawable.kat_pa,
                 "pa"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "KYA",
-                R.drawable.hir_kya,
+                R.drawable.kat_kya,
                 "kya"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "SHA",
-                R.drawable.hir_sha,
+                R.drawable.kat_sha,
                 "sha"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "CHA",
-                R.drawable.hir_cha,
+                R.drawable.kat_cha,
                 "cha"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "NYA",
-                R.drawable.hir_nya,
+                R.drawable.kat_nya,
                 "nya"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "HYA",
-                R.drawable.hir_hya,
+                R.drawable.kat_hya,
                 "hya"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "MYA",
-                R.drawable.hir_mya,
+                R.drawable.kat_mya,
                 "mya"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "RYA",
-                R.drawable.hir_rya,
+                R.drawable.kat_rya,
                 "rya"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "GYA",
-                R.drawable.hir_gya,
+                R.drawable.kat_gya,
                 "gya"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "JA",
-                R.drawable.hir_ja,
+                R.drawable.kat_ja,
                 "ja"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "BYA",
-                R.drawable.hir_bya,
+                R.drawable.kat_bya,
                 "bya"
             )
         )
 
-        hiraganaA.add(
+        katakanaA.add(
             HurufEntity(
                 "PYA",
-                R.drawable.hir_pya,
+                R.drawable.kat_pya,
                 "pya"
             )
         )
-        return hiraganaA
+        return katakanaA
     }
 
-    fun generateDummyHiraganaI() : List<HurufEntity>{
-        val hiraganaI = ArrayList<HurufEntity>()
+    fun generateDummyKatakanaI() : List<HurufEntity>{
+        val katakanaI = ArrayList<HurufEntity>()
 
-        hiraganaI.add(
+        katakanaI.add(
             HurufEntity(
                 "I",
-                R.drawable.hir_i,
+                R.drawable.kat_i,
                 "i"
             )
         )
 
-        hiraganaI.add(
+        katakanaI.add(
             HurufEntity(
                 "KI",
-                R.drawable.hir_ki,
+                R.drawable.kat_ki,
                 "ki"
             )
         )
 
-        hiraganaI.add(
+        katakanaI.add(
             HurufEntity(
                 "SHI",
-                R.drawable.hir_shi,
+                R.drawable.kat_shi,
                 "shi"
             )
         )
 
-        hiraganaI.add(
+        katakanaI.add(
             HurufEntity(
                 "CHI",
-                R.drawable.hir_chi,
+                R.drawable.kat_chi,
                 "chi"
             )
         )
 
-        hiraganaI.add(
+        katakanaI.add(
             HurufEntity(
                 "ni",
-                R.drawable.hir_ni,
+                R.drawable.kat_ni,
                 "ni"
             )
         )
 
-        hiraganaI.add(
+        katakanaI.add(
             HurufEntity(
                 "HI",
-                R.drawable.hir_hi,
+                R.drawable.kat_hi,
                 "hi"
             )
         )
 
-        hiraganaI.add(
+        katakanaI.add(
             HurufEntity(
                 "MI",
-                R.drawable.hir_mi,
+                R.drawable.kat_mi,
                 "mi"
             )
         )
 
-        hiraganaI.add(
+        katakanaI.add(
             HurufEntity(
                 "RI",
-                R.drawable.hir_ri,
+                R.drawable.kat_ri,
                 "ri"
             )
         )
 
-        hiraganaI.add(
+        katakanaI.add(
             HurufEntity(
                 "GI",
-                R.drawable.hir_gi,
+                R.drawable.kat_gi,
                 "gi"
             )
         )
 
-        hiraganaI.add(
+        katakanaI.add(
             HurufEntity(
                 "JI",
-                R.drawable.hir_ji,
+                R.drawable.kat_ji,
                 "ji"
             )
         )
 
-        hiraganaI.add(
+        katakanaI.add(
             HurufEntity(
                 "JI2",
-                R.drawable.hir_ji2,
+                R.drawable.kat_ji2,
                 "ji"
             )
         )
 
-        hiraganaI.add(
+        katakanaI.add(
             HurufEntity(
                 "PI",
-                R.drawable.hir_pi,
+                R.drawable.kat_pi,
                 "pi"
             )
         )
-        return hiraganaI
+        return katakanaI
     }
 
-    fun generateDummyHiraganaU() : List<HurufEntity>{
-        val hiraganaU = ArrayList<HurufEntity>()
+    fun generateDummyKatakanaU() : List<HurufEntity>{
+        val katakanaU = ArrayList<HurufEntity>()
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "U",
-                R.drawable.hir_u,
+                R.drawable.kat_u,
                 "u"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "KU",
-                R.drawable.hir_ku,
+                R.drawable.kat_ku,
                 "ku"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "SU",
-                R.drawable.hir_su,
+                R.drawable.kat_su,
                 "su"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "TSU",
-                R.drawable.hir_tsu,
+                R.drawable.kat_tsu,
                 "tsu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "NU",
-                R.drawable.hir_nu,
+                R.drawable.kat_nu,
                 "nu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "FU",
-                R.drawable.hir_fu,
+                R.drawable.kat_fu,
                 "fu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "MU",
-                R.drawable.hir_mu,
+                R.drawable.kat_mu,
                 "mu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "YU",
-                R.drawable.hir_yu,
+                R.drawable.kat_yu,
                 "yu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "RU",
-                R.drawable.hir_ru,
+                R.drawable.kat_ru,
                 "ru"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "O",
-                R.drawable.hir_o,
+                R.drawable.kat_o,
                 "o"
             )
         )
 
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "GU",
-                R.drawable.hir_gu,
+                R.drawable.kat_gu,
                 "gu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "ZU",
-                R.drawable.hir_zu,
+                R.drawable.kat_zu,
                 "zu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "ZU2",
-                R.drawable.hir_zu2,
+                R.drawable.kat_zu2,
                 "zu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "BU",
-                R.drawable.hir_bu,
+                R.drawable.kat_bu,
                 "bu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "PU",
-                R.drawable.hir_pu,
+                R.drawable.kat_pu,
                 "pu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "KYU",
-                R.drawable.hir_kyu,
+                R.drawable.kat_kyu,
                 "kyu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "SHU",
-                R.drawable.hir_shu,
+                R.drawable.kat_shu,
                 "shu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "CHU",
-                R.drawable.hir_chu,
+                R.drawable.kat_chu,
                 "chu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "NYU",
-                R.drawable.hir_nyu,
+                R.drawable.kat_nyu,
                 "nyu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "HYU",
-                R.drawable.hir_hyu,
+                R.drawable.kat_hyu,
                 "hyu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "MYU",
-                R.drawable.hir_myu,
+                R.drawable.kat_myu,
                 "myu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "RYU",
-                R.drawable.hir_ryu,
+                R.drawable.kat_ryu,
                 "ryu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "GYU",
-                R.drawable.hir_gyu,
+                R.drawable.kat_gyu,
                 "gyu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "JU",
-                R.drawable.hir_ju,
+                R.drawable.kat_ju,
                 "ju"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "BYU",
-                R.drawable.hir_byu,
+                R.drawable.kat_byu,
                 "byu"
             )
         )
 
-        hiraganaU.add(
+        katakanaU.add(
             HurufEntity(
                 "PYU",
-                R.drawable.hir_pyu,
+                R.drawable.kat_pyu,
                 "pyu"
             )
         )
-        return hiraganaU
+        return katakanaU
     }
 
-    fun generateDummyHiraganaE() : List<HurufEntity> {
-        val hiraganaE = ArrayList<HurufEntity>()
+    fun generateDummyKatakanaE() : List<HurufEntity> {
+        val katakanaE = ArrayList<HurufEntity>()
 
-        hiraganaE.add(
+        katakanaE.add(
             HurufEntity(
                 "E",
-                R.drawable.hir_e,
+                R.drawable.kat_e,
                 "e"
             )
         )
 
-        hiraganaE.add(
+        katakanaE.add(
             HurufEntity(
                 "KE",
-                R.drawable.hir_ke,
+                R.drawable.kat_ke,
                 "ke"
             )
         )
 
-        hiraganaE.add(
+        katakanaE.add(
             HurufEntity(
                 "SE",
-                R.drawable.hir_se,
+                R.drawable.kat_se,
                 "se"
             )
         )
 
-        hiraganaE.add(
+        katakanaE.add(
             HurufEntity(
                 "TE",
-                R.drawable.hir_te,
+                R.drawable.kat_te,
                 "te"
             )
         )
 
-        hiraganaE.add(
+        katakanaE.add(
             HurufEntity(
                 "ne",
-                R.drawable.hir_ne,
+                R.drawable.kat_ne,
                 "ne"
             )
         )
 
-        hiraganaE.add(
+        katakanaE.add(
             HurufEntity(
                 "HE",
-                R.drawable.hir_he,
+                R.drawable.kat_he,
                 "he"
             )
         )
 
-        hiraganaE.add(
+        katakanaE.add(
             HurufEntity(
                 "ME",
-                R.drawable.hir_me,
+                R.drawable.kat_me,
                 "me"
             )
         )
 
-        hiraganaE.add(
+        katakanaE.add(
             HurufEntity(
                 "RE",
-                R.drawable.hir_re,
+                R.drawable.kat_re,
                 "re"
             )
         )
 
-        hiraganaE.add(
+        katakanaE.add(
             HurufEntity(
                 "GE",
-                R.drawable.hir_ge,
+                R.drawable.kat_ge,
                 "ge"
             )
         )
 
-        hiraganaE.add(
+        katakanaE.add(
             HurufEntity(
                 "ZE",
-                R.drawable.hir_ze,
+                R.drawable.kat_ze,
                 "ze"
             )
         )
 
-        hiraganaE.add(
+        katakanaE.add(
             HurufEntity(
                 "DE",
-                R.drawable.hir_de,
+                R.drawable.kat_de,
                 "de"
             )
         )
 
-        hiraganaE.add(
+        katakanaE.add(
             HurufEntity(
                 "BE",
-                R.drawable.hir_be,
+                R.drawable.kat_be,
                 "be"
             )
         )
 
-        hiraganaE.add(
+        katakanaE.add(
             HurufEntity(
                 "PE",
-                R.drawable.hir_pe,
+                R.drawable.kat_pe,
                 "pe"
             )
         )
 
-        return hiraganaE
+        return katakanaE
     }
 
-    fun generateDummyHiraganaO() : List<HurufEntity>{
-        val hiraganaO = ArrayList<HurufEntity>()
+    fun generateDummyKatakanaO() : List<HurufEntity>{
+        val katakanaO = ArrayList<HurufEntity>()
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "O",
-                R.drawable.hir_o,
+                R.drawable.kat_o,
                 "o"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "KO",
-                R.drawable.hir_ko,
+                R.drawable.kat_ko,
                 "ko"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "SO",
-                R.drawable.hir_so,
+                R.drawable.kat_so,
                 "so"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "TO",
-                R.drawable.hir_to,
+                R.drawable.kat_to,
                 "to"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "NO",
-                R.drawable.hir_no,
+                R.drawable.kat_no,
                 "no"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "HO",
-                R.drawable.hir_ho,
+                R.drawable.kat_ho,
                 "ho"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "MO",
-                R.drawable.hir_mo,
+                R.drawable.kat_mo,
                 "mo"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "YO",
-                R.drawable.hir_yo,
+                R.drawable.kat_yo,
                 "yo"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "RO",
-                R.drawable.hir_ro,
+                R.drawable.kat_ro,
                 "ro"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "N",
-                R.drawable.hir_n,
+                R.drawable.kat_n,
                 "n"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "GO",
-                R.drawable.hir_go,
+                R.drawable.kat_go,
                 "go"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "ZO",
-                R.drawable.hir_zo,
+                R.drawable.kat_zo,
                 "zo"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "BO",
-                R.drawable.hir_bo,
+                R.drawable.kat_bo,
                 "bo"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "PO",
-                R.drawable.hir_po,
+                R.drawable.kat_po,
                 "po"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "KYO",
-                R.drawable.hir_kyo,
+                R.drawable.kat_kyo,
                 "kyo"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "SHO",
-                R.drawable.hir_sho,
+                R.drawable.kat_sho,
                 "sho"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "CHO",
-                R.drawable.hir_cho,
+                R.drawable.kat_cho,
                 "cho"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "NYO",
-                R.drawable.hir_nyo,
+                R.drawable.kat_nyo,
                 "nyo"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "HYO",
-                R.drawable.hir_hyo,
+                R.drawable.kat_hyo,
                 "hyo"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "MYO",
-                R.drawable.hir_myo,
+                R.drawable.kat_myo,
                 "myo"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "RYO",
-                R.drawable.hir_ryo,
+                R.drawable.kat_ryo,
                 "ryo"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "GYO",
                 R.drawable.hir_gyo,
@@ -821,29 +820,29 @@ object HiraganaDummy {
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "JO",
-                R.drawable.hir_jo,
+                R.drawable.kat_jo,
                 "jo"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "BYO",
-                R.drawable.hir_byo,
+                R.drawable.kat_byo,
                 "byo"
             )
         )
 
-        hiraganaO.add(
+        katakanaO.add(
             HurufEntity(
                 "PYO",
-                R.drawable.hir_pyo,
+                R.drawable.kat_pyo,
                 "pyo"
             )
         )
-        return hiraganaO
+        return katakanaO
     }
 }

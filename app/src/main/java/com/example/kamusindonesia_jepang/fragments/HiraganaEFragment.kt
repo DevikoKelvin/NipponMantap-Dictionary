@@ -9,11 +9,9 @@ import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.kamusindonesia_jepang.ItemCallback
-import com.example.kamusindonesia_jepang.R
-import com.example.kamusindonesia_jepang.adapters.HiraganaAdapter
-import com.example.kamusindonesia_jepang.data.HiraganaEntity
+import com.example.kamusindonesia_jepang.adapters.HurufAdapter
+import com.example.kamusindonesia_jepang.data.HurufEntity
 import com.example.kamusindonesia_jepang.databinding.FragmentHiraganaEBinding
-import com.example.kamusindonesia_jepang.databinding.FragmentHiraganaIBinding
 import com.example.kamusindonesia_jepang.viewmodel.MainViewModel
 
 
@@ -38,7 +36,7 @@ class HiraganaEFragment : Fragment() , ItemCallback {
 
             val data = viewModel.getListHiraganaE()
 
-            val adapter = HiraganaAdapter(this)
+            val adapter = HurufAdapter(this)
             adapter.setData(data)
 
             with(binding.rvHiraganaE){
@@ -48,7 +46,7 @@ class HiraganaEFragment : Fragment() , ItemCallback {
             }
         }
     }
-    override fun onItemClicked(data: HiraganaEntity) {
+    override fun onItemClicked(data: HurufEntity) {
         Toast.makeText(activity, " "+data.description, Toast.LENGTH_SHORT).show()
     }
 
