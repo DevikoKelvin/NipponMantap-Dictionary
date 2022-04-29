@@ -3,8 +3,7 @@ package com.example.kamusindonesia_jepang.adapters
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.viewpager2.adapter.FragmentStateAdapter
-import com.example.kamusindonesia_jepang.fragments.HiraganaAFragment
-import com.example.kamusindonesia_jepang.fragments.HiraganaIFragment
+import com.example.kamusindonesia_jepang.fragments.*
 
 class SectionPagerAdapter(act : AppCompatActivity) :
     FragmentStateAdapter(act)
@@ -13,8 +12,11 @@ class SectionPagerAdapter(act : AppCompatActivity) :
     {
         0 -> HiraganaAFragment()
         1 -> HiraganaIFragment()
+        2 -> HiraganaUFragment()
+        3 -> HiraganaEFragment()
+        4 -> HiraganaOFragment()
         else -> Fragment()
     }
 
-    override fun getItemCount() : Int = 2
+    override fun getItemCount() : Int = 5
 }

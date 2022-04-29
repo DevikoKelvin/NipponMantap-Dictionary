@@ -9,20 +9,22 @@ import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.kamusindonesia_jepang.ItemCallback
+import com.example.kamusindonesia_jepang.R
 import com.example.kamusindonesia_jepang.adapters.HiraganaAdapter
 import com.example.kamusindonesia_jepang.data.HiraganaEntity
-import com.example.kamusindonesia_jepang.databinding.FragmentHiraganaABinding
+import com.example.kamusindonesia_jepang.databinding.FragmentHiraganaIBinding
+import com.example.kamusindonesia_jepang.databinding.FragmentHiraganaUBinding
 import com.example.kamusindonesia_jepang.viewmodel.MainViewModel
 
 
-class HiraganaAFragment : Fragment(), ItemCallback {
+class HiraganaUFragment : Fragment() , ItemCallback {
 
-    private lateinit var binding: FragmentHiraganaABinding
+    private lateinit var binding: FragmentHiraganaUBinding
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?
     ): View? {
 
-        binding = FragmentHiraganaABinding.inflate(inflater, container, false)
+        binding = FragmentHiraganaUBinding.inflate(inflater, container, false)
         return binding.root
     }
 
@@ -34,12 +36,12 @@ class HiraganaAFragment : Fragment(), ItemCallback {
             val viewModel = ViewModelProvider(this)
                 .get(MainViewModel(activity!!.application)::class.java)
 
-            val data = viewModel.getListHiraganaA()
+            val data = viewModel.getListHiraganaU()
 
             val adapter = HiraganaAdapter(this)
             adapter.setData(data)
 
-            with(binding.rvHiraganaA){
+            with(binding.rvHiraganaU){
                 layoutManager = LinearLayoutManager(context)
                 setHasFixedSize(true)
                 this.adapter = adapter
