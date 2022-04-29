@@ -12,10 +12,20 @@
         android:theme="@style/Theme.KamusIndonesiaJepang"
         tools:ignore="LockedOrientationActivity">
         <activity
-            android:name=".activities.HiraganaActivity"
+            android:name=".activities.KatakanaActivity"
+            android:exported="false"
+            android:parentActivityName=".activities.HurufJepangActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activities.HurufJepangActivity"
+            android:exported="false"
             android:parentActivityName=".activities.MainActivity"
-            android:screenOrientation="portrait"
-            android:exported="false" />
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activities.HiraganaActivity"
+            android:exported="false"
+            android:parentActivityName=".activities.HurufJepangActivity"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".activities.SplashScreenActivity"
             android:exported="true"

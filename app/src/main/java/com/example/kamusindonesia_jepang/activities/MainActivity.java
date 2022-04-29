@@ -28,8 +28,8 @@ public class MainActivity extends AppCompatActivity
             startActivity(i);
         });
 
-        bind.btnHiragana.setOnClickListener(view -> {
-            Intent i = new Intent(this, HiraganaActivity.class);
+        bind.btnHurufJepang.setOnClickListener(view -> {
+            Intent i = new Intent(this, HurufJepangActivity.class);
             startActivity(i);
         });
     }
