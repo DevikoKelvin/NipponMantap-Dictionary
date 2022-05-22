@@ -1,30 +1,59 @@
-Indo,Jepang,Keterangan
-Saya,Watashi,私
-Kamu,Kimi,君
+Indo,Jepang,Kanji
+Saya,Watashi,私 (わたし）
+Kamu,Kimi,君 (きみ）
 Dia,Anata,あなた
 Ayah,Otou-san,お父さん
 Ibu,Okaa-san,お母さん
-Satu,Ichi,一
-Dua,Ni,二
-Tiga,San,三
-Empat,Shi,四
-Lima,Go,五
-Enam,Roku,六
-Tujuh,Nana,七
-Delapan,Hachi,八
-Sembilan,Kyu,九
-Sepuluh,Juu,十
+Nol,Rei,零 (れい)
+Satu,Ichi,一 (いち）
+Dua,Ni,二 (に)
+Tiga,San,三 (さん)
+Empat,Shi,四 (し)
+Lima,Go,五 (ご)
+Enam,Roku,六 (ろく）
+Tujuh,Nana,七 (なな)
+Delapan,Hachi,八 (はち)
+Sembilan,Kyu,九 (きゅう）
+Sepuluh,Juu,十 (じゅう)
 Seratus,Hyaku,百
-Hujan,Ame,雨
-Kanan,Migi,右
-Kiri,Hidari,左
-Orang,Hito,人
-Api,Hi,火
-Air,Mizu,水
-Sungai,Kawa,川
-Langit,Sora,空
+Seribu,Sen,千
+Sepuluh Ribu,Man,万
+Yen,En,円
+Kanan,Migi,右 (みぎ)
+Kiri,Hidari,左 (ひだり)
+Atas,Ue,上
+Bawah,Shita,下
+Dalam,Naka,中
+Luar,Soto,外
+Depan,Mae,前
+Belakang,Ushiro,後
+Timur,Higashi,東
+Barat,Nishi,西
+Utara,Kita,北
+Selatan,Minami,南
+Musim Semi,Haru,春
+Musim Panas,Natsu,夏
+Musim Gugur,Aki,秋
+Musim Dingin,Fuyu,冬
+Musim Hujan,Tsuyu,梅雨
+Musim Kemarau,Kanki,歓喜
+Cuaca,Tenki,天気 (てんき)
+Hujan,Ame,雨 (あめ)
+Pelangi,Niji,虹 (にじ)
+Angin,Kaze,風 (かぜ)
+Orang,Hito,人 (ひと)
+Api,Hi,火 (ひ)
+Air,Mizu,水 (みず)
+Bulan,Tsuki,月 (つき)
+Pohon,Ki,木 (き)
+Tanah,Tsuchi,土 (つち)
+Matahari,Hi,日 (ひ)
+Matahari,Taiyou,太陽 (たいよう)
+Sungai,Kawa,川 (かわ)
+Langit,Sora,空 (そら)
+Buah,Kudamono,果物 (くだもの)
 Pisang,Banana,バナナ
-Strawberry,Ichigo,苺
+Strawberry,Ichigo,苺 (いちご)
 Apel,Ringo,リンゴ 
 Anggur,Budou,ブドウ 
 Durian,Dorian,ドリアン 
@@ -40,7 +69,17 @@ Jeruk,Orenji,オレンジ
 Lemon,Remon,レモン 
 Jeruk Mandarin,Mikan,蜜柑 
 Blueberry,Buruuberii,ブルーベリー
+Blackberry,Burakkuberii,ブラックベリ 
 Semangka,Saika,西瓜
+Jambu Biji,Guaba,グアバ 
+Nangka,Jakkufuruttsu,ジャックフルッツ
+Delima,Zakuro,ザクロ 
+Cherry,Sakuranbou,さくらんぼう 
+Zaitun,Oriibu,オリーブ 
+Ara,Ichijiku,イチジク 
+Pir,Nashi,梨
+Rasberry,Kiichigo,きいちご 
+Kesemek,Kaki,柿 
 Sayuran,Yasai,野菜
 Tomat,Tomato,トマト 
 Kol,Kyabetsu,キャベツ
@@ -57,5 +96,208 @@ Selada,Retasu,レタス
 Wortel,Ninjin,人参
 Kentang,Jagaimo,じゃがいも
 Ubi Jalar,Satsumaimo,さつまいも
+Tauge,Mekyabetsu ,メキャベツ 
 Kembang Kol,Karifurawaa,カリフラワー
 Ketumbar,Pakuchii,パクチー
+Jahe,Shouga,しょうが 
+Bawang Merah,Tamanegi ,玉葱 
+Bawang Putih,Ninniku ,大蒜 
+Hitam,Kuroi,黒い (くろい)
+Putih,Shiroi,白い (しろい)
+Coklat,Chairo,茶色 (ちゃいろ)
+Merah,Akai,赤い (あかい)
+Pink,Momoiro,桃色 (ももいろ)
+Pink,Pinkku,ピンク 
+Kuning,Kiiro,黄色 (きいろ)
+Hijau,Midori,緑 (みどり)
+Biru,Aoi,青い (あおい)
+Ungu,Murasaki,紫 (むらさき)
+Abu-abu,Haiiro,灰色 (はいいろ)
+Emas,Kiniro,金色 (きんいろ)
+Silver,Giniro,銀色 (ぎんいろ)
+Kebun Binatang,Doubutsuen,動物園
+Binatang,Doubutsu,動物
+Serigala,Ookami,狼 (おおかみ)
+Harimau,Tora,虎 (とら)
+Anjing,Inu,犬 (いぬ)
+Kucing,Neko,猫 (ねこ)
+Kuda,Uma,馬 (うま)
+Kelinci,Usagi,兎 (うさぎ)
+Tikus,Nezumi,鼠 (ねずみ)
+Ular,Hebi,蛇 (へび)
+Katak,Kaeru,蛙 (かえる)
+Lebah,Hachi,蜂 (はち)
+Sapi,Ushi,牛 (うし)
+Babi,Buta,豚 (ぶた)
+Singa,Raion,ライオン
+Kambing,Yagi,山羊(やぎ)
+Domba,Hitsuji,羊(ひつじ)
+Ikan,Sakana,魚 (さかな)
+Burung,Tori,鳥 (とり)
+Jerapah,Kirin,麒麟 (きりん)
+Gajah,Zou,象 (ぞう)
+Unta,Rakuda,駱駝 (らくだ)
+Rusa,Shika,鹿 (しか)
+Beruang,Kuma,熊 (くま)
+Monyet,Saru,猿 (さる)
+Semut,Ari,蟻 (あり)
+Belut,Unagi,鰻 (うなぎ)
+Kupu-kupu,Chou,蝶 (ちょう)
+Laba-laba,Kumo,蜘蛛 (くも)
+Nyamuk,Ka,蚊 (か)
+Cacing Tanah,Mimizu,蚯蚓 (みみず)
+Tupai,Risu,栗鼠 (りす)
+Elang,Washi,鷲 (わし)
+Ayam,Niwatori,鶏 (にわとり)
+Kepiting,Kani,蟹 (かに)
+Kelelawar,Koumori,蝙蝠 (こうもり)
+Anjing Laut,Azarashi,海豹 (あざらし)
+Ikan Paus,Kujira,鯨 (くじら)
+Ikan Lele,Namazu,鯰 (なまず)
+Panda,Panda,パンダ
+Pinguin,Pengin,ペンギン
+Gorila,Gorira,ゴリラ
+Koala,Koara,コアラ
+Kanguru,Kangaruu,カンガルー
+Iguana,Iguana,イグアナ
+Bunglon,Kamereon,カメレオン
+Flamingo,Furamingo,フラミンゴ
+Negara,Kuni,国 (くに)
+Asia,Ajia,アジア 
+Afrika,Afurika,アフリカ 
+Eropa,Yooroppa,ヨーロッパ 
+Amerika,Amerika,アメリカ 
+Australia,Oosutoraria,オーストラリア 
+Inggris,Igirisu,イギリス 
+Italia,Itaria,イタリア 
+India,Indo,インド 
+Indonesia,Indoneshia,インドネシア 
+Mesir,Ejiputo,エジプト 
+Kanada,Kanada,カナダ 
+Korea Selatan,Kankoku,かんこく 
+Spanyol,Supein,スペイン 
+Sri Lanka,Suriranka,スリランカ 
+Thailand,Tai,タイ 
+Cina,Chuugoku,ちゅうごく 
+Jerman,Doitsu,ドイツ 
+Jepang,Nihon/Nippon,にほん／にっぽん 
+Selandia Baru,Nyuujirando,ニュージーランド 
+Hungaria,Hangarii,ハンガリー 
+Filipina,Firipin,フィリピン 
+Brazil,Burajiru,ブラジル 
+Perancis,Furansu,フランス 
+Vietnam,Betonamu,ベトナム 
+Malaysia,Mareeshia,マレーシア 
+Meksiko,Mekishiko,メキシコ 
+Rusia,Roshia,ロシア 
+Luar Negeri,Gaikoku,がいこく 
+Orang Asing,Gaikokujin,がいこくじん 
+Orang Jepang,Nihonjin,にほんじん 
+Siswa Asing,Ryuugakusee,りゅうがくせい 
+Bahasa,Kotoba,ことば
+Bahasa Asing,Gaikokugo,がいこくご 
+Bahasa Jepang,Nihongo,にほんご 
+Bahasa Inggris,Eego,えいご 
+Bahasa Korea,Kankokugo,かんこくご 
+Bahasa Cina,Chuugokugo,ちゅうごくご 
+Bahasa Jerman,Doitsugo,ドイツご 
+Bahasa Spanyol,Supeingo,スペインご 
+Bahasa Perancis,Furansugo,フランスご 
+Bahasa Arab,Arabiago,アラビアご 
+Bahasa Indonesia,Indoneshiago,インドネシアご 
+Kursi,Isu,いす 
+Meja,Tsukue,つくえ 
+Pensil,Enpitsu,えんぴつ 
+Pen,Pen,ペン 
+Kamus,Jisho,じしょ 
+Buku,Hon,ほん
+Buku Tulis,Nooto,ノート 
+Sepeda,Jitensha,じてんしゃ
+Motor,Baiku,バイク 
+Mobil,Kuruma,くるま 
+Taksi,Takushii,タクシー 
+Bus,Basu,バス 
+Ambulans,Kyuukyuu,きゅうきゅうしゃ 
+Mobil Pemadam Kebakaran,Shooboosha,しょうぼうしゃ
+Mobil Polisi,Patokaa,パトカー
+Truk,Torakku,トラック
+Sedan,Sedan,セダン
+Kereta,Densha,でんしゃ 
+Kereta Bawah Tanah,Chikatetsu,ちかてつ 
+Kereta Peluru,Shinkansen,しんかんせん 
+Monorel,Monoreeru,モノレール 
+Pesawat,Hikouki,ひこうき 
+Helikopter,Herikoputaa,ヘリコプター
+Pesawat Tempur,Sentooki,せんとき
+Kapal,Fune,ふね 
+Kapal Penumpang,Kyakusen,きゃくせん
+Kapal Barang,Kamotsuen,かもつせん
+Kapal Feri,Ferii,フェリー
+Kapal Penangkap Ikan,Gyosen,ぎょせん
+Kapal Perang,Gunkan,ぐんかん
+Kapal Tempur,Senkan,せんかん
+Kapal Selam,Sensuikan,せんすいかん
+Yacht,Yotto,ヨット
+Perahu,Booto,ボート
+Kano,Kanuu,カヌー
+Kayak,Kayakku,カヤック
+Rumah,Ie,いえ
+Rumah Susun,Apaato,アパート 
+Apartemen,Manshon,マンション 
+Sekolah,Gakkou,がっこう 
+Hotel,Hoteru,ホテル 
+Restoran,Resutoran,レストラン 
+Taman,Kouen,こうえん 
+Bank,Ginkou,ぎんこう 
+Kantor Polisi,Keesatsu,けいさつ 
+Bioskop,Eegakan,えいがかん 
+Perpustakaan,Toshokan,としょかん 
+Minimarket,Konbini,コンビニ 
+Supermarket,Depaato,デパート 
+Kedai Kopi,Kissaten,きっさてん 
+Rumah Sakit,Byouin,びょういん 
+Kantor Pos,Yuubinkyouku,ゆうびんきょく 
+Mesjid,Mosuku,モスク 
+Gereja,Kyoukai,きょうかい 
+Kuil Shinto,Jinja,じんじゃ 
+Kuil Buddha,Otera,おてら 
+Museum,Hakubutsukan,はくぶつかん 
+Museum Seni,Bijutsukan,びじゅつかん 
+Toko,Mise,みせ 
+Kedutaan Besar,Taishikan,たいしかん 
+Pabrik,Koujou,こうじょう 
+Permen,Ame,あめ 
+Kue Kering,Kukkii,クッキー 
+Kue Tar,Keeki,ケーキ 
+Coklat,Chokoreeto,チョコレート 
+Gula,Satou,さとう 
+Garam,Shio,しお 
+Kecap Asin,Shouyu,しょうゆ 
+Beras,Kome,こめ 
+Tahu,Toufu,とうふ 
+Rumput Laut,Nori,のり 
+Wasabi,Wasabi,わさび 
+Masakan,Ryouri,りょうり 
+Kare,Karee,カレー 
+Sandwich,Sandoicchi,サンドイッチ 
+Salad,Sarada,サラダ 
+Sup,Suupu,スープ 
+Steak,Suteeki,ステーキ 
+Spagetti,Supagethi,スパゲティ 
+Pasta,Pasuta,パスタ 
+Kentang Goreng,Furaido Poteto,フライドポテト 
+Pizza,Piza,ピザ 
+Hamburger,Hanbaagaa,ハンバーガー 
+Hot Dog,Hottodoggu,ホットドッグ 
+Onigiri,Onigiri,おにぎり 
+Mie Udon,Udon,うどん 
+Sushi,Sushi,すし 
+Tempura,Tenpura,てんぷら 
+Mie Soba,Soba,そば 
+Sop Miso,Misoshiru,みそしる 
+Bento,Bentoo,べんとう 
+Mie Goreng,Yakisoba,やきそば 
+Mie Kuah,Ramen,ラーメン 
+Malaikat,Tenshi,天使
+Ekor,Shippo,しっぽ
+Bunga Matahari,Himawari,ひまわり
