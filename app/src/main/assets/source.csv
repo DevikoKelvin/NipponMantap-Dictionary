@@ -21,12 +21,15 @@ Sepuluh Ribu,Man,万
 Yen,En,円
 Kanan,Migi,右 (みぎ)
 Kiri,Hidari,左 (ひだり)
-Atas,Ue,上
-Bawah,Shita,下
-Dalam,Naka,中
-Luar,Soto,外
-Depan,Mae,前
-Belakang,Ushiro,後
+Atas,Ue,上 (うえ)
+Bawah,Shita,下 (した)
+Dalam,Naka,中 (なか)
+Luar,Soto,外 (そと)
+Depan,Mae,前 (まえ)
+Belakang,Ushiro,後 (うしろ)
+Dekat,Chikaku,ちかく
+Samping,Tonari,となり
+Sebelah,Yoko,よこ
 Timur,Higashi,東
 Barat,Nishi,西
 Utara,Kita,北
@@ -51,6 +54,19 @@ Matahari,Hi,日 (ひ)
 Matahari,Taiyou,太陽 (たいよう)
 Sungai,Kawa,川 (かわ)
 Langit,Sora,空 (そら)
+Hitam,Kuroi,黒い (くろい)
+Putih,Shiroi,白い (しろい)
+Coklat,Chairo,茶色 (ちゃいろ)
+Merah,Akai,赤い (あかい)
+Pink,Momoiro,桃色 (ももいろ)
+Pink,Pinkku,ピンク
+Kuning,Kiiro,黄色 (きいろ)
+Hijau,Midori,緑 (みどり)
+Biru,Aoi,青い (あおい)
+Ungu,Murasaki,紫 (むらさき)
+Abu-abu,Haiiro,灰色 (はいいろ)
+Emas,Kiniro,金色 (きんいろ)
+Silver,Giniro,銀色 (ぎんいろ)
 Buah,Kudamono,果物 (くだもの)
 Pisang,Banana,バナナ
 Strawberry,Ichigo,苺 (いちご)
@@ -102,19 +118,6 @@ Ketumbar,Pakuchii,パクチー
 Jahe,Shouga,しょうが 
 Bawang Merah,Tamanegi ,玉葱 
 Bawang Putih,Ninniku ,大蒜 
-Hitam,Kuroi,黒い (くろい)
-Putih,Shiroi,白い (しろい)
-Coklat,Chairo,茶色 (ちゃいろ)
-Merah,Akai,赤い (あかい)
-Pink,Momoiro,桃色 (ももいろ)
-Pink,Pinkku,ピンク 
-Kuning,Kiiro,黄色 (きいろ)
-Hijau,Midori,緑 (みどり)
-Biru,Aoi,青い (あおい)
-Ungu,Murasaki,紫 (むらさき)
-Abu-abu,Haiiro,灰色 (はいいろ)
-Emas,Kiniro,金色 (きんいろ)
-Silver,Giniro,銀色 (ぎんいろ)
 Kebun Binatang,Doubutsuen,動物園
 Binatang,Doubutsu,動物
 Serigala,Ookami,狼 (おおかみ)
@@ -298,6 +301,87 @@ Sop Miso,Misoshiru,みそしる
 Bento,Bentoo,べんとう 
 Mie Goreng,Yakisoba,やきそば 
 Mie Kuah,Ramen,ラーメン 
+Mode,Fasshon,ファッション 
+Pakaian,Fuku,ふく 
+Kimono,Kimono,きもの 
+Yukata,Yukata,ゆかた 
+Mantel,Kooto,コート 
+Jaket,Jaketto,ジャケット 
+Kemeja,Shatsu,シャツ 
+Sweter,Seetaa,セーター 
+Rok,Sukaato,スカート 
+Piyama,Pajama,パジャマ 
+Sepatu,Kutsu,くつ 
+Celana,Pantsu,パンツ 
+Kacamata,Megane,めがね 
+Topi,Boushi,ぼうし 
+Anting,Piasu,ピアス 
+Cincin,Yubiwa,ゆびわ 
+Kalung,Nekkuresu,ネックレス 
+Syal,Sukaafu,スカーフ 
+Selendang,Mafuraa,マフラー 
+Pita,Ribon,リボン 
+Sarung Tangan,Tebukuro,てぶくろ 
+Ikat Pinggang,Beruto,ベルト
+Kaus Kaki,Kutsushita,くつした
+Pakaian Dalam,Shitagi,したぎ
+Pakaian Luar,Uwagi,うわぎ
+Saku,Poketto,ポケット
+Sandal,Sandaru,サンダル
+Handuk,Taoru,タオル
+Jas,Suutsu,スーツ
+Celemek,Epuron,エプロン
+Sapu Tangan,Hankachi,ハンカチ
+Jins,Jiinzu,ジーンズ
+Stoking,Sutokkingu,ストッキング
+Jilbab,Jirubabu,ジルバブ
+Hijab,Hijabu,ヒジャブ
+Tas,Kaban,かばん
+Januari,Ichigatsu,一月 (いちがつ)
+Februari,Nigatsu,二月 (にがつ )
+Maret,Sangatsu,三月 (さんがつ )
+April,Shigatsu,四月 (しがつ)
+Mei,Gogatsu,五月 (ごがつ )
+Juni,Rokugatsu,六月 (ろくがつ)
+Juli,Shichigatsu,七月 (しちがつ)
+Agustus,Hachigatsu,八月 (はちがつ)
+September,Kugatsu,九月 (くがつ)
+Oktober,Juugatsu,十月 (じゅうがつ)
+November,Juuichigatsu,十一月 (じゅういちがつ)
+Desember,Juunigatsu,十二月 (じゅうにがつ)
+Senin,Getsuyoubi ,月曜日 (げつようび)
+Selasa,Kayoubi ,火曜日 (かようび)
+Rabu,Suiyoubi ,水曜日 (すいようび)
+Kamis,Mokuyoubi ,木曜日 (もくようび)
+Jumat,Kinyoubi ,金曜日 (きんようび)
+Sabtu,Doyoubi ,土曜日 (どようび)
+Minggu,Nichiyoubi ,日曜日 (にちようび)
+Hari ini,Kyoo,今日 (きょう)
+Kemarin,Kinoo,昨日 (きのう)
+Lusa,Asatte,明後日 (あさって)
+Pagi,Asa,朝 (あさ)
+Tadi Pagi,Kesa,今朝 (けさ)
+Siang,Hiru,ひる 
+Malam,Yoru,夜 (よる)
+Tadi Malam,Yuube,夕べ
+Malam Ini,Konban,今晩 (こんばん）
+Besok,Ashita,明日 (あした)
+Setiap Hari,Mainichi,毎日 (まいにち)
+Setiap Pagi,Maiasa,毎朝 (まいあさ)
+Setiap Malam,Maiban,毎晩 (まいばん)
+Minggu Ini,Konshuu,今週 (こんしゅう)
+Minggu Lalu,Senshuu,先週 (せんしゅう)
+Minggu Depan,Raishuu,来週 (らいしゅう)
+Setiap Minggu,Maishuu,まいしゅう 
+Bulan ini,Kongetsu,こんげつ 
+Bulan Lalu,Sengetsu,せんげつ 
+Bulan Depan,Raigetsu,らいげつ 
+Setiap Bulan,Maitsuki,まいつき 
+Tahun Ini,Kotoshi,ことし 
+Tahun Lalu,Kyounen,きょねん 
+Tahun Depan,Rainen,らいねん 
+Setiap Tahun,Maitoshi,まいとし 
 Malaikat,Tenshi,天使
 Ekor,Shippo,しっぽ
 Bunga Matahari,Himawari,ひまわり
+
