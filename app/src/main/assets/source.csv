@@ -2,8 +2,42 @@ Indo,Jepang,Kanji
 Saya,Watashi,私 (わたし）
 Kamu,Kimi,君 (きみ）
 Dia,Anata,あなた
-Ayah,Otou-san,お父さん
-Ibu,Okaa-san,お母さん
+Keluarga,Kazoku,家族 (かぞく) 
+Orang Tua,Ryoushin,両親 (りょうしん)
+Saudara,Kyoudai,兄弟 (きょうだい) 
+Ayah (Saya),Chichi,父 (ちち)
+Ayah (Orang Lain),Otousan,お父さん (おとうさん)
+Ibu (Saya),Haha,母 (はは)
+Ibu (Orang Lain),Okaasan,お母さん (おかあさん)
+Kakak Laki-laki (Saya),Ani,兄 (あに) 
+Kakak Laki-laki (Orang Lain),Oniisan,お兄さん (おにいさん)
+Kakak Perempuan (Saya),Ane,姉 (あね) 
+Kakak Perempuan (Orang Lain),Oneesan,お姉さん (おねえさん) 
+Adik Laki-laki (Saya),Otouto,弟 (おとうと)
+Adik Laki-laki (Orang Lain),Otoutosan,弟さん (おとうとさん)
+Adik Perempuan (Saya),Imouto,妹 (いもうと)
+Adik Perempuan (Orang Lain),Imoutosan,妹さん (いもうとさん)
+Kakek (Saya),Sofu,祖父 (そふ)
+Kakek (Orang Lain),Ojiisan,お祖父さん (おじいさん)
+Nenek (Saya),Sobo,祖母 (そぼ)
+Nenek (Orang Lain),Obaasan,お祖母さん (おばあさん)
+Suami (Saya),Otto,夫 (おっと)
+Suami (Orang Lain),Goshujin,主人 (ごしゅじん)
+Istri (Saya),Tsuma,妻 (つま)
+Istri (Orang Lain),Okusan,奥さん (おくさん)
+Anak,Kodomo,子供 (こども) 
+Anak (Orang Lain),Okosan,おこさん 
+Anak Laki-laki,Musuko,息子 (むすこ)
+Anak Perempuan,Musume,娘 (むすめ)
+Paman (Saya),Oji,叔父 (おじ)
+Paman (Orang Lain),Ojisan,叔父さん (おじさん)
+Bibi (Saya),Oba,叔母 (おば)
+Bibi (Orang Lain),Obasan,叔母さん (おばさん)
+Sepupu (Saya),Itoko,従兄弟 (いとこ)
+Sepupu (Orang Lain),Itokosan,従兄弟さん (いとこさん)
+Cucu,Mago,孫 (まご)
+Bayi,Akachan,赤ちゃん (あかちゃん)
+Sanak Keluarga,Shinseki,親戚 (しんせき)
 Nol,Rei,零 (れい)
 Satu,Ichi,一 (いち）
 Dua,Ni,二 (に)
@@ -165,6 +199,10 @@ Kanguru,Kangaruu,カンガルー
 Iguana,Iguana,イグアナ
 Bunglon,Kamereon,カメレオン
 Flamingo,Furamingo,フラミンゴ
+Udang,Ebi,海老 (えび)
+Cumi-cumi,Ika,烏賊 (いか)
+Kerang,Hamaguri,蛤 (はまぐり)
+Gurita,Tako,蛸 (たこ)
 Negara,Kuni,国 (くに)
 Asia,Ajia,アジア 
 Afrika,Afurika,アフリカ 
@@ -269,15 +307,31 @@ Museum Seni,Bijutsukan,びじゅつかん
 Toko,Mise,みせ 
 Kedutaan Besar,Taishikan,たいしかん 
 Pabrik,Koujou,こうじょう 
+Makanan,Tabemono,たべもの 
+Nasi,Gohan,ごはん 
+Roti,Pan,パン 
+Sereal,Shiriaru,シリアル 
+Selai,Jamu,ジャム 
+Mentega,Bataa,バター 
+Telur,Tamago,たまご 
+Keju,Chiizu,チーズ 
+Yoghurt,Yooguruto,ヨーグルト 
+Daging,Niku,肉 (にく)
+Daging Sapi,Gyuuniku,ぎゅうにく 
+Daging Ayam,Toriniku,とりにく 
+Daging Babi,Butaniku,ぶたにく 
+Beras,Kome,米 (こめ)
 Permen,Ame,あめ 
 Kue Kering,Kukkii,クッキー 
 Kue Tar,Keeki,ケーキ 
 Coklat,Chokoreeto,チョコレート 
 Gula,Satou,さとう 
 Garam,Shio,しお 
-Kecap Asin,Shouyu,しょうゆ 
-Beras,Kome,こめ 
+Kecap,Shouyu,しょうゆ 
+Saos Tomat,Kechappu,ケチャップ 
 Tahu,Toufu,とうふ 
+Lada,Koshou,胡椒 (こうしょう)
+Cuka,Su,酢 (す)
 Rumput Laut,Nori,のり 
 Wasabi,Wasabi,わさび 
 Masakan,Ryouri,りょうり 
@@ -314,8 +368,8 @@ Piyama,Pajama,パジャマ
 Sepatu,Kutsu,くつ 
 Celana,Pantsu,パンツ 
 Kacamata,Megane,めがね 
-Topi,Boushi,ぼうし 
-Anting,Piasu,ピアス 
+Topi,Boushi,ぼうし
+Anting,Piasu,ピアス
 Cincin,Yubiwa,ゆびわ 
 Kalung,Nekkuresu,ネックレス 
 Syal,Sukaafu,スカーフ 
@@ -378,10 +432,26 @@ Bulan Lalu,Sengetsu,せんげつ
 Bulan Depan,Raigetsu,らいげつ 
 Setiap Bulan,Maitsuki,まいつき 
 Tahun Ini,Kotoshi,ことし 
-Tahun Lalu,Kyounen,きょねん 
+Tahun Lalu,Kyounen,きょねん
 Tahun Depan,Rainen,らいねん 
 Setiap Tahun,Maitoshi,まいとし 
+Minuman,Nomimono,のみもの 
+Air Putih,Mizu,水 (みず)
+Air Panas,Oyu,おゆ 
+Teh Jepang,Ocha,おちゃ 
+Teh Hitam,Koocha,こうちゃ 
+Kopi,Koohi,コーヒー 
+Susu,Miruku,ミルク 
+Susu Sapi,Gyuunyuu,ぎゅうにゅう 
+Jus,Juusu,ジュース 
+Jus Jeruk,Orenji Juusu,オレンジジュース 
+Minuman Beralkohol,Osake,おさけ 
+Minuman Anggur,Wain,ワイン 
+Es Krim,Aisu Kurimu,アイスクリーム 
+Bir,Biiru,ビール 
+Wiski,Uisukii,ウイスキー 
+Arak Jepang,Nihonshu,にほんしゅ 
+Kola,Koora,コーラ 
 Malaikat,Tenshi,天使
 Ekor,Shippo,しっぽ
 Bunga Matahari,Himawari,ひまわり
-
