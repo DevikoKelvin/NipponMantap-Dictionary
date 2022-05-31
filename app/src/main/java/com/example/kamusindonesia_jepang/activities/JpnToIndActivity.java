@@ -1,12 +1,14 @@
 package com.example.kamusindonesia_jepang.activities;
 
 import android.os.Bundle;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.kamusindonesia_jepang.algorithms.BR;
 import com.example.kamusindonesia_jepang.R;
@@ -14,6 +16,7 @@ import com.example.kamusindonesia_jepang.algorithms.RC;
 import com.example.kamusindonesia_jepang.data.Result;
 import com.example.kamusindonesia_jepang.adapters.ResultAdapter;
 import com.example.kamusindonesia_jepang.databinding.ActivityJpnToIndBinding;
+import com.google.android.material.textfield.TextInputLayout;
 import com.opencsv.CSVReader;
 import java.io.IOException;
 import java.io.InputStream;
@@ -37,9 +40,14 @@ public class JpnToIndActivity extends AppCompatActivity
 
         adapter = new ResultAdapter();
 
-        EditText tieKeyword = bind.tilKeyword.getEditText();
+        TextInputLayout tilKeyword = findViewById(R.id.til_keyword);
+        EditText tieKeyword = tilKeyword.getEditText();
+        Button searchBerryBtn = findViewById(R.id.btn_search);
+        Button searchRcBtn = findViewById(R.id.btn_search2);
+        RecyclerView resultRv = findViewById(R.id.rv_result);
 
-        bind.btnSearch.setOnClickListener(view ->
+
+        searchBerryBtn.setOnClickListener(view ->
         {
             String keyword;
 
@@ -53,24 +61,21 @@ public class JpnToIndActivity extends AppCompatActivity
             }
         });
 
-        bind.btnSearch2.setOnClickListener(view ->
-        {
+        searchRcBtn.setOnClickListener(view -> {
             String keyword;
 
-            if (tieKeyword != null)
-            {
+            if (tieKeyword != null) {
                 keyword = tieKeyword.getText().toString();
 
-                if (!keyword.isEmpty())
-                {
+                if (!keyword.isEmpty()) {
                     getRcDataFromExcel(keyword);
                 }
             }
         });
 
-        bind.rvResult.setAdapter(adapter);
-        bind.rvResult.setLayoutManager(new LinearLayoutManager(this));
-        bind.rvResult.addItemDecoration(new DividerItemDecoration(this, LinearLayout.VERTICAL));
+        resultRv.setAdapter(adapter);
+        resultRv.setLayoutManager(new LinearLayoutManager(this));
+        resultRv.addItemDecoration(new DividerItemDecoration(this, LinearLayout.VERTICAL));
     }
 
     private void getBrDataFromExcel(String keyword)
@@ -115,10 +120,8 @@ public class JpnToIndActivity extends AppCompatActivity
         }
     }
 
-    private void getRcDataFromExcel(String keyword)
-    {
-        try
-        {
+    private void getRcDataFromExcel(String keyword) {
+        try {
             InputStream is = getAssets().open("source.csv");
             CSVReader reader = new CSVReader(new InputStreamReader(is, StandardCharsets.UTF_8));
             reader.readNext();
@@ -129,10 +132,8 @@ public class JpnToIndActivity extends AppCompatActivity
             Long startTime = System.currentTimeMillis();
             RC RC = new RC(keyword);
 
-            while ((nextLine = reader.readNext()) != null)
-            {
-                if (RC.cari(nextLine[1]))
-                {
+            while ((nextLine = reader.readNext()) != null) {
+                if(RC.cari(nextLine[1])) {
                     Result result = new Result(
                             nextLine[1], nextLine[0], nextLine[2]
                     );
@@ -150,9 +151,7 @@ public class JpnToIndActivity extends AppCompatActivity
             ).show();
 
             adapter.setData(results);
-        }
-        catch (IOException e)
-        {
+        } catch (IOException e) {
             Toast.makeText(this, e.getMessage(), Toast.LENGTH_SHORT).show();
         }
     }

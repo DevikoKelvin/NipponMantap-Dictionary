@@ -2,6 +2,7 @@ Indo,Jepang,Kanji
 Saya,Watashi,私 (わたし）
 Kamu,Kimi,君 (きみ）
 Dia,Anata,あなた
+Orang,Hito,人 (ひと)
 Keluarga,Kazoku,家族 (かぞく) 
 Orang Tua,Ryoushin,両親 (りょうしん)
 Saudara,Kyoudai,兄弟 (きょうだい) 
@@ -38,6 +39,7 @@ Sepupu (Orang Lain),Itokosan,従兄弟さん (いとこさん)
 Cucu,Mago,孫 (まご)
 Bayi,Akachan,赤ちゃん (あかちゃん)
 Sanak Keluarga,Shinseki,親戚 (しんせき)
+Kakak Kelas,Senpai,先輩 (せんぱい)
 Nol,Rei,零 (れい)
 Satu,Ichi,一 (いち）
 Dua,Ni,二 (に)
@@ -49,10 +51,32 @@ Tujuh,Nana,七 (なな)
 Delapan,Hachi,八 (はち)
 Sembilan,Kyu,九 (きゅう）
 Sepuluh,Juu,十 (じゅう)
-Seratus,Hyaku,百
-Seribu,Sen,千
-Sepuluh Ribu,Man,万
-Yen,En,円
+Sebelas,Juuichi,十一 (じゅういち)
+Dua Belas,Juuni,十二 (じゅうに)
+Tiga Belas,Juusan,十三 (じゅうさん)
+Empat Belas,Juuyon,十四 (じゅうよん)
+Lima Belas,Juugo,十五 (じゅうご)
+Enam Belas,Juuroku,十六 (じゅうろく)
+Tujuh Belas,Juunana,十七 (じゅうなな)
+Delapan Belas,Juuhachi,十八 (じゅうはち)
+Sembilan Belas,Juukyuu,十九 (じゅうきゅう)
+Dua Puluh,Nijuu,二十 (にじゅう)
+Tiga Puluh,Sanjuu,三十 (さんじゅう)
+Empat Puluh,Yonjuu,四十 (よんじゅう)
+Lima Puluh,Gojuu,五十 (ごじゅう)
+Enam Puluh,Rokujuu,六十 (ろくじゅう)
+Tujuh Puluh,Nanajuu,七十 (ななじゅう)
+Delapan Puluh,Hachijuu,八十 (はちじゅう)
+Sembilan Puluh,Kyuujuu,九十 (きゅうじゅう)
+Seratus,Hyaku,百 (ひゃく)
+Seribu,Sen,千 (せん)
+Sepuluh Ribu,Man,万 (まん)
+Seratus Ribu,Juuman,十万 (じゅうまん)
+Satu Juta,Hyakuman,百万 (ひゃくまん)
+Sepuluh Juta,Senman,千万 (せんまん)
+Seratus Juta,Oku,億 (おく)
+Satu Triliun,Chou,兆 (ちょう)
+Yen,En,円 (えん)
 Kanan,Migi,右 (みぎ)
 Kiri,Hidari,左 (ひだり)
 Atas,Ue,上 (うえ)
@@ -64,43 +88,60 @@ Belakang,Ushiro,後 (うしろ)
 Dekat,Chikaku,ちかく
 Samping,Tonari,となり
 Sebelah,Yoko,よこ
-Timur,Higashi,東
-Barat,Nishi,西
-Utara,Kita,北
-Selatan,Minami,南
-Musim Semi,Haru,春
-Musim Panas,Natsu,夏
-Musim Gugur,Aki,秋
-Musim Dingin,Fuyu,冬
-Musim Hujan,Tsuyu,梅雨
-Musim Kemarau,Kanki,歓喜
+Timur,Higashi,東 (ひがし)
+Barat,Nishi,西 (にし)
+Utara,Kita,北 (きた)
+Selatan,Minami,南 (みなみ)
+Musim Semi,Haru,春 (はる)
+Musim Panas,Natsu,夏 (なつ)
+Musim Gugur,Aki,秋 (あき)
+Musim Dingin,Fuyu,冬 (ふゆ)
+Musim Hujan,Tsuyu,梅雨 (つゆ)
+Musim Kemarau,Kanki,歓喜 (かんき)
 Cuaca,Tenki,天気 (てんき)
 Hujan,Ame,雨 (あめ)
 Pelangi,Niji,虹 (にじ)
 Angin,Kaze,風 (かぜ)
-Orang,Hito,人 (ひと)
+Badai,Arashi,嵐 (あらし)
 Api,Hi,火 (ひ)
 Air,Mizu,水 (みず)
 Bulan,Tsuki,月 (つき)
 Pohon,Ki,木 (き)
 Tanah,Tsuchi,土 (つち)
+Bintang,Hoshi,星 (ほし)
+Awan,Kumo,雲 (くも)
+Laut,Umi,海 (うみ)
+Pulau,Shima,島 (しま)
+Kebun,Hatake,畑 (はたけ)
+Gunung,Yama,山 (やま)
+Bunga,Hana,花 (はな)
+Pantai,Kaigan,海岸 (かいがん)
+Kolam,Ike,池 (いけ)
+Bukit,Oka,丘 (おか)
+Hutan,Mori,森 (もり)
 Matahari,Hi,日 (ひ)
 Matahari,Taiyou,太陽 (たいよう)
 Sungai,Kawa,川 (かわ)
 Langit,Sora,空 (そら)
+Warna,Shikisai,色彩 (しきさい)
 Hitam,Kuroi,黒い (くろい)
 Putih,Shiroi,白い (しろい)
 Coklat,Chairo,茶色 (ちゃいろ)
 Merah,Akai,赤い (あかい)
-Pink,Momoiro,桃色 (ももいろ)
+Merah Tua,Makka,真っ赤 (まっか)
+Merah Maroon,Akamurasaki,赤紫 (あかむらさき)
+Biru,Aoi,青い (あおい)
+Biru Muda,Mizuiro,水色 (みずいろ)
+Biru Tua,Massao,真っ青 (まっさお)
+Orange,Orenjiiro,オレンジ色 
 Pink,Pinkku,ピンク
 Kuning,Kiiro,黄色 (きいろ)
 Hijau,Midori,緑 (みどり)
-Biru,Aoi,青い (あおい)
 Ungu,Murasaki,紫 (むらさき)
 Abu-abu,Haiiro,灰色 (はいいろ)
 Emas,Kiniro,金色 (きんいろ)
-Silver,Giniro,銀色 (ぎんいろ)
+Perak,Giniro,銀色 (ぎんいろ)
+Peach ,Momoiro,桃色 (ももいろ)
 Buah,Kudamono,果物 (くだもの)
 Pisang,Banana,バナナ
 Strawberry,Ichigo,苺 (いちご)
@@ -114,29 +155,29 @@ Alpukat,Abokado,アボカド
 Nanas,Painappuru,パイナップル 
 Pepaya,Papaiya,パパイヤ 
 Mangga,Mangoo,マンゴー
-Persik,Momo,桃
+Persik,Momo,桃 (もも)
 Jeruk,Orenji,オレンジ 
 Lemon,Remon,レモン 
-Jeruk Mandarin,Mikan,蜜柑 
+Jeruk Mandarin,Mikan,蜜柑 (みかん)
 Blueberry,Buruuberii,ブルーベリー
 Blackberry,Burakkuberii,ブラックベリ 
-Semangka,Saika,西瓜
+Semangka,Saika,西瓜 (さいか)
 Jambu Biji,Guaba,グアバ 
 Nangka,Jakkufuruttsu,ジャックフルッツ
 Delima,Zakuro,ザクロ 
 Cherry,Sakuranbou,さくらんぼう 
 Zaitun,Oriibu,オリーブ 
 Ara,Ichijiku,イチジク 
-Pir,Nashi,梨
+Pir,Nashi,梨 (なし)
 Rasberry,Kiichigo,きいちご 
-Kesemek,Kaki,柿 
-Sayuran,Yasai,野菜
+Kesemek,Kaki,柿 (かき)
+Sayuran,Yasai,野菜 (やさお)
 Tomat,Tomato,トマト 
 Kol,Kyabetsu,キャベツ
 Brokoli,Burokkorii,ブロッコリー 
 Paprika,Piiman,ピーマン 
 Asparagus,Asuparagusu,アスパラガス 
-Kacang,Mame,豆
+Kacang,Mame,豆 (まめ)
 Timun,Kyuuri,きゅうり
 Seledri,Serori,セロリ
 Terong,Nasu,茄子
@@ -150,10 +191,10 @@ Tauge,Mekyabetsu ,メキャベツ
 Kembang Kol,Karifurawaa,カリフラワー
 Ketumbar,Pakuchii,パクチー
 Jahe,Shouga,しょうが 
-Bawang Merah,Tamanegi ,玉葱 
-Bawang Putih,Ninniku ,大蒜 
-Kebun Binatang,Doubutsuen,動物園
-Binatang,Doubutsu,動物
+Bawang Merah,Tamanegi ,玉葱 (たまねぎ)
+Bawang Putih,Ninniku ,大蒜 (にんにく)
+Kebun Binatang,Doubutsuen,動物園 (どうぶつ)
+Binatang,Doubutsu,動物 (どうぶつえん)
 Serigala,Ookami,狼 (おおかみ)
 Harimau,Tora,虎 (とら)
 Anjing,Inu,犬 (いぬ)
@@ -246,13 +287,77 @@ Bahasa Spanyol,Supeingo,スペインご
 Bahasa Perancis,Furansugo,フランスご 
 Bahasa Arab,Arabiago,アラビアご 
 Bahasa Indonesia,Indoneshiago,インドネシアご 
+Pintu,Tobira,扉 (とびら)
+Jendela,Mado,窓 (まど)
+Mebel,Kagu,家具 (かぐ)
 Kursi,Isu,いす 
-Meja,Tsukue,つくえ 
+Meja Kantor,Tsukue,つくえ 
+Meja,Teeburu,テーブル 
+Sofa,Sofaa,ソファー 
+Tempat Tidur,Beddo,ベッド 
+Kasur,Mattoresu,マットレス 
+Selimut Tebal Jepang,Futon,布団 (ふとん)
+Selimut,Moofu,もうふ 
+Bantal,Makura,まくら 
+Seprei,Shiitsu,シーツ 
+Selop,Surippa,スリッパ 
+Tikar,Tatami,畳 (たたみ)
+Sapu,Hooki,ほうき 
+Rak,Tana,たな 
+Rak Buku,Hondana,ほんだな 
+Cermin,Kagami,かがみ 
+Sisir,Kushi,くし 
+Laci,Hikidashi,ひきだし 
+Permadani,Juutan,じゅうたん 
+Gorden,Kaaten,カーテン 
+Lampu Listrik,Dentoo,でんとう 
+Bola Lampu,Denkyuu,でんきゅう 
+Senter,Kaichuu-dentoo,かいちゅうでんとう 
+Kotak Sampah,Gomibako,ごみばこ 
+Kalender,Karendaa,カレンダー 
+Vas,Kabin,カレンダー 
+Pot,Potto,ポット 
 Pensil,Enpitsu,えんぴつ 
-Pen,Pen,ペン 
+Pulpen,Pen,ペン 
 Kamus,Jisho,じしょ 
 Buku,Hon,ほん
 Buku Tulis,Nooto,ノート 
+Buku Pelajaran,Kyoukasho ,教科書 (きょうかしょ) 
+Bolpoin,Boorupen ,ボールペン 
+Gunting,Hasami,鋏 (はさみ) 
+Busur Derajat,Bundoki,分度器 (ぶんどき) 
+Kapur,Chooku,チョーク 
+Papan Tulis,Kokuban,黒板 (こくばん)
+Pensil Mekanik,Shaapupenshiru,シャープペンシル 
+Spidol,Maakaa,マーカー 
+Staples,Hochikisu,ホチキス
+Tempat Pensil,Fudebako,筆箱 (ふでばこ)
+Seragam,Seifuku,征服 (せいふく) 
+Peta,Chizu,地図 (ちず) 
+Ensiklopedia,Hyakkajiten ,百科事典 (ひゃっかじてん) 
+Kalkuator,Dentaku,電卓 (でんたく)
+Kertas,Kami,紙 (かみ) 
+Alat Elektronik,Denki-seehin,でんきせいひん 
+Setrika,Airon,アイロン 
+Mesin Cuci,Sentakuki,せんたくき 
+Penyedot Debu,Soujiki,そうじき 
+Kulkas,Reizouko,れいぞうこ 
+AC,Eakon,エアコン 
+Kipas Angin,Senpuuki,せんぷうき 
+Pemanas Udara,Danbou,だんぼう 
+Oven,Oobun,オーブン
+Oven Microwave,Denshi-renji,でんしレンジ 
+Listrik,Denki,でんき 
+Televisi,Terebi,テレビ 
+Telepon,Denwa,でんわ 
+Radio,Rajio,ラジオ 
+Komputer,Konpyuuta,コンピューター
+Printer,Purintaa,プリンター
+Kamera,Kamera,カメラ 
+Speaker,Supiikaa,スピーカー 
+Smart Phone,Sumaatofon,スマートフォン 
+Handphone,Keitai-denwa,けいたいでんわ
+Pengering Rambut,Doraiyaa,ドライヤー
 Sepeda,Jitensha,じてんしゃ
 Motor,Baiku,バイク 
 Mobil,Kuruma,くるま 
@@ -324,6 +429,7 @@ Beras,Kome,米 (こめ)
 Permen,Ame,あめ 
 Kue Kering,Kukkii,クッキー 
 Kue Tar,Keeki,ケーキ 
+Panekuk Jepang,Dorayaki,どらやき 
 Coklat,Chokoreeto,チョコレート 
 Gula,Satou,さとう 
 Garam,Shio,しお 
@@ -356,7 +462,8 @@ Bento,Bentoo,べんとう
 Mie Goreng,Yakisoba,やきそば 
 Mie Kuah,Ramen,ラーメン 
 Mode,Fasshon,ファッション 
-Pakaian,Fuku,ふく 
+Pakaian,Fuku,ふく
+Seragam,Seifuku,制服 (せいふく)
 Kimono,Kimono,きもの 
 Yukata,Yukata,ゆかた 
 Mantel,Kooto,コート 
@@ -413,11 +520,22 @@ Minggu,Nichiyoubi ,日曜日 (にちようび)
 Hari ini,Kyoo,今日 (きょう)
 Kemarin,Kinoo,昨日 (きのう)
 Lusa,Asatte,明後日 (あさって)
+Fajar,Yoake,夜明け (よあけ)
 Pagi,Asa,朝 (あさ)
 Tadi Pagi,Kesa,今朝 (けさ)
-Siang,Hiru,ひる 
+Siang,Hiru,昼 (ひる)
+Tengah Hari,Shougo,正午 (しょうご)
+Sore,Yuugata,夕方 (ゆうがた)
+Senja,Yuugure,夕暮れ (ゆうぐれ)
 Malam,Yoru,夜 (よる)
+Tengah Malam,Mayonaka,真夜中 (まよなか)
 Tadi Malam,Yuube,夕べ
+Masa Depan,Mirai,未来 (みらい)
+Sekarang,Ima,今 (いま)
+Masa Lalu,Kako,過去 (かこ)
+Jam,Jikan,時間 (じかん)
+Menit,Fun,分 (ふん）
+Detik,Byou,秒 (びょう)
 Malam Ini,Konban,今晩 (こんばん）
 Besok,Ashita,明日 (あした)
 Setiap Hari,Mainichi,毎日 (まいにち)
@@ -452,6 +570,432 @@ Bir,Biiru,ビール
 Wiski,Uisukii,ウイスキー 
 Arak Jepang,Nihonshu,にほんしゅ 
 Kola,Koora,コーラ 
+Ramune,Ramune,ラムネ
+Tubuh,Karada,体 (からだ)
+Muka,Kao,顔 (かお)
+Dahi,Hitai,額 (ひたい)
+Mata,Me,目 (め)
+Hidung,Hana,鼻 (はな)
+Telinga,Mimi,耳 (みみ)
+Pipi,Hoho,頬 (ほほ)
+Dagu,Ago,顎 (あご)
+Mulut,Kuchi,口 (くち)
+Bibir,Kuchibiru,唇 (くちびる)
+Lidah,Shita,舌 (した)
+Gigi,Ha,歯 (は)
+Gigi Geraham Belakang,Maeba,前歯 (まえば)
+Gigi Seri,Okuba,奥歯 (おくば)
+Gigi Taring,Yaeba,八重歯 (やえば)
+Gusi,Haguki,歯茎 (はぐき)
+Gigi Bungsu,Oyashirazu,親知らず (おやしらず)
+Gigi Taring,Kenshi,犬歯 (けんし)
+Kepala,Atama,頭 (あたま)
+Tengkuk Kepala,Unaji,うなじ
+Leher,Kubi,首 (くび)
+Jakun,Nodobotoke,喉仏 (のどぼとけ)
+Bahu,Kata,肩 (かた)
+Lengan,Ude,腕 (うで)
+Siku,Hiji,肘 (ひじ)
+Tangan,Te,手 (て)
+Pergelangan Tangan,Tekubi,手首 (てくび)
+Ketiak,Waki,脇 (わき)
+Dada,Mune,胸 (むね)
+Buah Dada,Chibusa,乳房 (ちぶさ)
+Perut,Hara,腹 (はら)
+Pusar,Heso,臍 (へそ)
+Punggung,Senaka,背中 (せなか)
+Pinggang,Koshi,腰 (こし)
+Pantat,Oshiri,お尻 (おしり)
+Kaki,Ashi,足 (あし)
+Paha,Futomomo,太もも (ふたもも)
+Lutut,Hiza,膝 (ほざ)
+Betis,Fukurahagi,脹脛 (ふくらはぎ)
+Jari,Yubi,指 (ゆび)
+Ibu Jari,Oya-yubi,親指 (おやゆび)
+Jari Telunjuk,Hitosashi-yubi,人差し指 (ひとさしゆび)
+Jari Tengah,Naka-yubi,中指 (なかゆび)
+Jari Manis,Kusuri-yubi,薬指 (くすりゆび)
+Jari Kelingking,Ko-yubi,小指 (こゆび)
+Punggung Tangan,Tenokou,手の甲 (てのこう)
+Telapak Tangan,Tenohira,手のひら (てのひら)
+Pergelangan Kaki,Ashikubi,足首 (あしくび)
+Mata Kaki,Kurubushi,踝 (くるぶし)
+Jari Kaki,Ashiyubi,足指 (あしゆび)
+Ujung Jari Kaki,Tsumasaki,つま先 (つまさき)
+Tumit Kaki,Kakato,踵 (かかと)
+Telapak Kaki,Ashinoura,足の裏 (あしのうら)
+Rambut,Kami,髪 (かみ)
+Alis Mata,Mayuge,眉毛 (まゆげ)
+Bulu Mata,Matsuge,まつ毛 (まつげ)
+Kumis,Kuchihige,口髭 (くちひげ)
+Jenggot,Agohige,顎髭 (あごひげ)
+Bulu Hidung,Hanage,鼻毛 (はなげ)
+Bulu Ketiak,Wakige,腋毛 (わきげ)
+Bulu Dada,Munage,胸毛 (むなげ)
+Otak,Nou,脳 (のう)
+Kerongkongan,Shokudou,食道 (しょくどう)
+Tenggorokan,Nodo,喉 (のど)
+Trakea,Kikan,気管 (きかん)
+Paru-paru,Hai,肺 (はい)
+Jantung,Shinzou,心臓 (しんぞう)
+Lambung,I,胃 (い)
+Usus,Chou,腸 (ちょう)
+Usus Besar,Daichou,大腸 (だいちょう)
+Usus Halus,Shouchou,小腸 (しょうちょう)
+Usus Dua Belas Jari,Juunishichou,十二指腸 (じゅうにしちょう)
+Anus,Koumon,校門 (こうもん)
+Rahim,Shikyuu,子宮 (しきゅう)
+Hati,Kanzou,肝臓 (かんぞう)
+Ginjal,Jinzou,腎臓 (じんぞう)
+Limpa,Hizou,脾臓 (ひぞう)
+Tulang,Hone,骨 (ほね)
+Tengkorak,Zugaikotsu,頭蓋骨 (zうがいこつ)
+Otot,Kinniku,筋肉 (きんいく)
+Darah,Ketsueki,血液 (けつえき)
+Pembuluh Darah,Kekkan,血管 (けっかん)
+Pembuluh Nadi,Doumyaku,動脈 (どうみゃく)
+Pembuluh Darah Vena,Joumyaku,静脈 (じょうみゃく)
+Penis,Penisu,ペニス
+Vagina,Chitsu,膣 (ちつ)
+Sperma,Seishi,精子 (せいし)
+Sel Telur,Ranshi,卵子 (らんし)
+Kulit,Hifu,皮膚 (ひふ)
+Kuku,Tsume,爪 (つめ)
+Kandung Kemih,Boukou,膀胱 (ぼうこう)
+Air Mata,Namida,涙 (なみだ)
+Air Liur,Tsuba,唾 (つば)
+Nafas,Iki,息 (いき)
+Pekerjaan,Shigoto,しごと　 
+Profesi,Shokugyou,しょくぎょう
+Teknisi,Enjinia,エンジニア 
+Pegawai Negeri,Koumuin,こうむいん 
+Perawat,Kangoshi,かんごし 
+Perawat Lansia,Kaigoshi,がくせい 
+Pelajar,Gakusei,がくせい 
+Guru,Sensei,せんせい
+Guru (Profesi),Kyoushi,きょうし 
+Dosen,Koushi,こうし
+Profesor,Kyouju,きょうじゅ
+Peneliti,Kenkyuusha,けんきゅうしゃ
+Ilmuwan,Gakusha,がくしゃ
+Ilmuwan Sains,Kagakusha,かがくしゃ
+Pengusaha,Keieisha,けいえいしゃ
+Kepala Kantor,Shachou,しゃちょう
+Kepala Bagian,Buchou,ぶちょう
+Kepala Seksi,Kachou,かちょう
+Akuntan,Kaikeishi,かいけいし
+Konsultan,Konsarutanto,コンサルタント
+Sekretaris,Hisho,ひしょ
+Dokter,Isha,いしゃ
+Dokter Bersertifikat,Ishi,いし
+Dokter Bedah,Gekai,げかい
+Dokter Penyakit Dalam,Naikai,ないかい
+Dokter Gigi,Sikai,しかい
+Dokter Mata,Gankai,がんかい
+Dokter Hewan,Juui,じゅうい
+Apoteker,Yakuzaishi,やくざいし
+Karyawan,Shain,しゃいん
+Karyawan Kantor,Kaishain,かいしゃいん 
+Karyawan Kontrak,Keikyakushain,けえやくしゃいん
+Karyawan Tetap,Seishain,せいしゃいん
+Pekerja Paruh Waktu,Arubaito,アルバイト
+Pengangguran,Mushoku,むしょく
+Wiraswasta,Jieigyou,じえいぎょう 
+Ibu Rumah Tangga,Shufu,しゅふ 
+Petani,Nooka,のおか
+Jurnalis,Jaanarisuto,じゃアナリスト
+Wartawan,Kisha,きしゃ
+Wartawan Koran,Shinbunkisha,しんぶんきしゃ
+Editor,Henshuusha,へんしゅうしゃ
+Fotografer,Shashinka,しゃしんか
+Reporter,Repoota,レポーオター
+Penyiar,Anaunsaa,アナウンサー
+Aktor,Danyuu,だにゅう
+Aktris,Joyuu,じょゆう
+Penyanyi,Kashu,かしゅ
+Artis,Aatisuto,アーティスト
+Idola,Aidoru,アイドル
+Programmer,Purogurama,プログラマ
+Perancang Web,Webudezaina,ウェブデザイナー
+Komikus,Mangaka,まんがか
+Animator,Animeetaa,アニメーター
+Ilustrator,Irasutoreetaa,イラストレーター
+Desainer,Dezainaa,デザイナー
+Penata Rambut,Biyoushi,びようし
+Perancang Busana,Fasshondezainaa,ファッションデザイナー
+Arsitek,Kenchikuka,けんちくか
+Pelukis,Gaka,がか
+Pengarang,Sakka,さっか
+Novelis,Shousetsuka,しょうせつか
+Musisi,Ongakuka,おんがくか
+Komponis,Sakkyouka,さっきょうか
+Presiden,Daitouryou,だいとうりょう
+Perdana Menteri,Shushou,しゅしょう
+Menteri,Daijin,だいじん
+Anggota Parlemen,Kokkaigiin,こっかいぎいん
+Anggota Parlemen Daerah,Shikaigiin,しかいぎいん
+Gubernur,Chiji,ちじ
+Walikota,Shichou,しちょう
+Politikus,Seijika,せいじか
+Birokrat,Kanryou,かんりょう
+Duta Besar,Taishi,たいし
+Diploma,Gaikoukan,がいこうかん
+Tentara,Gunjin,ぐんじん　
+Pemadam Kebakaran,Shouboushi,しょうぼうし
+Polisi,Keesatsukan,けいさつかん
+Hakim,Saibankan,さいんばんかん
+Jaksa,Kenji,けんじ
+Pengacara,Bengoshi,べんごし
+Dapur,Daidokoro,だいどころ
+Penggorengan,Furaipan,フライパン
+Panci,Nabe,なべ
+Ketel,Yakan,やかん
+Pisau,Naifu,ナイフ
+Talenan,Manaita,まないた
+Centong Sayur,Otama,おたま
+Bakul,Zaru,ざる
+Baki,Obon,おぼん
+Piring,Sara,さら
+Mangkok,Chawan,ちゃわん
+Cangkir,Kappu,カップ 
+Gelas,Gurasu,グラス
+Sumpit,Hashi,はし
+Garpu,Fooku,フォーク
+Pisau Dapur,Houchou,ほうちょう
+Sendok,Supuun,スプーン
+Sedotan,Sutoroo,ストロー
+Kamar Mandi,Furo,風呂 (ふろ)
+Bak Mandi,Basutabu,バスタブ
+Shower,Shawaa,シャワー
+Sampo,Shanpuu,シャンプー
+Wastafel,Senmendai,せんめんだい
+Sabun,Sekken,せっけん
+Toilet,Toire,トイレ
+Olahraga,Supootsu,スポーツ 
+Bola,Booru,ボール
+Bulutangkis,Badominton,バドミントン
+Sepak Bola,Sakkaa,サッカー
+Bola Basket,Basuketto-booru,バスケットボール
+Bola Voli,Baree-booru,バレーボール
+Golf,Gorufu,ゴルフ
+Tenis,Tenisu,テニス
+Tenis Meja,Takkyuu,たっきゅう
+Baseball,Yakyuu,やきゅう
+Silat,Shiratto,シラット
+Karate,Karate,からて
+Judo,Juudou,じゅうどう
+Sumo,Sumoo,すもう
+Kendo,Kendoo,けんどう
+Gulat,Resuringu,レスリング
+Tinju,Bokushingu,ボクシング
+Panahan,Aacherii,アーチェリー
+Atletik,Rikujou,りくじょう
+Maraton,Marason,マラソン
+Senam,Taisou,たいそう
+Gym,Jimu,ジム
+Renang,Suiei,すいえい
+Selancar,Saafin,サーフィン
+Bowling,Bouringu,ボウリング
+Jogging,Jogingu,ジョギング
+Ski,Sukii,スキー
+Skating Es,Sukeeto,スケート
+Enak,Oishii,おいしい
+Tidak Enak,Mazui,まずい
+Mahal,Takai,高い (たかい) 
+Murah,Yasui,安い (やすい) 
+Cepat,Hayai,早い (はやい) 
+Lambat,Osoi,遅い (おそい) 
+Manis,Amai,甘い (あまい) 
+Pedas,Karai,辛い (からい) 
+Asin,Shiokarai,塩辛い (しおからい) 
+Asam,Suppai,すっぱい
+Pahit,Nigai,苦い (にがい) 
+Panas,Atsui,暑い (あつい)
+"Hangat (Suhu, Cuaca)",Atatakai,暖かい (あたたかい)
+Hangat (Benda),Atatakai,温かい (あたたかい)
+Dingin (Benda),Tsumetai,冷たい (つめたい)
+"Dingin (Suhu, Cuaca)",Samui,寒い (さむい)
+Sejuk,Suzushii,涼しい (すずしい) 
+Lembab,Mushiatsui,蒸し暑い (むしあつい)
+Terang,Akarui,明るい (あかるい) 
+Gelap,Kurai,暗い (くらい) 
+Baru,Atarashii,新しい (あたらしい) 
+Lama,Furui,古い (ふるい) 
+Besar,Ookii,大きい (おおきい) 
+Kecil,Chiisai,小さい (ちいさい) 
+Bersih,Kirei,きれい 
+Kotor,Kitanai,汚い (きたない) 
+Kuat,Tsuyoi,強い (つよい) 
+Lemah,Yowai,弱い (よわい) 
+Tinggi,Takai,高い (たかい) 
+Rendah,Hikui,低い (ひくい) 
+Jauh,Tooi,遠い (とおい) 
+Dekat,Chikai,近い (ちかい) 
+Suka,Suki,好き (すき) 
+Panjang,Nagai,長い (ながい) 
+Pendek,Mijikai,短い (みじかい) 
+Tebal,Atsui,厚い (あつい) 
+Tipis,Usui,薄い (うすい) 
+Berat,Omoi,重い (おもい) 
+Ringan,Karui,軽い (かるい) 
+Menarik,Omoshiroi,面白い (おもしろい) 
+Membosankan,Tsumaranai,つまらない 
+Senang,Ureshii,うれしい 
+Kesepian,Sabishii,寂しい (さびしい) 
+Takut,Kowai,怖い (こわい) 
+Sedih,Kanashii,悲しい (かなしい) 
+Malu,Hazukashii,恥かしい (はずかしい) 
+Iri Hati,Urayamashii,羨ましい (うらやましい) 
+Ngantuk,Nemui,眠い (ねむい) 
+Khawatir,Shinpai,心配 (しんぱい) 
+Cemas,Fuan,不安 (ふあん) 
+Benci,Kirai,嫌い (きらい)
+Suka Sekali,Daisuki,大好き (だいすき) 
+Benci Sekali,Daikirai,大嫌い (だいきらい) 
+Tidak Apa-apa,Daijoubu,大丈夫 (だいじょうぶ) 
+Tidak Boleh,Dame,駄目 (だめ) 
+Jangan,Ikenai,いけない
+Imut,Kawaii,可愛い (かわいい)
+Detail,Kuwashii,詳しい (くわしい)
+Sakit,Itai,痛い (いたい) 
+Cerewet,Urusai,うるさい 
+Bulat,Marui,丸い (まるい)
+Banyak,Ooi,多い (おおい)
+Sedikit,Sukunai,少ない (すくない)
+Tajam ,Surudoi,鋭い (するどい)
+Benar,Tadashii,正しい (ただしい) 
+Hebat,Sugoi,すごい 
+Jelek,Warui,悪い (わるい) 
+Kejam,Hidoi,ひどい (ひどい) 
+Langka,Mezurashii,珍しい (めずらしい) 
+Baik Hati,Yasashii,優しい (やさしい) 
+Mudah,Yasashii,易しい (やさしい) 
+Sulit,Muzukashii,難しい (むずかしい) 
+Berbahaya,Abunai,危ない (あぶない) 
+Aman,Anzen,安全(あんぜん) 
+Penting,Daijin,大事 (だいじ) 
+Penting,Taisestsu,大切 (たいせつ) 
+Sia-sia,Muda,無駄 (むだ) 
+Mendadak,Kyuu,急 (きゅう)
+Tampan,Hansamu,ハンサム 
+Keras Kepala,Ganko,頑固 (がんこ) 
+Penurut,Sunao,素直 (すなお)
+Egois,Wagamama,わがまま 
+Menyayangkan,Zannen,残念 (ざんねん)
+Bahagia,Shiawase,幸せ (しあわせ) 
+Praktis,Benri,便利 (べんり) 
+Tidak Praktik,Fuben,不便 (ふべん) 
+Aneh,Hen,変 (へん) 
+Rumit,Fukuzatsu,複雑 (ふくざつ) 
+Mudah,Kantan,簡単 (かんたん) 
+Tegas,Kibishii,厳しい (きびしい) 
+Rajin,Majime,真面目 (まじめ) 
+Tidak Rajin,Fumajime,不真面目 (ふまじめ) 
+Mengganggu,Jama,邪魔 (じゃま) 
+Ajaib,Fushigi,不思議(ふしぎ) 
+Sama,Onaji,同じ(おなじ) 
+Bertemu,Au,合う (あう)
+Mencuci,Arau,洗う (あらう)
+Berkata,Iu,言う (いう)
+Menyanyi,Utau,歌う (うたう)
+Membeli,Kau,買う (かう)
+Mengisap,Suu,吸う (すう)
+Berbeda,Chigau,違う (ちがう)
+Memakai,Tsukau,使う (つかう)
+Mempelajari,Narau,習う (ならう)
+Makan,Taberu,食べる (たべる)
+Minum,Nomu,飲む (わらう)
+Melihat,Miru,見る (みる)
+Berbicara,Hanasu,話す (はなす)
+Menulis,Kaku,書く (かく)
+Berenang,Oyogu,泳ぐ (およぐ)
+Mencintai,Aisuru,愛する (あいする)
+Menjadi,Naru,成る (なる)
+Menekan,Osu,押す (おす)
+Tertawa,Warau,笑う (わらう)
+Bingung,Mayou,迷う (まよう) 
+Berdiri,Tatsu,立つ (たつ) 
+Menunggu,Matsu,待つ (まつ) 
+Berlari,Hashiru,走る (はしる)
+Memerlukan,Kakaru,掛かる (かかる) 
+Naik (Kendaraan),Noru,乗る (のる) 
+Naik (Tangga),Agaru,上がる (あがる) 
+Melewati,Tooru,通る (とおる) 
+Mendaki,Noboru,登る (のぼる)
+Pulang,Kaeru,帰る (かえる) 
+Tinggal,Sumu,住む (すむ) 
+Mati,Shinu,死ぬ (しぬ)
+Membaca,Yomu,読む (よむ) 
+Istirahat,Yasumu,休む (やすむ) 
+Bermain,Asobu,遊ぶ (あそぶ)  
+Bekerja,Hataraku,働く (はたらく) 
+Pergi,Iku,行く (いく) 
+Menarik,Hiku,引く (ひく) 
+Berjalan,Aruku,歩く (あるく)  
+Bergegas,Isogu,急ぐ (いそぐ) 
+Mengembalikan,Kaesu,返す (かえす) 
+Mengeluarkan,Dasu,出す (だす) 
+Menyerahkan,Watasu,渡す (わたす)  
+Memaksa,Shiiru,強いる (しいる)
+Memikirkan,Anjiru,案じる (あんじる)
+Menanam,Ueru,植える (うえる) 
+Mengajar,Oshieru,教える (おしえる) 
+Mengubah,Kaeru,変える (かえる) 
+Menjawab,Kotaeru,答える (こたえる) 
+Mengetahui,Shiru,知る (しる)  
+Bertanding,Shiaisuru,試合する (しあいする)
+Melafalkan,Hatsuonsuru,発音する (はつおんする) 
+Menerangkan,Setsumeisuru,説 明する (せつめいする)
+Bangun,Okiru,起きる (おきる)
+Terjadi,Okoru,起こる (おこる)
+Tidur,Neru,寝る (ねる) 
+Bodoh (Kasar),Baka,馬鹿 (ばか) 
+Ada (Benda Hidup),Iru,いる 
+Ada (Benda Mati),Aru,有る (ある)
+Membuka,Akeru,開ける (あける)
+Mendengar,Kiku,聞く (きく)
+Membuang,Suteru,捨てる (すてる) 
+Memukul,Utsu,打つ (うつ)
+Meminta,Tanomu,頼む (たのむ) 
+Berkenalan,Shiriau,知り合う (しりあう) 
+Menolong,Tetsudau,手伝う (てつだう) 
+Mengajak,Sasou,誘う (さそう) 
+Mencuri,Nusumu,盗む (ぬすむ) 
+Memotong,Kiru,切る (きる) 
+Menendang,Keru,蹴る (ける) 
+Mencubit,Tsuneru,抓る (つねる) 
+Bersaing,Seru,競る (ねる)
+Memuji,Omoneru,阿る (おもねる)
+Menuangkan,Sosogu,注ぐ (そそぐ) 
+Menambah,Tasu,足す (たす) 
+Tertolong,Tasukaru,助かる (たすかる)
+Kehilangan,Ushinau,失う (うしなう)
+Membunuh,Korosu,殺す (ころす) 
+Membusuk,Kusaru,腐る (くさる) 
+Tertutup,Shimeru,閉める (しめる)  
+Membeku,Kooru,‎凍る (こおる)
+Mengeringkan,Kawakasu,乾かす (かわかす) 
+Mengulang,Kurikaesu,くり返す (くりかえす) 
+Merusak,Kowasu,壊す (こわす)  
+Ini,Kore,これ
+Itu (Dekat),Sore,それ
+Itu (Jauh),Are,あれ
+Halo,Moshi-moshi,もしもし
+Selamat Datang,Irasshaimase,いらっしゃいませ
+Selamat Pagi (Formal),Ohayou-gozaimasu,おはようございます
+Selamat Pagi (Informal),Ohayou,おはよう
+Selamat Siang,Konnichiwa,こんいちわ
+Selamat Malam,Konbanwa,こんばんわ
+Selamat Tidur,Oyasuminasai,おやすみなさい
+Selamat Makan,Itadakimasu,いただきます
+Terima Kasih (Formal),Arigatou-gozaimasu,ありがとうございます
+Terima Kasih (Informal),Arigatou,ありがとうございます
+Mohon Maaf,Gomennasai,ごめんなさい
+Mohon Maaf,Sumimasen,すみません
 Malaikat,Tenshi,天使
 Ekor,Shippo,しっぽ
 Bunga Matahari,Himawari,ひまわり
+Berikutnya,Tsugi,つぎ 
+Petak Umpet,Kakurenbo,かくれんぼ
+Cinta Pertama,Hatsukoi,初恋 (はつこい)
+Pacar,Koibito,恋人 (こいびと) 

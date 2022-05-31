@@ -63,16 +63,13 @@ public class IndToJpnActivity extends AppCompatActivity
             }
         });
 
-        searchRcBtn.setOnClickListener(view ->
-        {
+        searchRcBtn.setOnClickListener(view -> {
             String keyword;
 
-            if (tieKeyword != null)
-            {
+            if (tieKeyword != null) {
                 keyword = tieKeyword.getText().toString();
 
-                if (!keyword.isEmpty())
-                {
+                if (!keyword.isEmpty()) {
                     getRcDataFromExcel(keyword);
                 }
             }
@@ -124,10 +121,8 @@ public class IndToJpnActivity extends AppCompatActivity
         }
     }
 
-    private void getRcDataFromExcel(String keyword)
-    {
-        try
-        {
+    private void getRcDataFromExcel(String keyword) {
+        try {
             InputStream is = getAssets().open("source.csv");
             CSVReader reader = new CSVReader(new InputStreamReader(is, StandardCharsets.UTF_8));
             reader.readNext();
@@ -138,10 +133,8 @@ public class IndToJpnActivity extends AppCompatActivity
             Long startTime = System.currentTimeMillis();
             RC RC = new RC(keyword);
 
-            while ((nextLine = reader.readNext()) != null)
-            {
-                if (RC.cari(nextLine[0]))
-                {
+            while ((nextLine = reader.readNext()) != null) {
+                if(RC.cari(nextLine[0])) {
                     Result result = new Result(
                             nextLine[0], nextLine[1], nextLine[2]
                     );
@@ -159,9 +152,7 @@ public class IndToJpnActivity extends AppCompatActivity
             ).show();
 
             adapter.setData(results);
-        }
-        catch (IOException e)
-        {
+        } catch (IOException e) {
             Toast.makeText(this, e.getMessage(), Toast.LENGTH_SHORT).show();
         }
     }
