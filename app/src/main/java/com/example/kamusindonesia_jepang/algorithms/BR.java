@@ -3,7 +3,7 @@ package com.example.kamusindonesia_jepang.algorithms;
 public class BR
 {
     char[] pattern, kalimat;
-    int[][] brBc = new int[256][256];
+    int[][] brBc = new int[512][512];
     int a, b, i;
 
     public BR(String X)

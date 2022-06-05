@@ -1,1001 +1,1002 @@
-Indo,Jepang,Kanji
-Saya,Watashi,私 (わたし）
-Kamu,Kimi,君 (きみ）
-Dia,Anata,あなた
-Orang,Hito,人 (ひと)
-Keluarga,Kazoku,家族 (かぞく) 
-Orang Tua,Ryoushin,両親 (りょうしん)
-Saudara,Kyoudai,兄弟 (きょうだい) 
-Ayah (Saya),Chichi,父 (ちち)
-Ayah (Orang Lain),Otousan,お父さん (おとうさん)
-Ibu (Saya),Haha,母 (はは)
-Ibu (Orang Lain),Okaasan,お母さん (おかあさん)
-Kakak Laki-laki (Saya),Ani,兄 (あに) 
-Kakak Laki-laki (Orang Lain),Oniisan,お兄さん (おにいさん)
-Kakak Perempuan (Saya),Ane,姉 (あね) 
-Kakak Perempuan (Orang Lain),Oneesan,お姉さん (おねえさん) 
-Adik Laki-laki (Saya),Otouto,弟 (おとうと)
-Adik Laki-laki (Orang Lain),Otoutosan,弟さん (おとうとさん)
-Adik Perempuan (Saya),Imouto,妹 (いもうと)
-Adik Perempuan (Orang Lain),Imoutosan,妹さん (いもうとさん)
-Kakek (Saya),Sofu,祖父 (そふ)
-Kakek (Orang Lain),Ojiisan,お祖父さん (おじいさん)
-Nenek (Saya),Sobo,祖母 (そぼ)
-Nenek (Orang Lain),Obaasan,お祖母さん (おばあさん)
-Suami (Saya),Otto,夫 (おっと)
-Suami (Orang Lain),Goshujin,主人 (ごしゅじん)
-Istri (Saya),Tsuma,妻 (つま)
-Istri (Orang Lain),Okusan,奥さん (おくさん)
-Anak,Kodomo,子供 (こども) 
-Anak (Orang Lain),Okosan,おこさん 
-Anak Laki-laki,Musuko,息子 (むすこ)
-Anak Perempuan,Musume,娘 (むすめ)
-Paman (Saya),Oji,叔父 (おじ)
-Paman (Orang Lain),Ojisan,叔父さん (おじさん)
-Bibi (Saya),Oba,叔母 (おば)
-Bibi (Orang Lain),Obasan,叔母さん (おばさん)
-Sepupu (Saya),Itoko,従兄弟 (いとこ)
-Sepupu (Orang Lain),Itokosan,従兄弟さん (いとこさん)
-Cucu,Mago,孫 (まご)
-Bayi,Akachan,赤ちゃん (あかちゃん)
-Sanak Keluarga,Shinseki,親戚 (しんせき)
-Kakak Kelas,Senpai,先輩 (せんぱい)
-Nol,Rei,零 (れい)
-Satu,Ichi,一 (いち）
-Dua,Ni,二 (に)
-Tiga,San,三 (さん)
-Empat,Shi,四 (し)
-Lima,Go,五 (ご)
-Enam,Roku,六 (ろく）
-Tujuh,Nana,七 (なな)
-Delapan,Hachi,八 (はち)
-Sembilan,Kyu,九 (きゅう）
-Sepuluh,Juu,十 (じゅう)
-Sebelas,Juuichi,十一 (じゅういち)
-Dua Belas,Juuni,十二 (じゅうに)
-Tiga Belas,Juusan,十三 (じゅうさん)
-Empat Belas,Juuyon,十四 (じゅうよん)
-Lima Belas,Juugo,十五 (じゅうご)
-Enam Belas,Juuroku,十六 (じゅうろく)
-Tujuh Belas,Juunana,十七 (じゅうなな)
-Delapan Belas,Juuhachi,十八 (じゅうはち)
-Sembilan Belas,Juukyuu,十九 (じゅうきゅう)
-Dua Puluh,Nijuu,二十 (にじゅう)
-Tiga Puluh,Sanjuu,三十 (さんじゅう)
-Empat Puluh,Yonjuu,四十 (よんじゅう)
-Lima Puluh,Gojuu,五十 (ごじゅう)
-Enam Puluh,Rokujuu,六十 (ろくじゅう)
-Tujuh Puluh,Nanajuu,七十 (ななじゅう)
-Delapan Puluh,Hachijuu,八十 (はちじゅう)
-Sembilan Puluh,Kyuujuu,九十 (きゅうじゅう)
-Seratus,Hyaku,百 (ひゃく)
-Seribu,Sen,千 (せん)
-Sepuluh Ribu,Man,万 (まん)
-Seratus Ribu,Juuman,十万 (じゅうまん)
-Satu Juta,Hyakuman,百万 (ひゃくまん)
-Sepuluh Juta,Senman,千万 (せんまん)
-Seratus Juta,Oku,億 (おく)
-Satu Triliun,Chou,兆 (ちょう)
-Yen,En,円 (えん)
-Kanan,Migi,右 (みぎ)
-Kiri,Hidari,左 (ひだり)
-Atas,Ue,上 (うえ)
-Bawah,Shita,下 (した)
-Dalam,Naka,中 (なか)
-Luar,Soto,外 (そと)
-Depan,Mae,前 (まえ)
-Belakang,Ushiro,後 (うしろ)
-Dekat,Chikaku,ちかく
-Samping,Tonari,となり
-Sebelah,Yoko,よこ
-Timur,Higashi,東 (ひがし)
-Barat,Nishi,西 (にし)
-Utara,Kita,北 (きた)
-Selatan,Minami,南 (みなみ)
-Musim Semi,Haru,春 (はる)
-Musim Panas,Natsu,夏 (なつ)
-Musim Gugur,Aki,秋 (あき)
-Musim Dingin,Fuyu,冬 (ふゆ)
-Musim Hujan,Tsuyu,梅雨 (つゆ)
-Musim Kemarau,Kanki,歓喜 (かんき)
-Cuaca,Tenki,天気 (てんき)
-Hujan,Ame,雨 (あめ)
-Pelangi,Niji,虹 (にじ)
-Angin,Kaze,風 (かぜ)
-Badai,Arashi,嵐 (あらし)
-Api,Hi,火 (ひ)
-Air,Mizu,水 (みず)
-Bulan,Tsuki,月 (つき)
-Pohon,Ki,木 (き)
-Tanah,Tsuchi,土 (つち)
-Bintang,Hoshi,星 (ほし)
-Awan,Kumo,雲 (くも)
-Laut,Umi,海 (うみ)
-Pulau,Shima,島 (しま)
-Kebun,Hatake,畑 (はたけ)
-Gunung,Yama,山 (やま)
-Bunga,Hana,花 (はな)
-Pantai,Kaigan,海岸 (かいがん)
-Kolam,Ike,池 (いけ)
-Bukit,Oka,丘 (おか)
-Hutan,Mori,森 (もり)
-Matahari,Hi,日 (ひ)
-Matahari,Taiyou,太陽 (たいよう)
-Sungai,Kawa,川 (かわ)
-Langit,Sora,空 (そら)
-Warna,Shikisai,色彩 (しきさい)
-Hitam,Kuroi,黒い (くろい)
-Putih,Shiroi,白い (しろい)
-Coklat,Chairo,茶色 (ちゃいろ)
-Merah,Akai,赤い (あかい)
-Merah Tua,Makka,真っ赤 (まっか)
-Merah Maroon,Akamurasaki,赤紫 (あかむらさき)
-Biru,Aoi,青い (あおい)
-Biru Muda,Mizuiro,水色 (みずいろ)
-Biru Tua,Massao,真っ青 (まっさお)
-Orange,Orenjiiro,オレンジ色 
-Pink,Pinkku,ピンク
-Kuning,Kiiro,黄色 (きいろ)
-Hijau,Midori,緑 (みどり)
-Ungu,Murasaki,紫 (むらさき)
-Abu-abu,Haiiro,灰色 (はいいろ)
-Emas,Kiniro,金色 (きんいろ)
-Perak,Giniro,銀色 (ぎんいろ)
-Peach ,Momoiro,桃色 (ももいろ)
-Buah,Kudamono,果物 (くだもの)
-Pisang,Banana,バナナ
-Strawberry,Ichigo,苺 (いちご)
-Apel,Ringo,リンゴ 
-Anggur,Budou,ブドウ 
-Durian,Dorian,ドリアン 
-Kelapa,Kokonattsu,ココナッツ 
-Kiwi,Kiui,キウィ 
-Melon,Meron,メロン 
-Alpukat,Abokado,アボカド 
-Nanas,Painappuru,パイナップル 
-Pepaya,Papaiya,パパイヤ 
-Mangga,Mangoo,マンゴー
-Persik,Momo,桃 (もも)
-Jeruk,Orenji,オレンジ 
-Lemon,Remon,レモン 
-Jeruk Mandarin,Mikan,蜜柑 (みかん)
-Blueberry,Buruuberii,ブルーベリー
-Blackberry,Burakkuberii,ブラックベリ 
-Semangka,Saika,西瓜 (さいか)
-Jambu Biji,Guaba,グアバ 
-Nangka,Jakkufuruttsu,ジャックフルッツ
-Delima,Zakuro,ザクロ 
-Cherry,Sakuranbou,さくらんぼう 
-Zaitun,Oriibu,オリーブ 
-Ara,Ichijiku,イチジク 
-Pir,Nashi,梨 (なし)
-Rasberry,Kiichigo,きいちご 
-Kesemek,Kaki,柿 (かき)
-Sayuran,Yasai,野菜 (やさお)
-Tomat,Tomato,トマト 
-Kol,Kyabetsu,キャベツ
-Brokoli,Burokkorii,ブロッコリー 
-Paprika,Piiman,ピーマン 
-Asparagus,Asuparagusu,アスパラガス 
-Kacang,Mame,豆 (まめ)
-Timun,Kyuuri,きゅうり
-Seledri,Serori,セロリ
-Terong,Nasu,茄子
-Kedelai,Daizu,大豆
-Kacang Merah,Azuki,小豆
-Selada,Retasu,レタス
-Wortel,Ninjin,人参
-Kentang,Jagaimo,じゃがいも
-Ubi Jalar,Satsumaimo,さつまいも
-Tauge,Mekyabetsu ,メキャベツ 
-Kembang Kol,Karifurawaa,カリフラワー
-Ketumbar,Pakuchii,パクチー
-Jahe,Shouga,しょうが 
-Bawang Merah,Tamanegi ,玉葱 (たまねぎ)
-Bawang Putih,Ninniku ,大蒜 (にんにく)
-Kebun Binatang,Doubutsuen,動物園 (どうぶつ)
-Binatang,Doubutsu,動物 (どうぶつえん)
-Serigala,Ookami,狼 (おおかみ)
-Harimau,Tora,虎 (とら)
-Anjing,Inu,犬 (いぬ)
-Kucing,Neko,猫 (ねこ)
-Kuda,Uma,馬 (うま)
-Kelinci,Usagi,兎 (うさぎ)
-Tikus,Nezumi,鼠 (ねずみ)
-Ular,Hebi,蛇 (へび)
-Katak,Kaeru,蛙 (かえる)
-Lebah,Hachi,蜂 (はち)
-Sapi,Ushi,牛 (うし)
-Babi,Buta,豚 (ぶた)
-Singa,Raion,ライオン
-Kambing,Yagi,山羊(やぎ)
-Domba,Hitsuji,羊(ひつじ)
-Ikan,Sakana,魚 (さかな)
-Burung,Tori,鳥 (とり)
-Jerapah,Kirin,麒麟 (きりん)
-Gajah,Zou,象 (ぞう)
-Unta,Rakuda,駱駝 (らくだ)
-Rusa,Shika,鹿 (しか)
-Beruang,Kuma,熊 (くま)
-Monyet,Saru,猿 (さる)
-Semut,Ari,蟻 (あり)
-Belut,Unagi,鰻 (うなぎ)
-Kupu-kupu,Chou,蝶 (ちょう)
-Laba-laba,Kumo,蜘蛛 (くも)
-Nyamuk,Ka,蚊 (か)
-Cacing Tanah,Mimizu,蚯蚓 (みみず)
-Tupai,Risu,栗鼠 (りす)
-Elang,Washi,鷲 (わし)
-Ayam,Niwatori,鶏 (にわとり)
-Kepiting,Kani,蟹 (かに)
-Kelelawar,Koumori,蝙蝠 (こうもり)
-Anjing Laut,Azarashi,海豹 (あざらし)
-Ikan Paus,Kujira,鯨 (くじら)
-Ikan Lele,Namazu,鯰 (なまず)
-Panda,Panda,パンダ
-Pinguin,Pengin,ペンギン
-Gorila,Gorira,ゴリラ
-Koala,Koara,コアラ
-Kanguru,Kangaruu,カンガルー
-Iguana,Iguana,イグアナ
-Bunglon,Kamereon,カメレオン
-Flamingo,Furamingo,フラミンゴ
-Udang,Ebi,海老 (えび)
-Cumi-cumi,Ika,烏賊 (いか)
-Kerang,Hamaguri,蛤 (はまぐり)
-Gurita,Tako,蛸 (たこ)
-Negara,Kuni,国 (くに)
-Asia,Ajia,アジア 
-Afrika,Afurika,アフリカ 
-Eropa,Yooroppa,ヨーロッパ 
-Amerika,Amerika,アメリカ 
-Australia,Oosutoraria,オーストラリア 
-Inggris,Igirisu,イギリス 
-Italia,Itaria,イタリア 
-India,Indo,インド 
-Indonesia,Indoneshia,インドネシア 
-Mesir,Ejiputo,エジプト 
-Kanada,Kanada,カナダ 
-Korea Selatan,Kankoku,かんこく 
-Spanyol,Supein,スペイン 
-Sri Lanka,Suriranka,スリランカ 
-Thailand,Tai,タイ 
-Cina,Chuugoku,ちゅうごく 
-Jerman,Doitsu,ドイツ 
-Jepang,Nihon/Nippon,にほん／にっぽん 
-Selandia Baru,Nyuujirando,ニュージーランド 
-Hungaria,Hangarii,ハンガリー 
-Filipina,Firipin,フィリピン 
-Brazil,Burajiru,ブラジル 
-Perancis,Furansu,フランス 
-Vietnam,Betonamu,ベトナム 
-Malaysia,Mareeshia,マレーシア 
-Meksiko,Mekishiko,メキシコ 
-Rusia,Roshia,ロシア 
-Luar Negeri,Gaikoku,がいこく 
-Orang Asing,Gaikokujin,がいこくじん 
-Orang Jepang,Nihonjin,にほんじん 
-Siswa Asing,Ryuugakusee,りゅうがくせい 
-Bahasa,Kotoba,ことば
-Bahasa Asing,Gaikokugo,がいこくご 
-Bahasa Jepang,Nihongo,にほんご 
-Bahasa Inggris,Eego,えいご 
-Bahasa Korea,Kankokugo,かんこくご 
-Bahasa Cina,Chuugokugo,ちゅうごくご 
-Bahasa Jerman,Doitsugo,ドイツご 
-Bahasa Spanyol,Supeingo,スペインご 
-Bahasa Perancis,Furansugo,フランスご 
-Bahasa Arab,Arabiago,アラビアご 
-Bahasa Indonesia,Indoneshiago,インドネシアご 
-Pintu,Tobira,扉 (とびら)
-Jendela,Mado,窓 (まど)
-Mebel,Kagu,家具 (かぐ)
-Kursi,Isu,いす 
-Meja Kantor,Tsukue,つくえ 
-Meja,Teeburu,テーブル 
-Sofa,Sofaa,ソファー 
-Tempat Tidur,Beddo,ベッド 
-Kasur,Mattoresu,マットレス 
-Selimut Tebal Jepang,Futon,布団 (ふとん)
-Selimut,Moofu,もうふ 
-Bantal,Makura,まくら 
-Seprei,Shiitsu,シーツ 
-Selop,Surippa,スリッパ 
-Tikar,Tatami,畳 (たたみ)
-Sapu,Hooki,ほうき 
-Rak,Tana,たな 
-Rak Buku,Hondana,ほんだな 
-Cermin,Kagami,かがみ 
-Sisir,Kushi,くし 
-Laci,Hikidashi,ひきだし 
-Permadani,Juutan,じゅうたん 
-Gorden,Kaaten,カーテン 
-Lampu Listrik,Dentoo,でんとう 
-Bola Lampu,Denkyuu,でんきゅう 
-Senter,Kaichuu-dentoo,かいちゅうでんとう 
-Kotak Sampah,Gomibako,ごみばこ 
-Kalender,Karendaa,カレンダー 
-Vas,Kabin,カレンダー 
-Pot,Potto,ポット 
-Pensil,Enpitsu,えんぴつ 
-Pulpen,Pen,ペン 
-Kamus,Jisho,じしょ 
-Buku,Hon,ほん
-Buku Tulis,Nooto,ノート 
-Buku Pelajaran,Kyoukasho ,教科書 (きょうかしょ) 
-Bolpoin,Boorupen ,ボールペン 
-Gunting,Hasami,鋏 (はさみ) 
-Busur Derajat,Bundoki,分度器 (ぶんどき) 
-Kapur,Chooku,チョーク 
-Papan Tulis,Kokuban,黒板 (こくばん)
-Pensil Mekanik,Shaapupenshiru,シャープペンシル 
-Spidol,Maakaa,マーカー 
-Staples,Hochikisu,ホチキス
-Tempat Pensil,Fudebako,筆箱 (ふでばこ)
-Seragam,Seifuku,征服 (せいふく) 
-Peta,Chizu,地図 (ちず) 
-Ensiklopedia,Hyakkajiten ,百科事典 (ひゃっかじてん) 
-Kalkuator,Dentaku,電卓 (でんたく)
-Kertas,Kami,紙 (かみ) 
-Alat Elektronik,Denki-seehin,でんきせいひん 
-Setrika,Airon,アイロン 
-Mesin Cuci,Sentakuki,せんたくき 
-Penyedot Debu,Soujiki,そうじき 
-Kulkas,Reizouko,れいぞうこ 
-AC,Eakon,エアコン 
-Kipas Angin,Senpuuki,せんぷうき 
-Pemanas Udara,Danbou,だんぼう 
-Oven,Oobun,オーブン
-Oven Microwave,Denshi-renji,でんしレンジ 
-Listrik,Denki,でんき 
-Televisi,Terebi,テレビ 
-Telepon,Denwa,でんわ 
-Radio,Rajio,ラジオ 
-Komputer,Konpyuuta,コンピューター
-Printer,Purintaa,プリンター
-Kamera,Kamera,カメラ 
-Speaker,Supiikaa,スピーカー 
-Smart Phone,Sumaatofon,スマートフォン 
-Handphone,Keitai-denwa,けいたいでんわ
-Pengering Rambut,Doraiyaa,ドライヤー
-Sepeda,Jitensha,じてんしゃ
-Motor,Baiku,バイク 
-Mobil,Kuruma,くるま 
-Taksi,Takushii,タクシー 
-Bus,Basu,バス 
-Ambulans,Kyuukyuu,きゅうきゅうしゃ 
-Mobil Pemadam Kebakaran,Shooboosha,しょうぼうしゃ
-Mobil Polisi,Patokaa,パトカー
-Truk,Torakku,トラック
-Sedan,Sedan,セダン
-Kereta,Densha,でんしゃ 
-Kereta Bawah Tanah,Chikatetsu,ちかてつ 
-Kereta Peluru,Shinkansen,しんかんせん 
-Monorel,Monoreeru,モノレール 
-Pesawat,Hikouki,ひこうき 
-Helikopter,Herikoputaa,ヘリコプター
-Pesawat Tempur,Sentooki,せんとき
-Kapal,Fune,ふね 
-Kapal Penumpang,Kyakusen,きゃくせん
-Kapal Barang,Kamotsuen,かもつせん
-Kapal Feri,Ferii,フェリー
-Kapal Penangkap Ikan,Gyosen,ぎょせん
-Kapal Perang,Gunkan,ぐんかん
-Kapal Tempur,Senkan,せんかん
-Kapal Selam,Sensuikan,せんすいかん
-Yacht,Yotto,ヨット
-Perahu,Booto,ボート
-Kano,Kanuu,カヌー
-Kayak,Kayakku,カヤック
-Rumah,Ie,いえ
-Rumah Susun,Apaato,アパート 
-Apartemen,Manshon,マンション 
-Sekolah,Gakkou,がっこう 
-Hotel,Hoteru,ホテル 
-Restoran,Resutoran,レストラン 
-Taman,Kouen,こうえん 
-Bank,Ginkou,ぎんこう 
-Kantor Polisi,Keesatsu,けいさつ 
-Bioskop,Eegakan,えいがかん 
-Perpustakaan,Toshokan,としょかん 
-Minimarket,Konbini,コンビニ 
-Supermarket,Depaato,デパート 
-Kedai Kopi,Kissaten,きっさてん 
-Rumah Sakit,Byouin,びょういん 
-Kantor Pos,Yuubinkyouku,ゆうびんきょく 
-Mesjid,Mosuku,モスク 
-Gereja,Kyoukai,きょうかい 
-Kuil Shinto,Jinja,じんじゃ 
-Kuil Buddha,Otera,おてら 
-Museum,Hakubutsukan,はくぶつかん 
-Museum Seni,Bijutsukan,びじゅつかん 
-Toko,Mise,みせ 
-Kedutaan Besar,Taishikan,たいしかん 
-Pabrik,Koujou,こうじょう 
-Makanan,Tabemono,たべもの 
-Nasi,Gohan,ごはん 
-Roti,Pan,パン 
-Sereal,Shiriaru,シリアル 
-Selai,Jamu,ジャム 
-Mentega,Bataa,バター 
-Telur,Tamago,たまご 
-Keju,Chiizu,チーズ 
-Yoghurt,Yooguruto,ヨーグルト 
-Daging,Niku,肉 (にく)
-Daging Sapi,Gyuuniku,ぎゅうにく 
-Daging Ayam,Toriniku,とりにく 
-Daging Babi,Butaniku,ぶたにく 
-Beras,Kome,米 (こめ)
-Permen,Ame,あめ 
-Kue Kering,Kukkii,クッキー 
-Kue Tar,Keeki,ケーキ 
-Panekuk Jepang,Dorayaki,どらやき 
-Coklat,Chokoreeto,チョコレート 
-Gula,Satou,さとう 
-Garam,Shio,しお 
-Kecap,Shouyu,しょうゆ 
-Saos Tomat,Kechappu,ケチャップ 
-Tahu,Toufu,とうふ 
-Lada,Koshou,胡椒 (こうしょう)
-Cuka,Su,酢 (す)
-Rumput Laut,Nori,のり 
-Wasabi,Wasabi,わさび 
-Masakan,Ryouri,りょうり 
-Kare,Karee,カレー 
-Sandwich,Sandoicchi,サンドイッチ 
-Salad,Sarada,サラダ 
-Sup,Suupu,スープ 
-Steak,Suteeki,ステーキ 
-Spagetti,Supagethi,スパゲティ 
-Pasta,Pasuta,パスタ 
-Kentang Goreng,Furaido Poteto,フライドポテト 
-Pizza,Piza,ピザ 
-Hamburger,Hanbaagaa,ハンバーガー 
-Hot Dog,Hottodoggu,ホットドッグ 
-Onigiri,Onigiri,おにぎり 
-Mie Udon,Udon,うどん 
-Sushi,Sushi,すし 
-Tempura,Tenpura,てんぷら 
-Mie Soba,Soba,そば 
-Sop Miso,Misoshiru,みそしる 
-Bento,Bentoo,べんとう 
-Mie Goreng,Yakisoba,やきそば 
-Mie Kuah,Ramen,ラーメン 
-Mode,Fasshon,ファッション 
-Pakaian,Fuku,ふく
-Seragam,Seifuku,制服 (せいふく)
-Kimono,Kimono,きもの 
-Yukata,Yukata,ゆかた 
-Mantel,Kooto,コート 
-Jaket,Jaketto,ジャケット 
-Kemeja,Shatsu,シャツ 
-Sweter,Seetaa,セーター 
-Rok,Sukaato,スカート 
-Piyama,Pajama,パジャマ 
-Sepatu,Kutsu,くつ 
-Celana,Pantsu,パンツ 
-Kacamata,Megane,めがね 
-Topi,Boushi,ぼうし
-Anting,Piasu,ピアス
-Cincin,Yubiwa,ゆびわ 
-Kalung,Nekkuresu,ネックレス 
-Syal,Sukaafu,スカーフ 
-Selendang,Mafuraa,マフラー 
-Pita,Ribon,リボン 
-Sarung Tangan,Tebukuro,てぶくろ 
-Ikat Pinggang,Beruto,ベルト
-Kaus Kaki,Kutsushita,くつした
-Pakaian Dalam,Shitagi,したぎ
-Pakaian Luar,Uwagi,うわぎ
-Saku,Poketto,ポケット
-Sandal,Sandaru,サンダル
-Handuk,Taoru,タオル
-Jas,Suutsu,スーツ
-Celemek,Epuron,エプロン
-Sapu Tangan,Hankachi,ハンカチ
-Jins,Jiinzu,ジーンズ
-Stoking,Sutokkingu,ストッキング
-Jilbab,Jirubabu,ジルバブ
-Hijab,Hijabu,ヒジャブ
-Tas,Kaban,かばん
-Januari,Ichigatsu,一月 (いちがつ)
-Februari,Nigatsu,二月 (にがつ )
-Maret,Sangatsu,三月 (さんがつ )
-April,Shigatsu,四月 (しがつ)
-Mei,Gogatsu,五月 (ごがつ )
-Juni,Rokugatsu,六月 (ろくがつ)
-Juli,Shichigatsu,七月 (しちがつ)
-Agustus,Hachigatsu,八月 (はちがつ)
-September,Kugatsu,九月 (くがつ)
-Oktober,Juugatsu,十月 (じゅうがつ)
-November,Juuichigatsu,十一月 (じゅういちがつ)
-Desember,Juunigatsu,十二月 (じゅうにがつ)
-Senin,Getsuyoubi ,月曜日 (げつようび)
-Selasa,Kayoubi ,火曜日 (かようび)
-Rabu,Suiyoubi ,水曜日 (すいようび)
-Kamis,Mokuyoubi ,木曜日 (もくようび)
-Jumat,Kinyoubi ,金曜日 (きんようび)
-Sabtu,Doyoubi ,土曜日 (どようび)
-Minggu,Nichiyoubi ,日曜日 (にちようび)
-Hari ini,Kyoo,今日 (きょう)
-Kemarin,Kinoo,昨日 (きのう)
-Lusa,Asatte,明後日 (あさって)
-Fajar,Yoake,夜明け (よあけ)
-Pagi,Asa,朝 (あさ)
-Tadi Pagi,Kesa,今朝 (けさ)
-Siang,Hiru,昼 (ひる)
-Tengah Hari,Shougo,正午 (しょうご)
-Sore,Yuugata,夕方 (ゆうがた)
-Senja,Yuugure,夕暮れ (ゆうぐれ)
-Malam,Yoru,夜 (よる)
-Tengah Malam,Mayonaka,真夜中 (まよなか)
-Tadi Malam,Yuube,夕べ
-Masa Depan,Mirai,未来 (みらい)
-Sekarang,Ima,今 (いま)
-Masa Lalu,Kako,過去 (かこ)
-Jam,Jikan,時間 (じかん)
-Menit,Fun,分 (ふん）
-Detik,Byou,秒 (びょう)
-Malam Ini,Konban,今晩 (こんばん）
-Besok,Ashita,明日 (あした)
-Setiap Hari,Mainichi,毎日 (まいにち)
-Setiap Pagi,Maiasa,毎朝 (まいあさ)
-Setiap Malam,Maiban,毎晩 (まいばん)
-Minggu Ini,Konshuu,今週 (こんしゅう)
-Minggu Lalu,Senshuu,先週 (せんしゅう)
-Minggu Depan,Raishuu,来週 (らいしゅう)
-Setiap Minggu,Maishuu,まいしゅう 
-Bulan ini,Kongetsu,こんげつ 
-Bulan Lalu,Sengetsu,せんげつ 
-Bulan Depan,Raigetsu,らいげつ 
-Setiap Bulan,Maitsuki,まいつき 
-Tahun Ini,Kotoshi,ことし 
-Tahun Lalu,Kyounen,きょねん
-Tahun Depan,Rainen,らいねん 
-Setiap Tahun,Maitoshi,まいとし 
-Minuman,Nomimono,のみもの 
-Air Putih,Mizu,水 (みず)
-Air Panas,Oyu,おゆ 
-Teh Jepang,Ocha,おちゃ 
-Teh Hitam,Koocha,こうちゃ 
-Kopi,Koohi,コーヒー 
-Susu,Miruku,ミルク 
-Susu Sapi,Gyuunyuu,ぎゅうにゅう 
-Jus,Juusu,ジュース 
-Jus Jeruk,Orenji Juusu,オレンジジュース 
-Minuman Beralkohol,Osake,おさけ 
-Minuman Anggur,Wain,ワイン 
-Es Krim,Aisu Kurimu,アイスクリーム 
-Bir,Biiru,ビール 
-Wiski,Uisukii,ウイスキー 
-Arak Jepang,Nihonshu,にほんしゅ 
-Kola,Koora,コーラ 
-Ramune,Ramune,ラムネ
-Tubuh,Karada,体 (からだ)
-Muka,Kao,顔 (かお)
-Dahi,Hitai,額 (ひたい)
-Mata,Me,目 (め)
-Hidung,Hana,鼻 (はな)
-Telinga,Mimi,耳 (みみ)
-Pipi,Hoho,頬 (ほほ)
-Dagu,Ago,顎 (あご)
-Mulut,Kuchi,口 (くち)
-Bibir,Kuchibiru,唇 (くちびる)
-Lidah,Shita,舌 (した)
-Gigi,Ha,歯 (は)
-Gigi Geraham Belakang,Maeba,前歯 (まえば)
-Gigi Seri,Okuba,奥歯 (おくば)
-Gigi Taring,Yaeba,八重歯 (やえば)
-Gusi,Haguki,歯茎 (はぐき)
-Gigi Bungsu,Oyashirazu,親知らず (おやしらず)
-Gigi Taring,Kenshi,犬歯 (けんし)
-Kepala,Atama,頭 (あたま)
-Tengkuk Kepala,Unaji,うなじ
-Leher,Kubi,首 (くび)
-Jakun,Nodobotoke,喉仏 (のどぼとけ)
-Bahu,Kata,肩 (かた)
-Lengan,Ude,腕 (うで)
-Siku,Hiji,肘 (ひじ)
-Tangan,Te,手 (て)
-Pergelangan Tangan,Tekubi,手首 (てくび)
-Ketiak,Waki,脇 (わき)
-Dada,Mune,胸 (むね)
-Buah Dada,Chibusa,乳房 (ちぶさ)
-Perut,Hara,腹 (はら)
-Pusar,Heso,臍 (へそ)
-Punggung,Senaka,背中 (せなか)
-Pinggang,Koshi,腰 (こし)
-Pantat,Oshiri,お尻 (おしり)
-Kaki,Ashi,足 (あし)
-Paha,Futomomo,太もも (ふたもも)
-Lutut,Hiza,膝 (ほざ)
-Betis,Fukurahagi,脹脛 (ふくらはぎ)
-Jari,Yubi,指 (ゆび)
-Ibu Jari,Oya-yubi,親指 (おやゆび)
-Jari Telunjuk,Hitosashi-yubi,人差し指 (ひとさしゆび)
-Jari Tengah,Naka-yubi,中指 (なかゆび)
-Jari Manis,Kusuri-yubi,薬指 (くすりゆび)
-Jari Kelingking,Ko-yubi,小指 (こゆび)
-Punggung Tangan,Tenokou,手の甲 (てのこう)
-Telapak Tangan,Tenohira,手のひら (てのひら)
-Pergelangan Kaki,Ashikubi,足首 (あしくび)
-Mata Kaki,Kurubushi,踝 (くるぶし)
-Jari Kaki,Ashiyubi,足指 (あしゆび)
-Ujung Jari Kaki,Tsumasaki,つま先 (つまさき)
-Tumit Kaki,Kakato,踵 (かかと)
-Telapak Kaki,Ashinoura,足の裏 (あしのうら)
-Rambut,Kami,髪 (かみ)
-Alis Mata,Mayuge,眉毛 (まゆげ)
-Bulu Mata,Matsuge,まつ毛 (まつげ)
-Kumis,Kuchihige,口髭 (くちひげ)
-Jenggot,Agohige,顎髭 (あごひげ)
-Bulu Hidung,Hanage,鼻毛 (はなげ)
-Bulu Ketiak,Wakige,腋毛 (わきげ)
-Bulu Dada,Munage,胸毛 (むなげ)
-Otak,Nou,脳 (のう)
-Kerongkongan,Shokudou,食道 (しょくどう)
-Tenggorokan,Nodo,喉 (のど)
-Trakea,Kikan,気管 (きかん)
-Paru-paru,Hai,肺 (はい)
-Jantung,Shinzou,心臓 (しんぞう)
-Lambung,I,胃 (い)
-Usus,Chou,腸 (ちょう)
-Usus Besar,Daichou,大腸 (だいちょう)
-Usus Halus,Shouchou,小腸 (しょうちょう)
-Usus Dua Belas Jari,Juunishichou,十二指腸 (じゅうにしちょう)
-Anus,Koumon,校門 (こうもん)
-Rahim,Shikyuu,子宮 (しきゅう)
-Hati,Kanzou,肝臓 (かんぞう)
-Ginjal,Jinzou,腎臓 (じんぞう)
-Limpa,Hizou,脾臓 (ひぞう)
-Tulang,Hone,骨 (ほね)
-Tengkorak,Zugaikotsu,頭蓋骨 (zうがいこつ)
-Otot,Kinniku,筋肉 (きんいく)
-Darah,Ketsueki,血液 (けつえき)
-Pembuluh Darah,Kekkan,血管 (けっかん)
-Pembuluh Nadi,Doumyaku,動脈 (どうみゃく)
-Pembuluh Darah Vena,Joumyaku,静脈 (じょうみゃく)
-Penis,Penisu,ペニス
-Vagina,Chitsu,膣 (ちつ)
-Sperma,Seishi,精子 (せいし)
-Sel Telur,Ranshi,卵子 (らんし)
-Kulit,Hifu,皮膚 (ひふ)
-Kuku,Tsume,爪 (つめ)
-Kandung Kemih,Boukou,膀胱 (ぼうこう)
-Air Mata,Namida,涙 (なみだ)
-Air Liur,Tsuba,唾 (つば)
-Nafas,Iki,息 (いき)
-Pekerjaan,Shigoto,しごと　 
-Profesi,Shokugyou,しょくぎょう
-Teknisi,Enjinia,エンジニア 
-Pegawai Negeri,Koumuin,こうむいん 
-Perawat,Kangoshi,かんごし 
-Perawat Lansia,Kaigoshi,がくせい 
-Pelajar,Gakusei,がくせい 
-Guru,Sensei,せんせい
-Guru (Profesi),Kyoushi,きょうし 
-Dosen,Koushi,こうし
-Profesor,Kyouju,きょうじゅ
-Peneliti,Kenkyuusha,けんきゅうしゃ
-Ilmuwan,Gakusha,がくしゃ
-Ilmuwan Sains,Kagakusha,かがくしゃ
-Pengusaha,Keieisha,けいえいしゃ
-Kepala Kantor,Shachou,しゃちょう
-Kepala Bagian,Buchou,ぶちょう
-Kepala Seksi,Kachou,かちょう
-Akuntan,Kaikeishi,かいけいし
-Konsultan,Konsarutanto,コンサルタント
-Sekretaris,Hisho,ひしょ
-Dokter,Isha,いしゃ
-Dokter Bersertifikat,Ishi,いし
-Dokter Bedah,Gekai,げかい
-Dokter Penyakit Dalam,Naikai,ないかい
-Dokter Gigi,Sikai,しかい
-Dokter Mata,Gankai,がんかい
-Dokter Hewan,Juui,じゅうい
-Apoteker,Yakuzaishi,やくざいし
-Karyawan,Shain,しゃいん
-Karyawan Kantor,Kaishain,かいしゃいん 
-Karyawan Kontrak,Keikyakushain,けえやくしゃいん
-Karyawan Tetap,Seishain,せいしゃいん
-Pekerja Paruh Waktu,Arubaito,アルバイト
-Pengangguran,Mushoku,むしょく
-Wiraswasta,Jieigyou,じえいぎょう 
-Ibu Rumah Tangga,Shufu,しゅふ 
-Petani,Nooka,のおか
-Jurnalis,Jaanarisuto,じゃアナリスト
-Wartawan,Kisha,きしゃ
-Wartawan Koran,Shinbunkisha,しんぶんきしゃ
-Editor,Henshuusha,へんしゅうしゃ
-Fotografer,Shashinka,しゃしんか
-Reporter,Repoota,レポーオター
-Penyiar,Anaunsaa,アナウンサー
-Aktor,Danyuu,だにゅう
-Aktris,Joyuu,じょゆう
-Penyanyi,Kashu,かしゅ
-Artis,Aatisuto,アーティスト
-Idola,Aidoru,アイドル
-Programmer,Purogurama,プログラマ
-Perancang Web,Webudezaina,ウェブデザイナー
-Komikus,Mangaka,まんがか
-Animator,Animeetaa,アニメーター
-Ilustrator,Irasutoreetaa,イラストレーター
-Desainer,Dezainaa,デザイナー
-Penata Rambut,Biyoushi,びようし
-Perancang Busana,Fasshondezainaa,ファッションデザイナー
-Arsitek,Kenchikuka,けんちくか
-Pelukis,Gaka,がか
-Pengarang,Sakka,さっか
-Novelis,Shousetsuka,しょうせつか
-Musisi,Ongakuka,おんがくか
-Komponis,Sakkyouka,さっきょうか
-Presiden,Daitouryou,だいとうりょう
-Perdana Menteri,Shushou,しゅしょう
-Menteri,Daijin,だいじん
-Anggota Parlemen,Kokkaigiin,こっかいぎいん
-Anggota Parlemen Daerah,Shikaigiin,しかいぎいん
-Gubernur,Chiji,ちじ
-Walikota,Shichou,しちょう
-Politikus,Seijika,せいじか
-Birokrat,Kanryou,かんりょう
-Duta Besar,Taishi,たいし
-Diploma,Gaikoukan,がいこうかん
-Tentara,Gunjin,ぐんじん　
-Pemadam Kebakaran,Shouboushi,しょうぼうし
-Polisi,Keesatsukan,けいさつかん
-Hakim,Saibankan,さいんばんかん
-Jaksa,Kenji,けんじ
-Pengacara,Bengoshi,べんごし
-Dapur,Daidokoro,だいどころ
-Penggorengan,Furaipan,フライパン
-Panci,Nabe,なべ
-Ketel,Yakan,やかん
-Pisau,Naifu,ナイフ
-Talenan,Manaita,まないた
-Centong Sayur,Otama,おたま
-Bakul,Zaru,ざる
-Baki,Obon,おぼん
-Piring,Sara,さら
-Mangkok,Chawan,ちゃわん
-Cangkir,Kappu,カップ 
-Gelas,Gurasu,グラス
-Sumpit,Hashi,はし
-Garpu,Fooku,フォーク
-Pisau Dapur,Houchou,ほうちょう
-Sendok,Supuun,スプーン
-Sedotan,Sutoroo,ストロー
-Kamar Mandi,Furo,風呂 (ふろ)
-Bak Mandi,Basutabu,バスタブ
-Shower,Shawaa,シャワー
-Sampo,Shanpuu,シャンプー
-Wastafel,Senmendai,せんめんだい
-Sabun,Sekken,せっけん
-Toilet,Toire,トイレ
-Olahraga,Supootsu,スポーツ 
-Bola,Booru,ボール
-Bulutangkis,Badominton,バドミントン
-Sepak Bola,Sakkaa,サッカー
-Bola Basket,Basuketto-booru,バスケットボール
-Bola Voli,Baree-booru,バレーボール
-Golf,Gorufu,ゴルフ
-Tenis,Tenisu,テニス
-Tenis Meja,Takkyuu,たっきゅう
-Baseball,Yakyuu,やきゅう
-Silat,Shiratto,シラット
-Karate,Karate,からて
-Judo,Juudou,じゅうどう
-Sumo,Sumoo,すもう
-Kendo,Kendoo,けんどう
-Gulat,Resuringu,レスリング
-Tinju,Bokushingu,ボクシング
-Panahan,Aacherii,アーチェリー
-Atletik,Rikujou,りくじょう
-Maraton,Marason,マラソン
-Senam,Taisou,たいそう
-Gym,Jimu,ジム
-Renang,Suiei,すいえい
-Selancar,Saafin,サーフィン
-Bowling,Bouringu,ボウリング
-Jogging,Jogingu,ジョギング
-Ski,Sukii,スキー
-Skating Es,Sukeeto,スケート
-Enak,Oishii,おいしい
-Tidak Enak,Mazui,まずい
-Mahal,Takai,高い (たかい) 
-Murah,Yasui,安い (やすい) 
-Cepat,Hayai,早い (はやい) 
-Lambat,Osoi,遅い (おそい) 
-Manis,Amai,甘い (あまい) 
-Pedas,Karai,辛い (からい) 
-Asin,Shiokarai,塩辛い (しおからい) 
-Asam,Suppai,すっぱい
-Pahit,Nigai,苦い (にがい) 
-Panas,Atsui,暑い (あつい)
-"Hangat (Suhu, Cuaca)",Atatakai,暖かい (あたたかい)
-Hangat (Benda),Atatakai,温かい (あたたかい)
-Dingin (Benda),Tsumetai,冷たい (つめたい)
-"Dingin (Suhu, Cuaca)",Samui,寒い (さむい)
-Sejuk,Suzushii,涼しい (すずしい) 
-Lembab,Mushiatsui,蒸し暑い (むしあつい)
-Terang,Akarui,明るい (あかるい) 
-Gelap,Kurai,暗い (くらい) 
-Baru,Atarashii,新しい (あたらしい) 
-Lama,Furui,古い (ふるい) 
-Besar,Ookii,大きい (おおきい) 
-Kecil,Chiisai,小さい (ちいさい) 
-Bersih,Kirei,きれい 
-Kotor,Kitanai,汚い (きたない) 
-Kuat,Tsuyoi,強い (つよい) 
-Lemah,Yowai,弱い (よわい) 
-Tinggi,Takai,高い (たかい) 
-Rendah,Hikui,低い (ひくい) 
-Jauh,Tooi,遠い (とおい) 
-Dekat,Chikai,近い (ちかい) 
-Suka,Suki,好き (すき) 
-Panjang,Nagai,長い (ながい) 
-Pendek,Mijikai,短い (みじかい) 
-Tebal,Atsui,厚い (あつい) 
-Tipis,Usui,薄い (うすい) 
-Berat,Omoi,重い (おもい) 
-Ringan,Karui,軽い (かるい) 
-Menarik,Omoshiroi,面白い (おもしろい) 
-Membosankan,Tsumaranai,つまらない 
-Senang,Ureshii,うれしい 
-Kesepian,Sabishii,寂しい (さびしい) 
-Takut,Kowai,怖い (こわい) 
-Sedih,Kanashii,悲しい (かなしい) 
-Malu,Hazukashii,恥かしい (はずかしい) 
-Iri Hati,Urayamashii,羨ましい (うらやましい) 
-Ngantuk,Nemui,眠い (ねむい) 
-Khawatir,Shinpai,心配 (しんぱい) 
-Cemas,Fuan,不安 (ふあん) 
-Benci,Kirai,嫌い (きらい)
-Suka Sekali,Daisuki,大好き (だいすき) 
-Benci Sekali,Daikirai,大嫌い (だいきらい) 
-Tidak Apa-apa,Daijoubu,大丈夫 (だいじょうぶ) 
-Tidak Boleh,Dame,駄目 (だめ) 
-Jangan,Ikenai,いけない
-Imut,Kawaii,可愛い (かわいい)
-Detail,Kuwashii,詳しい (くわしい)
-Sakit,Itai,痛い (いたい) 
-Cerewet,Urusai,うるさい 
-Bulat,Marui,丸い (まるい)
-Banyak,Ooi,多い (おおい)
-Sedikit,Sukunai,少ない (すくない)
-Tajam ,Surudoi,鋭い (するどい)
-Benar,Tadashii,正しい (ただしい) 
-Hebat,Sugoi,すごい 
-Jelek,Warui,悪い (わるい) 
-Kejam,Hidoi,ひどい (ひどい) 
-Langka,Mezurashii,珍しい (めずらしい) 
-Baik Hati,Yasashii,優しい (やさしい) 
-Mudah,Yasashii,易しい (やさしい) 
-Sulit,Muzukashii,難しい (むずかしい) 
-Berbahaya,Abunai,危ない (あぶない) 
-Aman,Anzen,安全(あんぜん) 
-Penting,Daijin,大事 (だいじ) 
-Penting,Taisestsu,大切 (たいせつ) 
-Sia-sia,Muda,無駄 (むだ) 
-Mendadak,Kyuu,急 (きゅう)
-Tampan,Hansamu,ハンサム 
-Keras Kepala,Ganko,頑固 (がんこ) 
-Penurut,Sunao,素直 (すなお)
-Egois,Wagamama,わがまま 
-Menyayangkan,Zannen,残念 (ざんねん)
-Bahagia,Shiawase,幸せ (しあわせ) 
-Praktis,Benri,便利 (べんり) 
-Tidak Praktik,Fuben,不便 (ふべん) 
-Aneh,Hen,変 (へん) 
-Rumit,Fukuzatsu,複雑 (ふくざつ) 
-Mudah,Kantan,簡単 (かんたん) 
-Tegas,Kibishii,厳しい (きびしい) 
-Rajin,Majime,真面目 (まじめ) 
-Tidak Rajin,Fumajime,不真面目 (ふまじめ) 
-Mengganggu,Jama,邪魔 (じゃま) 
-Ajaib,Fushigi,不思議(ふしぎ) 
-Sama,Onaji,同じ(おなじ) 
-Bertemu,Au,合う (あう)
-Mencuci,Arau,洗う (あらう)
-Berkata,Iu,言う (いう)
-Menyanyi,Utau,歌う (うたう)
-Membeli,Kau,買う (かう)
-Mengisap,Suu,吸う (すう)
-Berbeda,Chigau,違う (ちがう)
-Memakai,Tsukau,使う (つかう)
-Mempelajari,Narau,習う (ならう)
-Makan,Taberu,食べる (たべる)
-Minum,Nomu,飲む (わらう)
-Melihat,Miru,見る (みる)
-Berbicara,Hanasu,話す (はなす)
-Menulis,Kaku,書く (かく)
-Berenang,Oyogu,泳ぐ (およぐ)
-Mencintai,Aisuru,愛する (あいする)
-Menjadi,Naru,成る (なる)
-Menekan,Osu,押す (おす)
-Tertawa,Warau,笑う (わらう)
-Bingung,Mayou,迷う (まよう) 
-Berdiri,Tatsu,立つ (たつ) 
-Menunggu,Matsu,待つ (まつ) 
-Berlari,Hashiru,走る (はしる)
-Memerlukan,Kakaru,掛かる (かかる) 
-Naik (Kendaraan),Noru,乗る (のる) 
-Naik (Tangga),Agaru,上がる (あがる) 
-Melewati,Tooru,通る (とおる) 
-Mendaki,Noboru,登る (のぼる)
-Pulang,Kaeru,帰る (かえる) 
-Tinggal,Sumu,住む (すむ) 
-Mati,Shinu,死ぬ (しぬ)
-Membaca,Yomu,読む (よむ) 
-Istirahat,Yasumu,休む (やすむ) 
-Bermain,Asobu,遊ぶ (あそぶ)  
-Bekerja,Hataraku,働く (はたらく) 
-Pergi,Iku,行く (いく) 
-Menarik,Hiku,引く (ひく) 
-Berjalan,Aruku,歩く (あるく)  
-Bergegas,Isogu,急ぐ (いそぐ) 
-Mengembalikan,Kaesu,返す (かえす) 
-Mengeluarkan,Dasu,出す (だす) 
-Menyerahkan,Watasu,渡す (わたす)  
-Memaksa,Shiiru,強いる (しいる)
-Memikirkan,Anjiru,案じる (あんじる)
-Menanam,Ueru,植える (うえる) 
-Mengajar,Oshieru,教える (おしえる) 
-Mengubah,Kaeru,変える (かえる) 
-Menjawab,Kotaeru,答える (こたえる) 
-Mengetahui,Shiru,知る (しる)  
-Bertanding,Shiaisuru,試合する (しあいする)
-Melafalkan,Hatsuonsuru,発音する (はつおんする) 
-Menerangkan,Setsumeisuru,説 明する (せつめいする)
-Bangun,Okiru,起きる (おきる)
-Terjadi,Okoru,起こる (おこる)
-Tidur,Neru,寝る (ねる) 
-Bodoh (Kasar),Baka,馬鹿 (ばか) 
-Ada (Benda Hidup),Iru,いる 
-Ada (Benda Mati),Aru,有る (ある)
-Membuka,Akeru,開ける (あける)
-Mendengar,Kiku,聞く (きく)
-Membuang,Suteru,捨てる (すてる) 
-Memukul,Utsu,打つ (うつ)
-Meminta,Tanomu,頼む (たのむ) 
-Berkenalan,Shiriau,知り合う (しりあう) 
-Menolong,Tetsudau,手伝う (てつだう) 
-Mengajak,Sasou,誘う (さそう) 
-Mencuri,Nusumu,盗む (ぬすむ) 
-Memotong,Kiru,切る (きる) 
-Menendang,Keru,蹴る (ける) 
-Mencubit,Tsuneru,抓る (つねる) 
-Bersaing,Seru,競る (ねる)
-Memuji,Omoneru,阿る (おもねる)
-Menuangkan,Sosogu,注ぐ (そそぐ) 
-Menambah,Tasu,足す (たす) 
-Tertolong,Tasukaru,助かる (たすかる)
-Kehilangan,Ushinau,失う (うしなう)
-Membunuh,Korosu,殺す (ころす) 
-Membusuk,Kusaru,腐る (くさる) 
-Tertutup,Shimeru,閉める (しめる)  
-Membeku,Kooru,‎凍る (こおる)
-Mengeringkan,Kawakasu,乾かす (かわかす) 
-Mengulang,Kurikaesu,くり返す (くりかえす) 
-Merusak,Kowasu,壊す (こわす)  
-Ini,Kore,これ
-Itu (Dekat),Sore,それ
-Itu (Jauh),Are,あれ
-Halo,Moshi-moshi,もしもし
-Selamat Datang,Irasshaimase,いらっしゃいませ
-Selamat Pagi (Formal),Ohayou-gozaimasu,おはようございます
-Selamat Pagi (Informal),Ohayou,おはよう
-Selamat Siang,Konnichiwa,こんいちわ
-Selamat Malam,Konbanwa,こんばんわ
-Selamat Tidur,Oyasuminasai,おやすみなさい
-Selamat Makan,Itadakimasu,いただきます
-Terima Kasih (Formal),Arigatou-gozaimasu,ありがとうございます
-Terima Kasih (Informal),Arigatou,ありがとうございます
-Mohon Maaf,Gomennasai,ごめんなさい
-Mohon Maaf,Sumimasen,すみません
-Malaikat,Tenshi,天使
-Ekor,Shippo,しっぽ
-Bunga Matahari,Himawari,ひまわり
-Berikutnya,Tsugi,つぎ 
-Petak Umpet,Kakurenbo,かくれんぼ
-Cinta Pertama,Hatsukoi,初恋 (はつこい)
-Pacar,Koibito,恋人 (こいびと) 
+Indo,Jepang,Kanji,Keterangan
+Saya,Watashi,私 (わたし）,Kata Benda
+Kamu,Kimi,君 (きみ）,Kata Benda
+Dia,Anata,あなた,Kata Benda
+Orang,Hito,人 (ひと),Kata Benda
+Keluarga,Kazoku,家族 (かぞく) ,Kata Benda
+Orang Tua,Ryoushin,両親 (りょうしん),Kata Benda
+Saudara,Kyoudai,兄弟 (きょうだい) ,Kata Benda
+Ayah (Saya),Chichi,父 (ちち),Kata Benda
+Ayah (Orang Lain),Otousan,お父さん (おとうさん),Kata Benda
+Ibu (Saya),Haha,母 (はは),Kata Benda
+Ibu (Orang Lain),Okaasan,お母さん (おかあさん),Kata Benda
+Kakak Laki-laki (Saya),Ani,兄 (あに) ,Kata Benda
+Kakak Laki-laki (Orang Lain),Oniisan,お兄さん (おにいさん),Kata Benda
+Kakak Perempuan (Saya),Ane,姉 (あね) ,Kata Benda
+Kakak Perempuan (Orang Lain),Oneesan,お姉さん (おねえさん) ,Kata Benda
+Adik Laki-laki (Saya),Otouto,弟 (おとうと),Kata Benda
+Adik Laki-laki (Orang Lain),Otoutosan,弟さん (おとうとさん),Kata Benda
+Adik Perempuan (Saya),Imouto,妹 (いもうと),Kata Benda
+Adik Perempuan (Orang Lain),Imoutosan,妹さん (いもうとさん),Kata Benda
+Kakek (Saya),Sofu,祖父 (そふ),Kata Benda
+Kakek (Orang Lain),Ojiisan,お祖父さん (おじいさん),Kata Benda
+Nenek (Saya),Sobo,祖母 (そぼ),Kata Benda
+Nenek (Orang Lain),Obaasan,お祖母さん (おばあさん),Kata Benda
+Suami (Saya),Otto,夫 (おっと),Kata Benda
+Suami (Orang Lain),Goshujin,主人 (ごしゅじん),Kata Benda
+Istri (Saya),Tsuma,妻 (つま),Kata Benda
+Istri (Orang Lain),Okusan,奥さん (おくさん),Kata Benda
+Anak,Kodomo,子供 (こども) ,Kata Benda
+Anak (Orang Lain),Okosan,おこさん ,Kata Benda
+Anak Laki-laki,Musuko,息子 (むすこ),Kata Benda
+Anak Perempuan,Musume,娘 (むすめ),Kata Benda
+Paman (Saya),Oji,叔父 (おじ),Kata Benda
+Paman (Orang Lain),Ojisan,叔父さん (おじさん),Kata Benda
+Bibi (Saya),Oba,叔母 (おば),Kata Benda
+Bibi (Orang Lain),Obasan,叔母さん (おばさん),Kata Benda
+Sepupu (Saya),Itoko,従兄弟 (いとこ),Kata Benda
+Sepupu (Orang Lain),Itokosan,従兄弟さん (いとこさん),Kata Benda
+Cucu,Mago,孫 (まご),Kata Benda
+Bayi,Akachan,赤ちゃん (あかちゃん),Kata Benda
+Sanak Keluarga,Shinseki,親戚 (しんせき),Kata Benda
+Kakak Kelas,Senpai,先輩 (せんぱい),Kata Benda
+Nol,Rei,零 (れい),Kata Benda
+Satu,Ichi,一 (いち）,Kata Benda
+Dua,Ni,二 (に),Kata Benda
+Tiga,San,三 (さん),Kata Benda
+Empat,Shi,四 (し),Kata Benda
+Lima,Go,五 (ご),Kata Benda
+Enam,Roku,六 (ろく）,Kata Benda
+Tujuh,Nana,七 (なな),Kata Benda
+Delapan,Hachi,八 (はち),Kata Benda
+Sembilan,Kyu,九 (きゅう）,Kata Benda
+Sepuluh,Juu,十 (じゅう),Kata Benda
+Sebelas,Juuichi,十一 (じゅういち),Kata Benda
+Dua Belas,Juuni,十二 (じゅうに),Kata Benda
+Tiga Belas,Juusan,十三 (じゅうさん),Kata Benda
+Empat Belas,Juuyon,十四 (じゅうよん),Kata Benda
+Lima Belas,Juugo,十五 (じゅうご),Kata Benda
+Enam Belas,Juuroku,十六 (じゅうろく),Kata Benda
+Tujuh Belas,Juunana,十七 (じゅうなな),Kata Benda
+Delapan Belas,Juuhachi,十八 (じゅうはち),Kata Benda
+Sembilan Belas,Juukyuu,十九 (じゅうきゅう),Kata Benda
+Dua Puluh,Nijuu,二十 (にじゅう),Kata Benda
+Tiga Puluh,Sanjuu,三十 (さんじゅう),Kata Benda
+Empat Puluh,Yonjuu,四十 (よんじゅう),Kata Benda
+Lima Puluh,Gojuu,五十 (ごじゅう),Kata Benda
+Enam Puluh,Rokujuu,六十 (ろくじゅう),Kata Benda
+Tujuh Puluh,Nanajuu,七十 (ななじゅう),Kata Benda
+Delapan Puluh,Hachijuu,八十 (はちじゅう),Kata Benda
+Sembilan Puluh,Kyuujuu,九十 (きゅうじゅう),Kata Benda
+Seratus,Hyaku,百 (ひゃく),Kata Benda
+Seribu,Sen,千 (せん),Kata Benda
+Sepuluh Ribu,Man,万 (まん),Kata Benda
+Seratus Ribu,Juuman,十万 (じゅうまん),Kata Benda
+Satu Juta,Hyakuman,百万 (ひゃくまん),Kata Benda
+Sepuluh Juta,Senman,千万 (せんまん),Kata Benda
+Seratus Juta,Oku,億 (おく),Kata Benda
+Satu Triliun,Chou,兆 (ちょう),Kata Benda
+Yen,En,円 (えん),Kata Benda
+Kanan,Migi,右 (みぎ),Kata Benda
+Kiri,Hidari,左 (ひだり),Kata Benda
+Atas,Ue,上 (うえ),Kata Benda
+Bawah,Shita,下 (した),Kata Benda
+Dalam,Naka,中 (なか),Kata Benda
+Luar,Soto,外 (そと),Kata Benda
+Depan,Mae,前 (まえ),Kata Benda
+Belakang,Ushiro,後 (うしろ),Kata Benda
+Dekat,Chikaku,ちかく,Kata Benda
+Samping,Tonari,となり,Kata Benda
+Sebelah,Yoko,よこ,Kata Benda
+Timur,Higashi,東 (ひがし),Kata Benda
+Barat,Nishi,西 (にし),Kata Benda
+Utara,Kita,北 (きた),Kata Benda
+Selatan,Minami,南 (みなみ),Kata Benda
+Musim Semi,Haru,春 (はる),Kata Benda
+Musim Panas,Natsu,夏 (なつ),Kata Benda
+Musim Gugur,Aki,秋 (あき),Kata Benda
+Musim Dingin,Fuyu,冬 (ふゆ),Kata Benda
+Musim Hujan,Tsuyu,梅雨 (つゆ),Kata Benda
+Musim Kemarau,Kanki,歓喜 (かんき),Kata Benda
+Cuaca,Tenki,天気 (てんき),Kata Benda
+Hujan,Ame,雨 (あめ),Kata Benda
+Pelangi,Niji,虹 (にじ),Kata Benda
+Angin,Kaze,風 (かぜ),Kata Benda
+Badai,Arashi,嵐 (あらし),Kata Benda
+Api,Hi,火 (ひ),Kata Benda
+Air,Mizu,水 (みず),Kata Benda
+Bulan,Tsuki,月 (つき),Kata Benda
+Pohon,Ki,木 (き),Kata Benda
+Tanah,Tsuchi,土 (つち),Kata Benda
+Bintang,Hoshi,星 (ほし),Kata Benda
+Awan,Kumo,雲 (くも),Kata Benda
+Laut,Umi,海 (うみ),Kata Benda
+Pulau,Shima,島 (しま),Kata Benda
+Kebun,Hatake,畑 (はたけ),Kata Benda
+Gunung,Yama,山 (やま),Kata Benda
+Bunga,Hana,花 (はな),Kata Benda
+Pantai,Kaigan,海岸 (かいがん),Kata Benda
+Kolam,Ike,池 (いけ),Kata Benda
+Bukit,Oka,丘 (おか),Kata Benda
+Hutan,Mori,森 (もり),Kata Benda
+Matahari,Hi,日 (ひ),Kata Benda
+Matahari,Taiyou,太陽 (たいよう),Kata Benda
+Sungai,Kawa,川 (かわ),Kata Benda
+Langit,Sora,空 (そら),Kata Benda
+Warna,Shikisai,色彩 (しきさい),Kata Benda
+Hitam,Kuroi,黒い (くろい),Kata Benda
+Putih,Shiroi,白い (しろい),Kata Benda
+Coklat,Chairo,茶色 (ちゃいろ),Kata Benda
+Merah,Akai,赤い (あかい),Kata Benda
+Merah Tua,Makka,真っ赤 (まっか),Kata Benda
+Merah Maroon,Akamurasaki,赤紫 (あかむらさき),Kata Benda
+Biru,Aoi,青い (あおい),Kata Benda
+Biru Muda,Mizuiro,水色 (みずいろ),Kata Benda
+Biru Tua,Massao,真っ青 (まっさお),Kata Benda
+Orange,Orenjiiro,オレンジ色 ,Kata Benda
+Pink,Pinkku,ピンク,Kata Benda
+Kuning,Kiiro,黄色 (きいろ),Kata Benda
+Hijau,Midori,緑 (みどり),Kata Benda
+Ungu,Murasaki,紫 (むらさき),Kata Benda
+Abu-abu,Haiiro,灰色 (はいいろ),Kata Benda
+Emas,Kiniro,金色 (きんいろ),Kata Benda
+Perak,Giniro,銀色 (ぎんいろ),Kata Benda
+Peach ,Momoiro,桃色 (ももいろ),Kata Benda
+Buah,Kudamono,果物 (くだもの),Kata Benda
+Pisang,Banana,バナナ,Kata Benda
+Strawberry,Ichigo,苺 (いちご),Kata Benda
+Apel,Ringo,リンゴ ,Kata Benda
+Anggur,Budou,ブドウ ,Kata Benda
+Durian,Dorian,ドリアン ,Kata Benda
+Kelapa,Kokonattsu,ココナッツ ,Kata Benda
+Kiwi,Kiui,キウィ ,Kata Benda
+Melon,Meron,メロン ,Kata Benda
+Alpukat,Abokado,アボカド ,Kata Benda
+Nanas,Painappuru,パイナップル ,Kata Benda
+Pepaya,Papaiya,パパイヤ ,Kata Benda
+Mangga,Mangoo,マンゴー,Kata Benda
+Persik,Momo,桃 (もも),Kata Benda
+Jeruk,Orenji,オレンジ ,Kata Benda
+Lemon,Remon,レモン ,Kata Benda
+Jeruk Mandarin,Mikan,蜜柑 (みかん),Kata Benda
+Blueberry,Buruuberii,ブルーベリー,Kata Benda
+Blackberry,Burakkuberii,ブラックベリ ,Kata Benda
+Semangka,Saika,西瓜 (さいか),Kata Benda
+Jambu Biji,Guaba,グアバ ,Kata Benda
+Nangka,Jakkufuruttsu,ジャックフルッツ,Kata Benda
+Delima,Zakuro,ザクロ ,Kata Benda
+Cherry,Sakuranbou,さくらんぼう ,Kata Benda
+Zaitun,Oriibu,オリーブ ,Kata Benda
+Ara,Ichijiku,イチジク ,Kata Benda
+Pir,Nashi,梨 (なし),Kata Benda
+Rasberry,Kiichigo,きいちご ,Kata Benda
+Kesemek,Kaki,柿 (かき),Kata Benda
+Sayuran,Yasai,野菜 (やさお),Kata Benda
+Tomat,Tomato,トマト ,Kata Benda
+Kol,Kyabetsu,キャベツ,Kata Benda
+Brokoli,Burokkorii,ブロッコリー ,Kata Benda
+Paprika,Piiman,ピーマン ,Kata Benda
+Asparagus,Asuparagusu,アスパラガス ,Kata Benda
+Kacang,Mame,豆 (まめ),Kata Benda
+Timun,Kyuuri,きゅうり,Kata Benda
+Seledri,Serori,セロリ,Kata Benda
+Terong,Nasu,茄子,Kata Benda
+Kedelai,Daizu,大豆,Kata Benda
+Kacang Merah,Azuki,小豆,Kata Benda
+Selada,Retasu,レタス,Kata Benda
+Wortel,Ninjin,人参,Kata Benda
+Kentang,Jagaimo,じゃがいも,Kata Benda
+Ubi Jalar,Satsumaimo,さつまいも,Kata Benda
+Tauge,Mekyabetsu ,メキャベツ ,Kata Benda
+Kembang Kol,Karifurawaa,カリフラワー,Kata Benda
+Ketumbar,Pakuchii,パクチー,Kata Benda
+Jahe,Shouga,しょうが ,Kata Benda
+Bawang Merah,Tamanegi ,玉葱 (たまねぎ),Kata Benda
+Bawang Putih,Ninniku ,大蒜 (にんにく),Kata Benda
+Kebun Binatang,Doubutsuen,動物園 (どうぶつ),Kata Benda
+Binatang,Doubutsu,動物 (どうぶつえん),Kata Benda
+Serigala,Ookami,狼 (おおかみ),Kata Benda
+Harimau,Tora,虎 (とら),Kata Benda
+Anjing,Inu,犬 (いぬ),Kata Benda
+Kucing,Neko,猫 (ねこ),Kata Benda
+Kuda,Uma,馬 (うま),Kata Benda
+Kelinci,Usagi,兎 (うさぎ),Kata Benda
+Tikus,Nezumi,鼠 (ねずみ),Kata Benda
+Ular,Hebi,蛇 (へび),Kata Benda
+Katak,Kaeru,蛙 (かえる),Kata Benda
+Lebah,Hachi,蜂 (はち),Kata Benda
+Sapi,Ushi,牛 (うし),Kata Benda
+Babi,Buta,豚 (ぶた),Kata Benda
+Singa,Raion,ライオン,Kata Benda
+Kambing,Yagi,山羊(やぎ),Kata Benda
+Domba,Hitsuji,羊(ひつじ),Kata Benda
+Ikan,Sakana,魚 (さかな),Kata Benda
+Burung,Tori,鳥 (とり),Kata Benda
+Jerapah,Kirin,麒麟 (きりん),Kata Benda
+Gajah,Zou,象 (ぞう),Kata Benda
+Unta,Rakuda,駱駝 (らくだ),Kata Benda
+Rusa,Shika,鹿 (しか),Kata Benda
+Beruang,Kuma,熊 (くま),Kata Benda
+Monyet,Saru,猿 (さる),Kata Benda
+Semut,Ari,蟻 (あり),Kata Benda
+Belut,Unagi,鰻 (うなぎ),Kata Benda
+Kupu-kupu,Chou,蝶 (ちょう),Kata Benda
+Laba-laba,Kumo,蜘蛛 (くも),Kata Benda
+Nyamuk,Ka,蚊 (か),Kata Benda
+Cacing Tanah,Mimizu,蚯蚓 (みみず),Kata Benda
+Tupai,Risu,栗鼠 (りす),Kata Benda
+Elang,Washi,鷲 (わし),Kata Benda
+Ayam,Niwatori,鶏 (にわとり),Kata Benda
+Kepiting,Kani,蟹 (かに),Kata Benda
+Kelelawar,Koumori,蝙蝠 (こうもり),Kata Benda
+Anjing Laut,Azarashi,海豹 (あざらし),Kata Benda
+Ikan Paus,Kujira,鯨 (くじら),Kata Benda
+Ikan Lele,Namazu,鯰 (なまず),Kata Benda
+Panda,Panda,パンダ,Kata Benda
+Pinguin,Pengin,ペンギン,Kata Benda
+Gorila,Gorira,ゴリラ,Kata Benda
+Koala,Koara,コアラ,Kata Benda
+Kanguru,Kangaruu,カンガルー,Kata Benda
+Iguana,Iguana,イグアナ,Kata Benda
+Bunglon,Kamereon,カメレオン,Kata Benda
+Flamingo,Furamingo,フラミンゴ,Kata Benda
+Udang,Ebi,海老 (えび),Kata Benda
+Cumi-cumi,Ika,烏賊 (いか),Kata Benda
+Kerang,Hamaguri,蛤 (はまぐり),Kata Benda
+Gurita,Tako,蛸 (たこ),Kata Benda
+Negara,Kuni,国 (くに),Kata Benda
+Asia,Ajia,アジア ,Kata Benda
+Afrika,Afurika,アフリカ ,Kata Benda
+Eropa,Yooroppa,ヨーロッパ ,Kata Benda
+Amerika,Amerika,アメリカ ,Kata Benda
+Australia,Oosutoraria,オーストラリア ,Kata Benda
+Inggris,Igirisu,イギリス ,Kata Benda
+Italia,Itaria,イタリア ,Kata Benda
+India,Indo,インド ,Kata Benda
+Indonesia,Indoneshia,インドネシア ,Kata Benda
+Mesir,Ejiputo,エジプト ,Kata Benda
+Kanada,Kanada,カナダ ,Kata Benda
+Korea Selatan,Kankoku,かんこく ,Kata Benda
+Spanyol,Supein,スペイン ,Kata Benda
+Sri Lanka,Suriranka,スリランカ ,Kata Benda
+Thailand,Tai,タイ ,Kata Benda
+Cina,Chuugoku,ちゅうごく ,Kata Benda
+Jerman,Doitsu,ドイツ ,Kata Benda
+Jepang,Nihon/Nippon,にほん／にっぽん ,Kata Benda
+Selandia Baru,Nyuujirando,ニュージーランド ,Kata Benda
+Hungaria,Hangarii,ハンガリー ,Kata Benda
+Filipina,Firipin,フィリピン ,Kata Benda
+Brazil,Burajiru,ブラジル ,Kata Benda
+Perancis,Furansu,フランス ,Kata Benda
+Vietnam,Betonamu,ベトナム ,Kata Benda
+Malaysia,Mareeshia,マレーシア ,Kata Benda
+Meksiko,Mekishiko,メキシコ ,Kata Benda
+Rusia,Roshia,ロシア ,Kata Benda
+Luar Negeri,Gaikoku,がいこく ,Kata Benda
+Orang Asing,Gaikokujin,がいこくじん ,Kata Benda
+Orang Jepang,Nihonjin,にほんじん ,Kata Benda
+Siswa Asing,Ryuugakusee,りゅうがくせい ,Kata Benda
+Bahasa,Kotoba,ことば,Kata Benda
+Bahasa Asing,Gaikokugo,がいこくご ,Kata Benda
+Bahasa Jepang,Nihongo,にほんご ,Kata Benda
+Bahasa Inggris,Eego,えいご ,Kata Benda
+Bahasa Korea,Kankokugo,かんこくご ,Kata Benda
+Bahasa Cina,Chuugokugo,ちゅうごくご ,Kata Benda
+Bahasa Jerman,Doitsugo,ドイツご ,Kata Benda
+Bahasa Spanyol,Supeingo,スペインご ,Kata Benda
+Bahasa Perancis,Furansugo,フランスご ,Kata Benda
+Bahasa Arab,Arabiago,アラビアご ,Kata Benda
+Bahasa Indonesia,Indoneshiago,インドネシアご ,Kata Benda
+Pintu,Tobira,扉 (とびら),Kata Benda
+Jendela,Mado,窓 (まど),Kata Benda
+Mebel,Kagu,家具 (かぐ),Kata Benda
+Kursi,Isu,いす ,Kata Benda
+Meja Kantor,Tsukue,つくえ ,Kata Benda
+Meja,Teeburu,テーブル ,Kata Benda
+Sofa,Sofaa,ソファー ,Kata Benda
+Tempat Tidur,Beddo,ベッド ,Kata Benda
+Kasur,Mattoresu,マットレス ,Kata Benda
+Selimut Tebal Jepang,Futon,布団 (ふとん),Kata Benda
+Selimut,Moofu,もうふ ,Kata Benda
+Bantal,Makura,まくら ,Kata Benda
+Seprei,Shiitsu,シーツ ,Kata Benda
+Selop,Surippa,スリッパ ,Kata Benda
+Tikar,Tatami,畳 (たたみ),Kata Benda
+Sapu,Hooki,ほうき ,Kata Benda
+Rak,Tana,たな ,Kata Benda
+Rak Buku,Hondana,ほんだな ,Kata Benda
+Cermin,Kagami,かがみ ,Kata Benda
+Sisir,Kushi,くし ,Kata Benda
+Laci,Hikidashi,ひきだし ,Kata Benda
+Permadani,Juutan,じゅうたん ,Kata Benda
+Gorden,Kaaten,カーテン ,Kata Benda
+Lampu Listrik,Dentoo,でんとう ,Kata Benda
+Bola Lampu,Denkyuu,でんきゅう ,Kata Benda
+Senter,Kaichuu-dentoo,かいちゅうでんとう ,Kata Benda
+Kotak Sampah,Gomibako,ごみばこ ,Kata Benda
+Kalender,Karendaa,カレンダー ,Kata Benda
+Vas,Kabin,カレンダー ,Kata Benda
+Pot,Potto,ポット ,Kata Benda
+Pensil,Enpitsu,えんぴつ ,Kata Benda
+Pulpen,Pen,ペン ,Kata Benda
+Kamus,Jisho,じしょ ,Kata Benda
+Buku,Hon,ほん,Kata Benda
+Buku Tulis,Nooto,ノート ,Kata Benda
+Buku Pelajaran,Kyoukasho ,教科書 (きょうかしょ) ,Kata Benda
+Bolpoin,Boorupen ,ボールペン ,Kata Benda
+Gunting,Hasami,鋏 (はさみ) ,Kata Benda
+Busur Derajat,Bundoki,分度器 (ぶんどき) ,Kata Benda
+Kapur,Chooku,チョーク ,Kata Benda
+Papan Tulis,Kokuban,黒板 (こくばん),Kata Benda
+Pensil Mekanik,Shaapupenshiru,シャープペンシル ,Kata Benda
+Spidol,Maakaa,マーカー ,Kata Benda
+Staples,Hochikisu,ホチキス,Kata Benda
+Tempat Pensil,Fudebako,筆箱 (ふでばこ),Kata Benda
+Seragam,Seifuku,征服 (せいふく) ,Kata Benda
+Peta,Chizu,地図 (ちず) ,Kata Benda
+Ensiklopedia,Hyakkajiten ,百科事典 (ひゃっかじてん) ,Kata Benda
+Kalkuator,Dentaku,電卓 (でんたく),Kata Benda
+Kertas,Kami,紙 (かみ) ,Kata Benda
+Alat Elektronik,Denki-seehin,でんきせいひん ,Kata Benda
+Setrika,Airon,アイロン ,Kata Benda
+Mesin Cuci,Sentakuki,せんたくき ,Kata Benda
+Penyedot Debu,Soujiki,そうじき ,Kata Benda
+Kulkas,Reizouko,れいぞうこ ,Kata Benda
+AC,Eakon,エアコン ,Kata Benda
+Kipas Angin,Senpuuki,せんぷうき ,Kata Benda
+Pemanas Udara,Danbou,だんぼう ,Kata Benda
+Oven,Oobun,オーブン,Kata Benda
+Oven Microwave,Denshi-renji,でんしレンジ ,Kata Benda
+Listrik,Denki,でんき ,Kata Benda
+Televisi,Terebi,テレビ ,Kata Benda
+Telepon,Denwa,でんわ ,Kata Benda
+Radio,Rajio,ラジオ ,Kata Benda
+Komputer,Konpyuuta,コンピューター,Kata Benda
+Printer,Purintaa,プリンター,Kata Benda
+Kamera,Kamera,カメラ ,Kata Benda
+Speaker,Supiikaa,スピーカー ,Kata Benda
+Smart Phone,Sumaatofon,スマートフォン ,Kata Benda
+Handphone,Keitai-denwa,けいたいでんわ,Kata Benda
+Pengering Rambut,Doraiyaa,ドライヤー,Kata Benda
+Sepeda,Jitensha,じてんしゃ,Kata Benda
+Motor,Baiku,バイク ,Kata Benda
+Mobil,Kuruma,くるま ,Kata Benda
+Taksi,Takushii,タクシー ,Kata Benda
+Bus,Basu,バス ,Kata Benda
+Ambulans,Kyuukyuu,きゅうきゅうしゃ ,Kata Benda
+Mobil Pemadam Kebakaran,Shooboosha,しょうぼうしゃ,Kata Benda
+Mobil Polisi,Patokaa,パトカー,Kata Benda
+Truk,Torakku,トラック,Kata Benda
+Sedan,Sedan,セダン,Kata Benda
+Kereta,Densha,でんしゃ ,Kata Benda
+Kereta Bawah Tanah,Chikatetsu,ちかてつ ,Kata Benda
+Kereta Peluru,Shinkansen,しんかんせん ,Kata Benda
+Monorel,Monoreeru,モノレール ,Kata Benda
+Pesawat,Hikouki,ひこうき ,Kata Benda
+Helikopter,Herikoputaa,ヘリコプター,Kata Benda
+Pesawat Tempur,Sentooki,せんとき,Kata Benda
+Kapal,Fune,ふね ,Kata Benda
+Kapal Penumpang,Kyakusen,きゃくせん,Kata Benda
+Kapal Barang,Kamotsuen,かもつせん,Kata Benda
+Kapal Feri,Ferii,フェリー,Kata Benda
+Kapal Penangkap Ikan,Gyosen,ぎょせん,Kata Benda
+Kapal Perang,Gunkan,ぐんかん,Kata Benda
+Kapal Tempur,Senkan,せんかん,Kata Benda
+Kapal Selam,Sensuikan,せんすいかん,Kata Benda
+Yacht,Yotto,ヨット,Kata Benda
+Perahu,Booto,ボート,Kata Benda
+Kano,Kanuu,カヌー,Kata Benda
+Kayak,Kayakku,カヤック,Kata Benda
+Rumah,Ie,いえ,Kata Benda
+Rumah Susun,Apaato,アパート ,Kata Benda
+Apartemen,Manshon,マンション ,Kata Benda
+Sekolah,Gakkou,がっこう ,Kata Benda
+Hotel,Hoteru,ホテル ,Kata Benda
+Restoran,Resutoran,レストラン ,Kata Benda
+Taman,Kouen,こうえん ,Kata Benda
+Bank,Ginkou,ぎんこう ,Kata Benda
+Kantor Polisi,Keesatsu,けいさつ ,Kata Benda
+Bioskop,Eegakan,えいがかん ,Kata Benda
+Perpustakaan,Toshokan,としょかん ,Kata Benda
+Minimarket,Konbini,コンビニ ,Kata Benda
+Supermarket,Depaato,デパート ,Kata Benda
+Kedai Kopi,Kissaten,きっさてん ,Kata Benda
+Rumah Sakit,Byouin,びょういん ,Kata Benda
+Kantor Pos,Yuubinkyouku,ゆうびんきょく ,Kata Benda
+Mesjid,Mosuku,モスク ,Kata Benda
+Gereja,Kyoukai,きょうかい ,Kata Benda
+Kuil Shinto,Jinja,じんじゃ ,Kata Benda
+Kuil Buddha,Otera,おてら ,Kata Benda
+Museum,Hakubutsukan,はくぶつかん ,Kata Benda
+Museum Seni,Bijutsukan,びじゅつかん ,Kata Benda
+Toko,Mise,みせ ,Kata Benda
+Kedutaan Besar,Taishikan,たいしかん ,Kata Benda
+Pabrik,Koujou,こうじょう ,Kata Benda
+Makanan,Tabemono,たべもの ,Kata Benda
+Nasi,Gohan,ごはん ,Kata Benda
+Roti,Pan,パン ,Kata Benda
+Sereal,Shiriaru,シリアル ,Kata Benda
+Selai,Jamu,ジャム ,Kata Benda
+Mentega,Bataa,バター ,Kata Benda
+Telur,Tamago,たまご ,Kata Benda
+Keju,Chiizu,チーズ ,Kata Benda
+Yoghurt,Yooguruto,ヨーグルト ,Kata Benda
+Daging,Niku,肉 (にく),Kata Benda
+Daging Sapi,Gyuuniku,ぎゅうにく ,Kata Benda
+Daging Ayam,Toriniku,とりにく ,Kata Benda
+Daging Babi,Butaniku,ぶたにく ,Kata Benda
+Beras,Kome,米 (こめ),Kata Benda
+Permen,Ame,あめ ,Kata Benda
+Kue Kering,Kukkii,クッキー ,Kata Benda
+Kue Tar,Keeki,ケーキ ,Kata Benda
+Panekuk Jepang,Dorayaki,どらやき ,Kata Benda
+Coklat,Chokoreeto,チョコレート ,Kata Benda
+Gula,Satou,さとう ,Kata Benda
+Garam,Shio,しお ,Kata Benda
+Kecap,Shouyu,しょうゆ ,Kata Benda
+Saos Tomat,Kechappu,ケチャップ ,Kata Benda
+Tahu,Toufu,とうふ ,Kata Benda
+Lada,Koshou,胡椒 (こうしょう),Kata Benda
+Cuka,Su,酢 (す),Kata Benda
+Rumput Laut,Nori,のり ,Kata Benda
+Wasabi,Wasabi,わさび ,Kata Benda
+Masakan,Ryouri,りょうり ,Kata Benda
+Kare,Karee,カレー ,Kata Benda
+Sandwich,Sandoicchi,サンドイッチ ,Kata Benda
+Salad,Sarada,サラダ ,Kata Benda
+Sup,Suupu,スープ ,Kata Benda
+Steak,Suteeki,ステーキ ,Kata Benda
+Spagetti,Supagethi,スパゲティ ,Kata Benda
+Pasta,Pasuta,パスタ ,Kata Benda
+Kentang Goreng,Furaido Poteto,フライドポテト ,Kata Benda
+Pizza,Piza,ピザ ,Kata Benda
+Hamburger,Hanbaagaa,ハンバーガー ,Kata Benda
+Hot Dog,Hottodoggu,ホットドッグ ,Kata Benda
+Onigiri,Onigiri,おにぎり ,Kata Benda
+Mie Udon,Udon,うどん ,Kata Benda
+Sushi,Sushi,すし ,Kata Benda
+Tempura,Tenpura,てんぷら ,Kata Benda
+Mie Soba,Soba,そば ,Kata Benda
+Sop Miso,Misoshiru,みそしる ,Kata Benda
+Bento,Bentoo,べんとう ,Kata Benda
+Mie Goreng,Yakisoba,やきそば ,Kata Benda
+Mie Kuah,Ramen,ラーメン ,Kata Benda
+Mode,Fasshon,ファッション ,Kata Benda
+Pakaian,Fuku,ふく,Kata Benda
+Seragam,Seifuku,制服 (せいふく),Kata Benda
+Kimono,Kimono,きもの ,Kata Benda
+Yukata,Yukata,ゆかた ,Kata Benda
+Mantel,Kooto,コート ,Kata Benda
+Jaket,Jaketto,ジャケット ,Kata Benda
+Kemeja,Shatsu,シャツ ,Kata Benda
+Sweter,Seetaa,セーター ,Kata Benda
+Rok,Sukaato,スカート ,Kata Benda
+Piyama,Pajama,パジャマ ,Kata Benda
+Sepatu,Kutsu,くつ ,Kata Benda
+Celana,Pantsu,パンツ ,Kata Benda
+Kacamata,Megane,めがね ,Kata Benda
+Topi,Boushi,ぼうし,Kata Benda
+Anting,Piasu,ピアス,Kata Benda
+Cincin,Yubiwa,ゆびわ ,Kata Benda
+Kalung,Nekkuresu,ネックレス ,Kata Benda
+Syal,Sukaafu,スカーフ ,Kata Benda
+Selendang,Mafuraa,マフラー ,Kata Benda
+Pita,Ribon,リボン ,Kata Benda
+Sarung Tangan,Tebukuro,てぶくろ ,Kata Benda
+Ikat Pinggang,Beruto,ベルト,Kata Benda
+Kaus Kaki,Kutsushita,くつした,Kata Benda
+Pakaian Dalam,Shitagi,したぎ,Kata Benda
+Pakaian Luar,Uwagi,うわぎ,Kata Benda
+Saku,Poketto,ポケット,Kata Benda
+Sandal,Sandaru,サンダル,Kata Benda
+Handuk,Taoru,タオル,Kata Benda
+Jas,Suutsu,スーツ,Kata Benda
+Celemek,Epuron,エプロン,Kata Benda
+Sapu Tangan,Hankachi,ハンカチ,Kata Benda
+Jins,Jiinzu,ジーンズ,Kata Benda
+Stoking,Sutokkingu,ストッキング,Kata Benda
+Jilbab,Jirubabu,ジルバブ,Kata Benda
+Hijab,Hijabu,ヒジャブ,Kata Benda
+Tas,Kaban,かばん,Kata Benda
+Januari,Ichigatsu,一月 (いちがつ),Kata Benda
+Februari,Nigatsu,二月 (にがつ ),Kata Benda
+Maret,Sangatsu,三月 (さんがつ ),Kata Benda
+April,Shigatsu,四月 (しがつ),Kata Benda
+Mei,Gogatsu,五月 (ごがつ ),Kata Benda
+Juni,Rokugatsu,六月 (ろくがつ),Kata Benda
+Juli,Shichigatsu,七月 (しちがつ),Kata Benda
+Agustus,Hachigatsu,八月 (はちがつ),Kata Benda
+September,Kugatsu,九月 (くがつ),Kata Benda
+Oktober,Juugatsu,十月 (じゅうがつ),Kata Benda
+November,Juuichigatsu,十一月 (じゅういちがつ),Kata Benda
+Desember,Juunigatsu,十二月 (じゅうにがつ),Kata Benda
+Senin,Getsuyoubi ,月曜日 (げつようび),Kata Benda
+Selasa,Kayoubi ,火曜日 (かようび),Kata Benda
+Rabu,Suiyoubi ,水曜日 (すいようび),Kata Benda
+Kamis,Mokuyoubi ,木曜日 (もくようび),Kata Benda
+Jumat,Kinyoubi ,金曜日 (きんようび),Kata Benda
+Sabtu,Doyoubi ,土曜日 (どようび),Kata Benda
+Minggu,Nichiyoubi ,日曜日 (にちようび),Kata Benda
+Hari ini,Kyoo,今日 (きょう),Kata Benda
+Kemarin,Kinoo,昨日 (きのう),Kata Benda
+Lusa,Asatte,明後日 (あさって),Kata Benda
+Fajar,Yoake,夜明け (よあけ),Kata Benda
+Pagi,Asa,朝 (あさ),Kata Benda
+Tadi Pagi,Kesa,今朝 (けさ),Kata Benda
+Siang,Hiru,昼 (ひる),Kata Benda
+Tengah Hari,Shougo,正午 (しょうご),Kata Benda
+Sore,Yuugata,夕方 (ゆうがた),Kata Benda
+Senja,Yuugure,夕暮れ (ゆうぐれ),Kata Benda
+Malam,Yoru,夜 (よる),Kata Benda
+Tengah Malam,Mayonaka,真夜中 (まよなか),Kata Benda
+Tadi Malam,Yuube,夕べ,Kata Benda
+Masa Depan,Mirai,未来 (みらい),Kata Benda
+Sekarang,Ima,今 (いま),Kata Benda
+Masa Lalu,Kako,過去 (かこ),Kata Benda
+Jam,Jikan,時間 (じかん),Kata Benda
+Menit,Fun,分 (ふん）,Kata Benda
+Detik,Byou,秒 (びょう),Kata Benda
+Malam Ini,Konban,今晩 (こんばん）,Kata Benda
+Besok,Ashita,明日 (あした),Kata Benda
+Setiap Hari,Mainichi,毎日 (まいにち),Kata Benda
+Setiap Pagi,Maiasa,毎朝 (まいあさ),Kata Benda
+Setiap Malam,Maiban,毎晩 (まいばん),Kata Benda
+Minggu Ini,Konshuu,今週 (こんしゅう),Kata Benda
+Minggu Lalu,Senshuu,先週 (せんしゅう),Kata Benda
+Minggu Depan,Raishuu,来週 (らいしゅう),Kata Benda
+Setiap Minggu,Maishuu,まいしゅう ,Kata Benda
+Bulan ini,Kongetsu,こんげつ ,Kata Benda
+Bulan Lalu,Sengetsu,せんげつ ,Kata Benda
+Bulan Depan,Raigetsu,らいげつ ,Kata Benda
+Setiap Bulan,Maitsuki,まいつき ,Kata Benda
+Tahun Ini,Kotoshi,ことし ,Kata Benda
+Tahun Lalu,Kyounen,きょねん,Kata Benda
+Tahun Depan,Rainen,らいねん ,Kata Benda
+Setiap Tahun,Maitoshi,まいとし ,Kata Benda
+Minuman,Nomimono,のみもの ,Kata Benda
+Air Putih,Mizu,水 (みず),Kata Benda
+Air Panas,Oyu,おゆ ,Kata Benda
+Teh Jepang,Ocha,おちゃ ,Kata Benda
+Teh Hitam,Koocha,こうちゃ ,Kata Benda
+Kopi,Koohi,コーヒー ,Kata Benda
+Susu,Miruku,ミルク ,Kata Benda
+Susu Sapi,Gyuunyuu,ぎゅうにゅう ,Kata Benda
+Jus,Juusu,ジュース ,Kata Benda
+Jus Jeruk,Orenji Juusu,オレンジジュース ,Kata Benda
+Minuman Beralkohol,Osake,おさけ ,Kata Benda
+Minuman Anggur,Wain,ワイン ,Kata Benda
+Es Krim,Aisu Kurimu,アイスクリーム ,Kata Benda
+Bir,Biiru,ビール ,Kata Benda
+Wiski,Uisukii,ウイスキー ,Kata Benda
+Arak Jepang,Nihonshu,にほんしゅ ,Kata Benda
+Kola,Koora,コーラ ,Kata Benda
+Ramune,Ramune,ラムネ,Kata Benda
+Tubuh,Karada,体 (からだ),Kata Benda
+Muka,Kao,顔 (かお),Kata Benda
+Dahi,Hitai,額 (ひたい),Kata Benda
+Mata,Me,目 (め),Kata Benda
+Hidung,Hana,鼻 (はな),Kata Benda
+Telinga,Mimi,耳 (みみ),Kata Benda
+Pipi,Hoho,頬 (ほほ),Kata Benda
+Dagu,Ago,顎 (あご),Kata Benda
+Mulut,Kuchi,口 (くち),Kata Benda
+Bibir,Kuchibiru,唇 (くちびる),Kata Benda
+Lidah,Shita,舌 (した),Kata Benda
+Gigi,Ha,歯 (は),Kata Benda
+Gigi Geraham Belakang,Maeba,前歯 (まえば),Kata Benda
+Gigi Seri,Okuba,奥歯 (おくば),Kata Benda
+Gigi Taring,Yaeba,八重歯 (やえば),Kata Benda
+Gusi,Haguki,歯茎 (はぐき),Kata Benda
+Gigi Bungsu,Oyashirazu,親知らず (おやしらず),Kata Benda
+Gigi Taring,Kenshi,犬歯 (けんし),Kata Benda
+Kepala,Atama,頭 (あたま),Kata Benda
+Tengkuk Kepala,Unaji,うなじ,Kata Benda
+Leher,Kubi,首 (くび),Kata Benda
+Jakun,Nodobotoke,喉仏 (のどぼとけ),Kata Benda
+Bahu,Kata,肩 (かた),Kata Benda
+Lengan,Ude,腕 (うで),Kata Benda
+Siku,Hiji,肘 (ひじ),Kata Benda
+Tangan,Te,手 (て),Kata Benda
+Pergelangan Tangan,Tekubi,手首 (てくび),Kata Benda
+Ketiak,Waki,脇 (わき),Kata Benda
+Dada,Mune,胸 (むね),Kata Benda
+Buah Dada,Chibusa,乳房 (ちぶさ),Kata Benda
+Perut,Hara,腹 (はら),Kata Benda
+Pusar,Heso,臍 (へそ),Kata Benda
+Punggung,Senaka,背中 (せなか),Kata Benda
+Pinggang,Koshi,腰 (こし),Kata Benda
+Pantat,Oshiri,お尻 (おしり),Kata Benda
+Kaki,Ashi,足 (あし),Kata Benda
+Paha,Futomomo,太もも (ふたもも),Kata Benda
+Lutut,Hiza,膝 (ほざ),Kata Benda
+Betis,Fukurahagi,脹脛 (ふくらはぎ),Kata Benda
+Jari,Yubi,指 (ゆび),Kata Benda
+Ibu Jari,Oya-yubi,親指 (おやゆび),Kata Benda
+Jari Telunjuk,Hitosashi-yubi,人差し指 (ひとさしゆび),Kata Benda
+Jari Tengah,Naka-yubi,中指 (なかゆび),Kata Benda
+Jari Manis,Kusuri-yubi,薬指 (くすりゆび),Kata Benda
+Jari Kelingking,Ko-yubi,小指 (こゆび),Kata Benda
+Punggung Tangan,Tenokou,手の甲 (てのこう),Kata Benda
+Telapak Tangan,Tenohira,手のひら (てのひら),Kata Benda
+Pergelangan Kaki,Ashikubi,足首 (あしくび),Kata Benda
+Mata Kaki,Kurubushi,踝 (くるぶし),Kata Benda
+Jari Kaki,Ashiyubi,足指 (あしゆび),Kata Benda
+Ujung Jari Kaki,Tsumasaki,つま先 (つまさき),Kata Benda
+Tumit Kaki,Kakato,踵 (かかと),Kata Benda
+Telapak Kaki,Ashinoura,足の裏 (あしのうら),Kata Benda
+Rambut,Kami,髪 (かみ),Kata Benda
+Alis Mata,Mayuge,眉毛 (まゆげ),Kata Benda
+Bulu Mata,Matsuge,まつ毛 (まつげ),Kata Benda
+Kumis,Kuchihige,口髭 (くちひげ),Kata Benda
+Jenggot,Agohige,顎髭 (あごひげ),Kata Benda
+Bulu Hidung,Hanage,鼻毛 (はなげ),Kata Benda
+Bulu Ketiak,Wakige,腋毛 (わきげ),Kata Benda
+Bulu Dada,Munage,胸毛 (むなげ),Kata Benda
+Otak,Nou,脳 (のう),Kata Benda
+Kerongkongan,Shokudou,食道 (しょくどう),Kata Benda
+Tenggorokan,Nodo,喉 (のど),Kata Benda
+Trakea,Kikan,気管 (きかん),Kata Benda
+Paru-paru,Hai,肺 (はい),Kata Benda
+Jantung,Shinzou,心臓 (しんぞう),Kata Benda
+Lambung,I,胃 (い),Kata Benda
+Usus,Chou,腸 (ちょう),Kata Benda
+Usus Besar,Daichou,大腸 (だいちょう),Kata Benda
+Usus Halus,Shouchou,小腸 (しょうちょう),Kata Benda
+Usus Dua Belas Jari,Juunishichou,十二指腸 (じゅうにしちょう),Kata Benda
+Anus,Koumon,校門 (こうもん),Kata Benda
+Rahim,Shikyuu,子宮 (しきゅう),Kata Benda
+Hati,Kanzou,肝臓 (かんぞう),Kata Benda
+Ginjal,Jinzou,腎臓 (じんぞう),Kata Benda
+Limpa,Hizou,脾臓 (ひぞう),Kata Benda
+Tulang,Hone,骨 (ほね),Kata Benda
+Tengkorak,Zugaikotsu,頭蓋骨 (zうがいこつ),Kata Benda
+Otot,Kinniku,筋肉 (きんいく),Kata Benda
+Darah,Ketsueki,血液 (けつえき),Kata Benda
+Pembuluh Darah,Kekkan,血管 (けっかん),Kata Benda
+Pembuluh Nadi,Doumyaku,動脈 (どうみゃく),Kata Benda
+Pembuluh Darah Vena,Joumyaku,静脈 (じょうみゃく),Kata Benda
+Penis,Penisu,ペニス,Kata Benda
+Vagina,Chitsu,膣 (ちつ),Kata Benda
+Sperma,Seishi,精子 (せいし),Kata Benda
+Sel Telur,Ranshi,卵子 (らんし),Kata Benda
+Kulit,Hifu,皮膚 (ひふ),Kata Benda
+Kuku,Tsume,爪 (つめ),Kata Benda
+Kandung Kemih,Boukou,膀胱 (ぼうこう),Kata Benda
+Air Mata,Namida,涙 (なみだ),Kata Benda
+Air Liur,Tsuba,唾 (つば),Kata Benda
+Nafas,Iki,息 (いき),Kata Benda
+Pekerjaan,Shigoto,しごと　 ,Kata Benda
+Profesi,Shokugyou,しょくぎょう,Kata Benda
+Teknisi,Enjinia,エンジニア ,Kata Benda
+Pegawai Negeri,Koumuin,こうむいん ,Kata Benda
+Perawat,Kangoshi,かんごし ,Kata Benda
+Perawat Lansia,Kaigoshi,がくせい ,Kata Benda
+Pelajar,Gakusei,がくせい ,Kata Benda
+Guru,Sensei,せんせい,Kata Benda
+Guru (Profesi),Kyoushi,きょうし ,Kata Benda
+Dosen,Koushi,こうし,Kata Benda
+Profesor,Kyouju,きょうじゅ,Kata Benda
+Peneliti,Kenkyuusha,けんきゅうしゃ,Kata Benda
+Ilmuwan,Gakusha,がくしゃ,Kata Benda
+Ilmuwan Sains,Kagakusha,かがくしゃ,Kata Benda
+Pengusaha,Keieisha,けいえいしゃ,Kata Benda
+Kepala Kantor,Shachou,しゃちょう,Kata Benda
+Kepala Bagian,Buchou,ぶちょう,Kata Benda
+Kepala Seksi,Kachou,かちょう,Kata Benda
+Akuntan,Kaikeishi,かいけいし,Kata Benda
+Konsultan,Konsarutanto,コンサルタント,Kata Benda
+Sekretaris,Hisho,ひしょ,Kata Benda
+Dokter,Isha,いしゃ,Kata Benda
+Dokter Bersertifikat,Ishi,いし,Kata Benda
+Dokter Bedah,Gekai,げかい,Kata Benda
+Dokter Penyakit Dalam,Naikai,ないかい,Kata Benda
+Dokter Gigi,Sikai,しかい,Kata Benda
+Dokter Mata,Gankai,がんかい,Kata Benda
+Dokter Hewan,Juui,じゅうい,Kata Benda
+Apoteker,Yakuzaishi,やくざいし,Kata Benda
+Karyawan,Shain,しゃいん,Kata Benda
+Karyawan Kantor,Kaishain,かいしゃいん ,Kata Benda
+Karyawan Kontrak,Keikyakushain,けえやくしゃいん,Kata Benda
+Karyawan Tetap,Seishain,せいしゃいん,Kata Benda
+Pekerja Paruh Waktu,Arubaito,アルバイト,Kata Benda
+Pengangguran,Mushoku,むしょく,Kata Benda
+Wiraswasta,Jieigyou,じえいぎょう ,Kata Benda
+Ibu Rumah Tangga,Shufu,しゅふ ,Kata Benda
+Petani,Nooka,のおか,Kata Benda
+Jurnalis,Jaanarisuto,じゃアナリスト,Kata Benda
+Wartawan,Kisha,きしゃ,Kata Benda
+Wartawan Koran,Shinbunkisha,しんぶんきしゃ,Kata Benda
+Editor,Henshuusha,へんしゅうしゃ,Kata Benda
+Fotografer,Shashinka,しゃしんか,Kata Benda
+Reporter,Repoota,レポーオター,Kata Benda
+Penyiar,Anaunsaa,アナウンサー,Kata Benda
+Aktor,Danyuu,だにゅう,Kata Benda
+Aktris,Joyuu,じょゆう,Kata Benda
+Penyanyi,Kashu,かしゅ,Kata Benda
+Artis,Aatisuto,アーティスト,Kata Benda
+Idola,Aidoru,アイドル,Kata Benda
+Programmer,Purogurama,プログラマ,Kata Benda
+Perancang Web,Webudezaina,ウェブデザイナー,Kata Benda
+Komikus,Mangaka,まんがか,Kata Benda
+Animator,Animeetaa,アニメーター,Kata Benda
+Ilustrator,Irasutoreetaa,イラストレーター,Kata Benda
+Desainer,Dezainaa,デザイナー,Kata Benda
+Penata Rambut,Biyoushi,びようし,Kata Benda
+Perancang Busana,Fasshondezainaa,ファッションデザイナー,Kata Benda
+Arsitek,Kenchikuka,けんちくか,Kata Benda
+Pelukis,Gaka,がか,Kata Benda
+Pengarang,Sakka,さっか,Kata Benda
+Novelis,Shousetsuka,しょうせつか,Kata Benda
+Musisi,Ongakuka,おんがくか,Kata Benda
+Komponis,Sakkyouka,さっきょうか,Kata Benda
+Presiden,Daitouryou,だいとうりょう,Kata Benda
+Perdana Menteri,Shushou,しゅしょう,Kata Benda
+Menteri,Daijin,だいじん,Kata Benda
+Anggota Parlemen,Kokkaigiin,こっかいぎいん,Kata Benda
+Anggota Parlemen Daerah,Shikaigiin,しかいぎいん,Kata Benda
+Gubernur,Chiji,ちじ,Kata Benda
+Walikota,Shichou,しちょう,Kata Benda
+Politikus,Seijika,せいじか,Kata Benda
+Birokrat,Kanryou,かんりょう,Kata Benda
+Duta Besar,Taishi,たいし,Kata Benda
+Diploma,Gaikoukan,がいこうかん,Kata Benda
+Tentara,Gunjin,ぐんじん　,Kata Benda
+Pemadam Kebakaran,Shouboushi,しょうぼうし,Kata Benda
+Polisi,Keesatsukan,けいさつかん,Kata Benda
+Hakim,Saibankan,さいんばんかん,Kata Benda
+Jaksa,Kenji,けんじ,Kata Benda
+Pengacara,Bengoshi,べんごし,Kata Benda
+Dapur,Daidokoro,だいどころ,Kata Benda
+Penggorengan,Furaipan,フライパン,Kata Benda
+Panci,Nabe,なべ,Kata Benda
+Ketel,Yakan,やかん,Kata Benda
+Pisau,Naifu,ナイフ,Kata Benda
+Talenan,Manaita,まないた,Kata Benda
+Centong Sayur,Otama,おたま,Kata Benda
+Bakul,Zaru,ざる,Kata Benda
+Baki,Obon,おぼん,Kata Benda
+Piring,Sara,さら,Kata Benda
+Mangkok,Chawan,ちゃわん,Kata Benda
+Cangkir,Kappu,カップ ,Kata Benda
+Gelas,Gurasu,グラス,Kata Benda
+Sumpit,Hashi,はし,Kata Benda
+Garpu,Fooku,フォーク,Kata Benda
+Pisau Dapur,Houchou,ほうちょう,Kata Benda
+Sendok,Supuun,スプーン,Kata Benda
+Sedotan,Sutoroo,ストロー,Kata Benda
+Kamar Mandi,Furo,風呂 (ふろ),Kata Benda
+Bak Mandi,Basutabu,バスタブ,Kata Benda
+Shower,Shawaa,シャワー,Kata Benda
+Sampo,Shanpuu,シャンプー,Kata Benda
+Wastafel,Senmendai,せんめんだい,Kata Benda
+Sabun,Sekken,せっけん,Kata Benda
+Toilet,Toire,トイレ,Kata Benda
+Olahraga,Supootsu,スポーツ ,Kata Benda
+Bola,Booru,ボール,Kata Benda
+Bulutangkis,Badominton,バドミントン,Kata Benda
+Sepak Bola,Sakkaa,サッカー,Kata Benda
+Bola Basket,Basuketto-booru,バスケットボール,Kata Benda
+Bola Voli,Baree-booru,バレーボール,Kata Benda
+Golf,Gorufu,ゴルフ,Kata Benda
+Tenis,Tenisu,テニス,Kata Benda
+Tenis Meja,Takkyuu,たっきゅう,Kata Benda
+Baseball,Yakyuu,やきゅう,Kata Benda
+Silat,Shiratto,シラット,Kata Benda
+Karate,Karate,からて,Kata Benda
+Judo,Juudou,じゅうどう,Kata Benda
+Sumo,Sumoo,すもう,Kata Benda
+Kendo,Kendoo,けんどう,Kata Benda
+Gulat,Resuringu,レスリング,Kata Benda
+Tinju,Bokushingu,ボクシング,Kata Benda
+Panahan,Aacherii,アーチェリー,Kata Benda
+Atletik,Rikujou,りくじょう,Kata Benda
+Maraton,Marason,マラソン,Kata Benda
+Senam,Taisou,たいそう,Kata Benda
+Gym,Jimu,ジム,Kata Benda
+Renang,Suiei,すいえい,Kata Benda
+Selancar,Saafin,サーフィン,Kata Benda
+Bowling,Bouringu,ボウリング,Kata Benda
+Jogging,Jogingu,ジョギング,Kata Benda
+Ski,Sukii,スキー,Kata Benda
+Skating Es,Sukeeto,スケート,Kata Benda
+Enak,Oishii,おいしい,Kata Benda
+Tidak Enak,Mazui,まずい,Kata Benda
+Mahal,Takai,高い (たかい) ,Kata Benda
+Murah,Yasui,安い (やすい) ,Kata Benda
+Cepat,Hayai,早い (はやい) ,Kata Benda
+Lambat,Osoi,遅い (おそい) ,Kata Benda
+Manis,Amai,甘い (あまい) ,Kata Benda
+Pedas,Karai,辛い (からい) ,Kata Benda
+Asin,Shiokarai,塩辛い (しおからい) ,Kata Benda
+Asam,Suppai,すっぱい,Kata Benda
+Pahit,Nigai,苦い (にがい) ,Kata Benda
+Panas,Atsui,暑い (あつい),Kata Benda
+"Hangat (Suhu, Cuaca)",Atatakai,暖かい (あたたかい),Kata Benda
+Hangat (Benda),Atatakai,温かい (あたたかい),Kata Benda
+Dingin (Benda),Tsumetai,冷たい (つめたい),Kata Benda
+"Dingin (Suhu, Cuaca)",Samui,寒い (さむい),Kata Benda
+Sejuk,Suzushii,涼しい (すずしい) ,Kata Benda
+Lembab,Mushiatsui,蒸し暑い (むしあつい),Kata Benda
+Terang,Akarui,明るい (あかるい) ,Kata Benda
+Gelap,Kurai,暗い (くらい) ,Kata Benda
+Baru,Atarashii,新しい (あたらしい) ,Kata Benda
+Lama,Furui,古い (ふるい) ,Kata Benda
+Besar,Ookii,大きい (おおきい) ,Kata Benda
+Kecil,Chiisai,小さい (ちいさい) ,Kata Benda
+Bersih,Kirei,きれい ,Kata Benda
+Kotor,Kitanai,汚い (きたない) ,Kata Benda
+Kuat,Tsuyoi,強い (つよい) ,Kata Benda
+Lemah,Yowai,弱い (よわい) ,Kata Benda
+Tinggi,Takai,高い (たかい) ,Kata Benda
+Rendah,Hikui,低い (ひくい) ,Kata Benda
+Jauh,Tooi,遠い (とおい) ,Kata Benda
+Dekat,Chikai,近い (ちかい) ,Kata Benda
+Suka,Suki,好き (すき) ,Kata Benda
+Panjang,Nagai,長い (ながい) ,Kata Benda
+Pendek,Mijikai,短い (みじかい) ,Kata Benda
+Tebal,Atsui,厚い (あつい) ,Kata Benda
+Tipis,Usui,薄い (うすい) ,Kata Benda
+Berat,Omoi,重い (おもい) ,Kata Benda
+Ringan,Karui,軽い (かるい) ,Kata Benda
+Menarik,Omoshiroi,面白い (おもしろい) ,Kata Benda
+Membosankan,Tsumaranai,つまらない ,Kata Benda
+Senang,Ureshii,うれしい ,Kata Benda
+Kesepian,Sabishii,寂しい (さびしい) ,Kata Benda
+Takut,Kowai,怖い (こわい) ,Kata Benda
+Sedih,Kanashii,悲しい (かなしい) ,Kata Benda
+Malu,Hazukashii,恥かしい (はずかしい) ,Kata Benda
+Iri Hati,Urayamashii,羨ましい (うらやましい) ,Kata Benda
+Ngantuk,Nemui,眠い (ねむい) ,Kata Benda
+Khawatir,Shinpai,心配 (しんぱい) ,Kata Benda
+Cemas,Fuan,不安 (ふあん) ,Kata Benda
+Benci,Kirai,嫌い (きらい),Kata Benda
+Suka Sekali,Daisuki,大好き (だいすき) ,Kata Benda
+Benci Sekali,Daikirai,大嫌い (だいきらい) ,Kata Benda
+Tidak Apa-apa,Daijoubu,大丈夫 (だいじょうぶ) ,Kata Benda
+Tidak Boleh,Dame,駄目 (だめ) ,Kata Benda
+Jangan,Ikenai,いけない,Kata Benda
+Imut,Kawaii,可愛い (かわいい),Kata Benda
+Detail,Kuwashii,詳しい (くわしい),Kata Benda
+Sakit,Itai,痛い (いたい) ,Kata Benda
+Cerewet,Urusai,うるさい ,Kata Benda
+Bulat,Marui,丸い (まるい),Kata Benda
+Banyak,Ooi,多い (おおい),Kata Benda
+Sedikit,Sukunai,少ない (すくない),Kata Benda
+Tajam ,Surudoi,鋭い (するどい),Kata Benda
+Benar,Tadashii,正しい (ただしい) ,Kata Benda
+Hebat,Sugoi,すごい ,Kata Benda
+Jelek,Warui,悪い (わるい) ,Kata Benda
+Kejam,Hidoi,ひどい (ひどい) ,Kata Benda
+Langka,Mezurashii,珍しい (めずらしい) ,Kata Benda
+Baik Hati,Yasashii,優しい (やさしい) ,Kata Benda
+Mudah,Yasashii,易しい (やさしい) ,Kata Benda
+Sulit,Muzukashii,難しい (むずかしい) ,Kata Benda
+Berbahaya,Abunai,危ない (あぶない) ,Kata Benda
+Aman,Anzen,安全(あんぜん) ,Kata Benda
+Penting,Daijin,大事 (だいじ) ,Kata Benda
+Penting,Taisestsu,大切 (たいせつ) ,Kata Benda
+Sia-sia,Muda,無駄 (むだ) ,Kata Benda
+Mendadak,Kyuu,急 (きゅう),Kata Benda
+Tampan,Hansamu,ハンサム ,Kata Benda
+Keras Kepala,Ganko,頑固 (がんこ) ,Kata Benda
+Penurut,Sunao,素直 (すなお),Kata Benda
+Egois,Wagamama,わがまま ,Kata Benda
+Menyayangkan,Zannen,残念 (ざんねん),Kata Benda
+Bahagia,Shiawase,幸せ (しあわせ) ,Kata Benda
+Praktis,Benri,便利 (べんり) ,Kata Benda
+Tidak Praktik,Fuben,不便 (ふべん) ,Kata Benda
+Aneh,Hen,変 (へん) ,Kata Benda
+Rumit,Fukuzatsu,複雑 (ふくざつ) ,Kata Benda
+Mudah,Kantan,簡単 (かんたん) ,Kata Benda
+Tegas,Kibishii,厳しい (きびしい) ,Kata Benda
+Rajin,Majime,真面目 (まじめ) ,Kata Benda
+Tidak Rajin,Fumajime,不真面目 (ふまじめ) ,Kata Benda
+Mengganggu,Jama,邪魔 (じゃま) ,Kata Benda
+Ajaib,Fushigi,不思議(ふしぎ) ,Kata Benda
+Sama,Onaji,同じ(おなじ) ,Kata Benda
+Bertemu,Au,合う (あう),Kata Benda
+Mencuci,Arau,洗う (あらう),Kata Benda
+Berkata,Iu,言う (いう),Kata Benda
+Menyanyi,Utau,歌う (うたう),Kata Benda
+Membeli,Kau,買う (かう),Kata Benda
+Mengisap,Suu,吸う (すう),Kata Benda
+Berbeda,Chigau,違う (ちがう),Kata Benda
+Memakai,Tsukau,使う (つかう),Kata Benda
+Mempelajari,Narau,習う (ならう),Kata Benda
+Makan,Taberu,食べる (たべる),Kata Benda
+Minum,Nomu,飲む (わらう),Kata Benda
+Melihat,Miru,見る (みる),Kata Benda
+Berbicara,Hanasu,話す (はなす),Kata Benda
+Menulis,Kaku,書く (かく),Kata Benda
+Berenang,Oyogu,泳ぐ (およぐ),Kata Benda
+Mencintai,Aisuru,愛する (あいする),Kata Benda
+Menjadi,Naru,成る (なる),Kata Benda
+Menekan,Osu,押す (おす),Kata Benda
+Tertawa,Warau,笑う (わらう),Kata Benda
+Bingung,Mayou,迷う (まよう) ,Kata Benda
+Berdiri,Tatsu,立つ (たつ) ,Kata Benda
+Menunggu,Matsu,待つ (まつ) ,Kata Benda
+Berlari,Hashiru,走る (はしる),Kata Benda
+Memerlukan,Kakaru,掛かる (かかる) ,Kata Benda
+Naik (Kendaraan),Noru,乗る (のる) ,Kata Benda
+Naik (Tangga),Agaru,上がる (あがる) ,Kata Benda
+Melewati,Tooru,通る (とおる) ,Kata Benda
+Mendaki,Noboru,登る (のぼる),Kata Benda
+Pulang,Kaeru,帰る (かえる) ,Kata Benda
+Tinggal,Sumu,住む (すむ) ,Kata Benda
+Mati,Shinu,死ぬ (しぬ),Kata Benda
+Membaca,Yomu,読む (よむ) ,Kata Benda
+Istirahat,Yasumu,休む (やすむ) ,Kata Benda
+Bermain,Asobu,遊ぶ (あそぶ)  ,Kata Benda
+Bekerja,Hataraku,働く (はたらく) ,Kata Benda
+Pergi,Iku,行く (いく) ,Kata Benda
+Menarik,Hiku,引く (ひく) ,Kata Benda
+Berjalan,Aruku,歩く (あるく)  ,Kata Benda
+Bergegas,Isogu,急ぐ (いそぐ) ,Kata Benda
+Mengembalikan,Kaesu,返す (かえす) ,Kata Benda
+Mengeluarkan,Dasu,出す (だす) ,Kata Benda
+Menyerahkan,Watasu,渡す (わたす)  ,Kata Benda
+Memaksa,Shiiru,強いる (しいる),Kata Benda
+Memikirkan,Anjiru,案じる (あんじる),Kata Benda
+Menanam,Ueru,植える (うえる) ,Kata Benda
+Mengajar,Oshieru,教える (おしえる) ,Kata Benda
+Mengubah,Kaeru,変える (かえる) ,Kata Benda
+Menjawab,Kotaeru,答える (こたえる) ,Kata Benda
+Mengetahui,Shiru,知る (しる)  ,Kata Benda
+Bertanding,Shiaisuru,試合する (しあいする),Kata Benda
+Melafalkan,Hatsuonsuru,発音する (はつおんする) ,Kata Benda
+Menerangkan,Setsumeisuru,説 明する (せつめいする),Kata Benda
+Bangun,Okiru,起きる (おきる),Kata Benda
+Terjadi,Okoru,起こる (おこる),Kata Benda
+Tidur,Neru,寝る (ねる) ,Kata Benda
+Bodoh (Kasar),Baka,馬鹿 (ばか) ,Kata Benda
+Ada (Benda Hidup),Iru,いる ,Kata Benda
+Ada (Benda Mati),Aru,有る (ある),Kata Benda
+Membuka,Akeru,開ける (あける),Kata Benda
+Mendengar,Kiku,聞く (きく),Kata Benda
+Membuang,Suteru,捨てる (すてる) ,Kata Benda
+Memukul,Utsu,打つ (うつ),Kata Benda
+Meminta,Tanomu,頼む (たのむ) ,Kata Benda
+Berkenalan,Shiriau,知り合う (しりあう) ,Kata Benda
+Menolong,Tetsudau,手伝う (てつだう) ,Kata Benda
+Mengajak,Sasou,誘う (さそう) ,Kata Benda
+Mencuri,Nusumu,盗む (ぬすむ) ,Kata Benda
+Memotong,Kiru,切る (きる) ,Kata Benda
+Menendang,Keru,蹴る (ける) ,Kata Benda
+Mencubit,Tsuneru,抓る (つねる) ,Kata Benda
+Bersaing,Seru,競る (ねる),Kata Benda
+Memuji,Omoneru,阿る (おもねる),Kata Benda
+Menuangkan,Sosogu,注ぐ (そそぐ) ,Kata Benda
+Menambah,Tasu,足す (たす) ,Kata Benda
+Tertolong,Tasukaru,助かる (たすかる),Kata Benda
+Kehilangan,Ushinau,失う (うしなう),Kata Benda
+Membunuh,Korosu,殺す (ころす) ,Kata Benda
+Membusuk,Kusaru,腐る (くさる) ,Kata Benda
+Tertutup,Shimeru,閉める (しめる)  ,Kata Benda
+Membeku,Kooru,‎凍る (こおる),Kata Benda
+Mengeringkan,Kawakasu,乾かす (かわかす) ,Kata Benda
+Mengulang,Kurikaesu,くり返す (くりかえす) ,Kata Benda
+Merusak,Kowasu,壊す (こわす)  ,Kata Benda
+Ini,Kore,これ,Kata Benda
+Itu (Dekat),Sore,それ,Kata Benda
+Itu (Jauh),Are,あれ,Kata Benda
+Halo,Moshi-moshi,もしもし,Kata Benda
+Selamat Datang,Irasshaimase,いらっしゃいませ,Kata Benda
+Selamat Pagi (Formal),Ohayou-gozaimasu,おはようございます,Kata Benda
+Selamat Pagi (Informal),Ohayou,おはよう,Kata Benda
+Selamat Siang,Konnichiwa,こんいちわ,Kata Benda
+Selamat Malam,Konbanwa,こんばんわ,Kata Benda
+Selamat Tidur,Oyasuminasai,おやすみなさい,Kata Benda
+Selamat Makan,Itadakimasu,いただきます,Kata Benda
+Terima Kasih (Formal),Arigatou-gozaimasu,ありがとうございます,Kata Benda
+Terima Kasih (Informal),Arigatou,ありがとうございます,Kata Benda
+Mohon Maaf,Gomennasai,ごめんなさい,Kata Benda
+Mohon Maaf,Sumimasen,すみません,Kata Benda
+Malaikat,Tenshi,天使,Kata Benda
+Ekor,Shippo,しっぽ,Kata Benda
+Bunga Matahari,Himawari,ひまわり,Kata Benda
+Berikutnya,Tsugi,つぎ ,Kata Benda
+Petak Umpet,Kakurenbo,かくれんぼ,Kata Benda
+Cinta Pertama,Hatsukoi,初恋 (はつこい),Kata Benda
+Pacar,Koibito,恋人 (こいびと) ,Kata Benda
+A,A,あ,Kata Benda

@@ -99,7 +99,7 @@ public class IndToJpnActivity extends AppCompatActivity
                 if (BR.find(nextLine[0]))
                 {
                     Result result = new Result(
-                            nextLine[0], nextLine[1], nextLine[2]
+                            nextLine[0], nextLine[1], nextLine[2], nextLine[3]
                     );
                     results.add(result);
                 }
@@ -136,7 +136,7 @@ public class IndToJpnActivity extends AppCompatActivity
             while ((nextLine = reader.readNext()) != null) {
                 if(RC.cari(nextLine[0])) {
                     Result result = new Result(
-                            nextLine[0], nextLine[1], nextLine[2]
+                            nextLine[0], nextLine[1], nextLine[2], nextLine[3]
                     );
 
                     results.add(result);

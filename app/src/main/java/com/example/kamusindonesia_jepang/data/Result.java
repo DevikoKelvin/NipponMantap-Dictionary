@@ -2,29 +2,33 @@ package com.example.kamusindonesia_jepang.data;
 
 public class Result
 {
-    private final String word;
-    private final String translate;
-    private final String desc;
+    private final String indo;
+    private final String romaji;
+    private final String kanji;
+    private final String keterangan;
 
-    public Result(String word, String translate, String desc)
+    public Result(String indo, String romaji, String kanji, String keterangan)
     {
-        this.word = word;
-        this.translate = translate;
-        this.desc = desc;
+        this.indo = indo;
+        this.romaji = romaji;
+        this.kanji = kanji;
+        this.keterangan = keterangan;
     }
 
-    public String getWord()
+    public String getIndo()
     {
-        return word;
+        return indo;
     }
 
-    public String getTranslate()
+    public String getRomaji()
     {
-        return translate;
+        return romaji;
     }
 
-    public String getDesc()
+    public String getKanji()
     {
-        return desc;
+        return kanji;
     }
+
+    public String getKeterangan() { return keterangan;}
 }

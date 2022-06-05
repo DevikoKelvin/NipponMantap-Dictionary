@@ -53,7 +53,7 @@ public class JpnToIndActivity extends AppCompatActivity
 
             if (tieKeyword != null)
             {
-                keyword = tieKeyword.getText().toString();
+                keyword =  tieKeyword.getText().toString();
                 if (!keyword.isEmpty())
                 {
                     getBrDataFromExcel(keyword);
@@ -97,7 +97,7 @@ public class JpnToIndActivity extends AppCompatActivity
                 if (BR.find(nextLine[1]))
                 {
                     Result result = new Result(
-                            nextLine[1], nextLine[0], nextLine[2]
+                            nextLine[0], nextLine[1], nextLine[2], nextLine[3]
                     );
 
                     results.add(result);
@@ -135,7 +135,7 @@ public class JpnToIndActivity extends AppCompatActivity
             while ((nextLine = reader.readNext()) != null) {
                 if(RC.cari(nextLine[1])) {
                     Result result = new Result(
-                            nextLine[1], nextLine[0], nextLine[2]
+                            nextLine[0], nextLine[1], nextLine[2], nextLine[3]
                     );
 
                     results.add(result);

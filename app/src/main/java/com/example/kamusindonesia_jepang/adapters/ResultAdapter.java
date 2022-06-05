@@ -53,24 +53,28 @@ public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ResultHold
 
     static class ResultHolder extends RecyclerView.ViewHolder
     {
-        TextView wordTv;
-        TextView translateTv;
-        TextView descTv;
+        TextView indoTv;
+        TextView romajiTv;
+        TextView kanjiTv;
+        TextView keteranganTv;
+
 
         public ResultHolder(@NonNull View itemView)
         {
             super(itemView);
 
-            wordTv = itemView.findViewById(R.id.tv_word);
-            translateTv = itemView.findViewById(R.id.tv_translate);
-            descTv = itemView.findViewById(R.id.tv_description);
+            indoTv = itemView.findViewById(R.id.tv_indo);
+            romajiTv = itemView.findViewById(R.id.tv_romaji);
+            kanjiTv = itemView.findViewById(R.id.tv_kanji);
+            keteranganTv = itemView.findViewById(R.id.tv_keterangan);
         }
 
         public void bind(Result result)
         {
-            wordTv.setText(result.getWord());
-            translateTv.setText(result.getTranslate());
-            descTv.setText(result.getDesc());
+            indoTv.setText(result.getIndo());
+            romajiTv.setText(result.getRomaji());
+            kanjiTv.setText(result.getKanji());
+            keteranganTv.setText(result.getKeterangan());
         }
     }
 

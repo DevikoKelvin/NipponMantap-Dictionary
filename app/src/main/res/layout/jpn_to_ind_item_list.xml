@@ -11,11 +11,11 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="152dp"
         android:padding="5dp">
 
         <TextView
-            android:id="@+id/tv_word"
+            android:id="@+id/tv_romaji"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
@@ -33,23 +33,23 @@
             android:layout_width="1dp"
             android:layout_height="30dp"
             android:background="?android:attr/listDivider"
-            app:layout_constraintBottom_toBottomOf="@+id/tv_word"
+            app:layout_constraintBottom_toBottomOf="@+id/tv_romaji"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/tv_word" />
+            app:layout_constraintTop_toTopOf="@+id/tv_romaji" />
 
         <TextView
-            android:id="@+id/tv_description"
+            android:id="@+id/tv_kanji"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
             android:layout_marginEnd="8dp"
             android:textSize="18sp"
-            app:layout_constraintBottom_toBottomOf="@+id/tv_word"
+            app:layout_constraintBottom_toBottomOf="@+id/tv_romaji"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/div_ver"
-            app:layout_constraintTop_toTopOf="@+id/tv_word"
-            tools:text="(Object)" />
+            app:layout_constraintTop_toTopOf="@+id/tv_romaji"
+            tools:text="私" />
 
         <View
             android:id="@+id/div_hor"
@@ -64,7 +64,7 @@
             app:layout_constraintTop_toBottomOf="@+id/div_ver" />
 
         <TextView
-            android:id="@+id/tv_translate"
+            android:id="@+id/tv_indo"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
@@ -74,10 +74,41 @@
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="@+id/div_hor"
-            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintHorizontal_bias="0.8"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/div_hor"
+            app:layout_constraintVertical_bias="0.111"
             tools:text="Saya" />
+
+        <View
+            android:id="@+id/div_hor1"
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="14dp"
+            android:layout_marginEnd="8dp"
+            android:background="?android:attr/listDivider"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_indo" />
+
+        <TextView
+            android:id="@+id/tv_keterangan"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="108dp"
+            android:layout_marginEnd="8dp"
+            android:textColor="?android:textColorPrimary"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toEndOf="@+id/div_hor1"
+            app:layout_constraintStart_toStartOf="@+id/div_hor1"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_chainStyle="packed"
+            tools:text="Kata Benda" />
+
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </androidx.cardview.widget.CardView>
