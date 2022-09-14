@@ -69,6 +69,7 @@ public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ResultHold
             keteranganTv = itemView.findViewById(R.id.tv_keterangan);
         }
 
+
         public void bind(Result result)
         {
             indoTv.setText(result.getIndo());

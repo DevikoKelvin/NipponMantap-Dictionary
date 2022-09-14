@@ -3,7 +3,7 @@ package com.example.kamusindonesia_jepang.algorithms;
 public class BR
 {
     char[] pattern, kalimat;
-    int[][] brBc = new int[512][512];
+    int[][] brBc = new int[256][256];
     int a, b, i;
 
     public BR(String X)
@@ -35,9 +35,12 @@ public class BR
     public boolean find(String Y)
     {
         kalimat = Y.toLowerCase().toCharArray();
+
         int n = kalimat.length;
         int j = 0;
+
         char[] y = new char[n + brBc.length];
+
         char c = y[j + pattern.length];
         char d = y[j + pattern.length + 1];
 

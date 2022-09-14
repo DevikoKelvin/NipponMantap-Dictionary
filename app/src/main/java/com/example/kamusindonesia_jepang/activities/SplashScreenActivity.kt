@@ -17,7 +17,7 @@ class SplashScreenActivity : AppCompatActivity() {
 
     companion object
     {
-        private const val delay: Long = 2000
+        private const val delay: Long = 3000
     }
 
     override fun onCreate(savedInstanceState: Bundle?)
